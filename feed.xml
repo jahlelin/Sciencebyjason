@@ -1,0 +1,959 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Science By Jason</title>
+    <link href="https://jahlelin.github.io/Science-By-Jason/feed.xml" rel="self" />
+    <link href="https://jahlelin.github.io/Science-By-Jason" />
+    <updated>2019-10-14T22:24:42-05:00</updated>
+    <author>
+        <name>Jason Moore</name>
+    </author>
+    <id>https://jahlelin.github.io/Science-By-Jason</id>
+
+    <entry>
+        <title>How To Differentiate Trig Functions</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://jahlelin.github.io/Science-By-Jason/how-to-differentiate-trig-functions.html"/>
+        <id>https://jahlelin.github.io/Science-By-Jason/how-to-differentiate-trig-functions.html</id>
+
+        <updated>2019-10-14T21:52:58-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This article is about how to differentiate trig functions. It is very common to have to do this. Learning the relations and definitions of the functions will help a lot. Simplifying problems will make them much easier. In every problem you should always look to simplify first and then see what options remain. In this article I will go over several examples step by step.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This article is about how to differentiate trig functions. It is very common to have to do this. Learning the relations and definitions of the functions will help a lot. Simplifying problems will make them much easier. In every problem you should always look to simplify first and then see what options remain. In this article I will go over several examples step by step.</p>
+
+<p>&nbsp;</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>How To Use Stellarium</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://jahlelin.github.io/Science-By-Jason/how-to-use-stellarium.html"/>
+        <id>https://jahlelin.github.io/Science-By-Jason/how-to-use-stellarium.html</id>
+
+        <updated>2019-10-14T21:52:58-05:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>How To Differentiate Algebra Functions</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://jahlelin.github.io/Science-By-Jason/how-to-differentiate-algebra-functions.html"/>
+        <id>https://jahlelin.github.io/Science-By-Jason/how-to-differentiate-algebra-functions.html</id>
+
+        <updated>2019-10-14T21:52:58-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://jahlelin.github.io/Science-By-Jason/media/posts/28/differentiate-algebra-functions-0.png" alt="" />
+                    <p>Learning to differentiate algebra functions is not hard but involves learning a few rules and some practice. In this article I want to go over these rules which will help you analyze these functions. For each example I also include a graph so you can see what the function is doing visually.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://jahlelin.github.io/Science-By-Jason/media/posts/28/differentiate-algebra-functions-0.png" alt="" />
+                <p>Learning to differentiate algebra functions is not hard but involves learning a few rules and some practice. In this article I want to go over these rules which will help you analyze these functions. For each example I also include a graph so you can see what the function is doing visually.</p>
+
+<p>&nbsp;</p>
+<h2 style="text-align: center;"><strong>Differentiate Algebra Functions</strong></h2>
+<p>When you want to differentiate algebra functions there are a couple main rules. The most useful and popular is the power rule. It should be used first whenever there is an opportunity as it is the easiest. If the power rule for functions does not apply then go to the chain rule. It is very versatile and uses substitution to do it magic. Another special use for the chain rule is that it can handle any amount of variables. These two rules together can solve most derivative equations. Remember these are also just tools. Whether you are differentiating or integrating later on, learn these useful tools and keep them in your head.</p>
+<h2 style="text-align: center;"><strong>The Power Rule</strong></h2>
+<p>The <a href="https://www.mathsisfun.com/calculus/power-rule.html">power rule</a> is a very used tool when looking for a derivative. Unlike more primitive methods that you might learn first, this is actually a technique you will use often. So lets define what the power rule is and how you use it to differentiate algebra functions. If you have something like this:</p>
+<p>$$ y = x^3  $$</p>
+<p>The derivative of y with respect to x is n(x) and subtract 1 from the exponent. If that sounds confusing, look at it visually. The simple answer would be:</p>
+<p>$$ y = 3x^2 $$</p>
+<p>So what did we do there? Well we have an exponent of 3. We copy that and move it in front of X. So we have 3x. Now subtract 1 from the exponent which is 3-1=2. 2 is now the exponent. Our expression is now just</p>
+<p>$$ 3x^2 $$</p>
+<p>as mentioned above.</p>
+<p>Something I need to mention before I forget. The phrase "the derivative of y with respect to x" has its own notation. This is:</p>
+<p>$$ \frac{dy}{dx} $$</p>
+<p>This means the exact same thing. It is not an expression or fraction either so don't get confused.</p>
+<h2 style="text-align: center;"><strong>The Chain Rule</strong></h2>
+<p>The chain rule is your next tool that you will use often. This is how it is traditionally defined. When y = f(u) and u = f(x) then the derivative is:</p>
+<p>$$ \frac{dy}{dx} = \frac{dy}{du} * \frac{du}{dx} $$</p>
+<p>There are two variables here (u and x) but the chain rule can handle any number of variables. This will be handy later on. Lets try some examples now.</p>
+<h2><strong>Example 1</strong></h2>
+<p>Find the derivative of $$ y = x^{3b} $$ .</p>
+<p><img class="aligncenter wp-image-4885 size-full" src="https://jahlelin.github.io/Science-By-Jason/media/posts/28/differentiate-algebra-functions-1.png" alt="differentiate algebra functions " width="1416" height="899" /></p>
+<p>Ok remember the exponent rules. Bring down the exponent in front of the term and subtract one from the exponent. That gives us:</p>
+<p>$$ \frac{dy}{dx} = 3b * (x^{3b-1}) $$</p>
+<p>It is just the simple combination of terms as the answer, which is $$ 3bx^{3b-1} $$</p>
+<h2><strong>Example 2</strong></h2>
+<p>Next we want to find the derivative of $$ y = (2x^3 - 5x^2 + 4)^5 $$</p>
+<p><img class="aligncenter size-large wp-image-4886" src="https://jahlelin.github.io/Science-By-Jason/media/posts/28/differentiate-algebra-functions-2-1024x645.png" alt="differentiate algebra functions" width="1024" height="645" /></p>
+<p>You will see this looks weird but just take it step by step. It is two main parts. It is often explained by taking the outside derivative and then the inside derivative. You can use the power rule each way. So lets do the outside first. That will be:</p>
+<p>$$ 5(2x^3 - 5x^2 + 4)^4 $$ and the inside is $$ 6x^2 -10x $$</p>
+<p>Just combine the two and we will get $$ 5(2x^3 - 5x^2 + 4)^4(6x^2 -10x) $$</p>
+<h2><strong>Example 3</strong></h2>
+<p>Lets try this one now, $$ y = (x^2 + 2)^3 $$</p>
+<p><img class="aligncenter size-large wp-image-4887" src="https://jahlelin.github.io/Science-By-Jason/media/posts/28/differentiate-algebra-functions-3-1024x653.png" alt="differentiate algebra functions " width="1024" height="653" /></p>
+<p>This is a chain rule again. Take the outside derivative and then the inside derivative. Afterwards, just combine the two expressions.</p>
+<p>$$ 3(x^2 + 2)^2 $$ is the outside and $$ 2x $$ is the inside.</p>
+<p>So our answer is $$ 3(x^2 + 2)^2 (2x) $$</p>
+<h2><strong>Example 4</strong></h2>
+<p>Find the derivative of $$ y = (x^3 - 4)^5 $$</p>
+<p><img class="aligncenter size-large wp-image-4888" src="https://jahlelin.github.io/Science-By-Jason/media/posts/28/differentiate-algebr-functions-4-1024x654.png" alt="differentiate algebra functions" width="1024" height="654" /></p>
+<p>Take the outside derivative and then the derivative inside.</p>
+<p>$$ \frac{d}{dx} ((x^3 - 4)^5) * \frac{d}{dx} (x^3 - 4) $$</p>
+<p>That is the outside * the inside. So after taking the derivatives we get:</p>
+<p>$$ 5(x^3 - 4)^4 (3x^2) $$</p>
+<h2><strong>Example 5</strong></h2>
+<p>Here is another straight forward problem. Find the derivative of $$ y = (2x^2 + 3x)^{10} $$</p>
+<p><img class="aligncenter size-large wp-image-4889" src="https://jahlelin.github.io/Science-By-Jason/media/posts/28/differentiate-algebra-functions-5-1024x650.png" alt="differentiate algebra functions" width="1024" height="650" /></p>
+<p>Just like the others, take the derivative of the outside and then take derivative of the inside. Combine them after that.</p>
+<p>$$ 10(2x^2 + 3x)^9 (4x + 3) $$</p>
+<p>That should be fairly straight forward by now. No fancy tricks needed.</p>
+<h2><strong>Example 6</strong></h2>
+<p>Find the derivative of $$ y = \sqrt{2x^3 - 4x + 5} $$</p>
+<p><img class="aligncenter size-large wp-image-4890" src="https://jahlelin.github.io/Science-By-Jason/media/posts/28/differentiate-algebra-functions-6-1024x646.png" alt="differentiate algebra functions" width="1024" height="646" /></p>
+<p>You can see this is an expression with a square root. A square root is the same as an exponent to the half power. This expression can be rewritten as:</p>
+<p>$$ y = (2x^3 - 4x + 5)^\frac{1}{2} $$</p>
+<p>Now we just apply the same rules that we are already used to. You will notice that in Calculus, rewriting an expression is sometimes half the battle. You will know certain rules and have tools to deal with certain kinds of expressions but you need them in the right form. So it will be important to recognize when you need to rewrite something to make it work for you.</p>
+<p>We continue like usual. Take the derivative of the outside and then the inside. It looks like this.</p>
+<p>$$ \frac{1}{2}(2x^3 - 4x + 5)^{-\frac{1}{2}} (6x^2 - 4) $$</p>
+<h2><strong>Example 7</strong></h2>
+<p>Next, find this derivative. $$ y = \sqrt{x^2 + 1} $$</p>
+<p><img class="aligncenter size-large wp-image-4891" src="https://jahlelin.github.io/Science-By-Jason/media/posts/28/differentiate-algebra-functions-7-1024x655.png" alt="differentiate algebra functions" width="1024" height="655" /></p>
+<p>First, we rewrite the problem to get rid of the root expression.</p>
+<p>$$ y = (x^2 + 1)^\frac{1}{2} $$</p>
+<p>As before, we take the derivative of the outside expression and then take the inside derivative. Then we combine the expressions.</p>
+<p>$$ \frac{1}{2} (x^2 + 1)^{-\frac{1}{2}} (2x) $$</p>
+<p>That is our answer.</p>
+<h2><strong>Example 8</strong></h2>
+<p>Find the derivative of $$ y = \sqrt{3x^2 + 4} $$</p>
+<p><img class="aligncenter size-large wp-image-4892" src="https://jahlelin.github.io/Science-By-Jason/media/posts/28/differentiate-algebra-functions-8-1024x647.png" alt="differentiate algebra functions" width="1024" height="647" /></p>
+<p>Rewrite the expression to get rid of the root and get an exponent.</p>
+<p>$$ y = (3x^2 + 4)^\frac{1}{2} $$</p>
+<p>Now we can work with it. Take the outside derivative and then the inside derivative. We get:</p>
+<p>$$ \frac{1}{2}(3x^2 + 4)^{-\frac{1}{2}} (6x) $$</p>
+<h2><strong>Example 9</strong></h2>
+<p>Find the derivative of $$ y = \sqrt[3]{4 - t} $$</p>
+<p><img class="aligncenter size-large wp-image-4893" src="https://jahlelin.github.io/Science-By-Jason/media/posts/28/differentiate-algebra-functions-9-1024x650.png" alt="differentiate algebra functions " width="1024" height="650" /></p>
+<p>This problem is slightly different. You can see it has a cube root. It will follow the same rules as a square root though. The expression is to the 1/3 power. It looks like this.</p>
+<p>$$ y = (4 - t)^\frac{1}{3} $$</p>
+<p>Now we just use the chain rule like we have been all along. Take the derivative of the outside expression and then the inside derivative.</p>
+<p>$$ y = \frac{1}{3} (4 - t)^{-\frac{2}{3}} (-1) $$</p>
+<h2><strong>Example 10</strong></h2>
+<p>Find the derivative of $$ y = \sqrt[3]{t^3 + 3t + 1} $$</p>
+<p><img class="aligncenter size-large wp-image-4894" src="https://jahlelin.github.io/Science-By-Jason/media/posts/28/differentiate-algebra-functions-10-1024x642.png" alt="differentiate algebra functions " width="1024" height="642" /></p>
+<p>This is another cube root expression. It will follow the same rules as the other root expressions.</p>
+<p>$$ y = (t^3 + 3t + 1)^\frac{1}{3} $$</p>
+<p>That should look familiar now. Lets use the chain rule again. Once again its time to take the outside derivative and then the inside derivative.</p>
+<p>$$ y = \frac{1}{3} (t^3 + 3t +1)^{-\frac{2}{3}} (3t^2 + 3) $$</p>
+<p>We have a good answer there.</p>
+<h2><strong>Example 11</strong></h2>
+<p>Find the derivative of $$ y = \frac{1}{4x^3 + 5x^2 - 7x + 8} $$</p>
+<p><img class="aligncenter size-large wp-image-4895" src="https://jahlelin.github.io/Science-By-Jason/media/posts/28/differentiate-algebra-functions-11-1024x652.png" alt="differentiate algebra functions " width="1024" height="652" /></p>
+<p>You will see everything is in the denominator. I am sure you think this will be real fun! Well it won't be near as bad as you are thinking. Remember what I said earlier about rewriting problems to make it easier for you? This is exactly what we are going to do here.</p>
+<p>Lets start by moving the denominator up to the numerator. We reverse the exponent when we do this. It looks like this.</p>
+<p>$$ y = (4x^3 + 5x^2 - 7x + 8)^{-1} $$</p>
+<p>Now we use the chain rule as before. Take the outside derivative and then combine with the inside derivative. It will look like this.</p>
+<p>$$ y = -1(4x^3 + 5x^2 - 7x + 8)^{-2} (12x^2 + 10x -7) $$</p>
+<p>That is our answer. You could move the expression with the -2 power to the denominator if you wanted but I view that as a formality. Everyone knows you can do that. If you have to give a more precise answer then do that as it will make it easier.</p>
+<h2><strong>Example 12</strong></h2>
+<p>Find the derivative of $$ y = x^3 - 2\sqrt{3x^2 + 4} $$</p>
+<p><img class="aligncenter size-large wp-image-4896" src="https://jahlelin.github.io/Science-By-Jason/media/posts/28/differentiate-algebra-functions-12-1024x654.png" alt="differentiate algebra functions " width="1024" height="654" /></p>
+<p>This is another slightly different type of problem. Take it step by step. We will separate the constant from the root and do the other parts as normal. First, take derivative of the first term.</p>
+<p>$$ 3x^2 - 2\sqrt{3x^2 + 4} $$</p>
+<p>Now lets rewrite the root portion of the problem.</p>
+<p>$$ 3x^2 - (3x^2 + 4)^{\frac{1}{2}} $$</p>
+<p>It is time for the chain rule now. Take the derivative of the outside portion.</p>
+<p>$$ 3x^2 - \frac{1}{2}(3x^2 + 4)^{-\frac{1}{2}} $$</p>
+<p>Lets take the derivative of the inside portion now.</p>
+<p>$$ 3x^2 - \frac{1}{2} (3x^2 + 4)^{-\frac{1}{2}} (6x) $$</p>
+<p>That will do for an answer. As with all of these problems you can simply further if you need a more precise answer. That is just a reducing exercise so we don't need to do it at this point.</p>
+<h2 style="text-align: center;"><strong>Conclusion</strong></h2>
+<p>That is several exercises on how to differentiate algebra functions. Hopefully you feel comfortable with these types of problems now. Remember to rewrite a problem if you need to. There are many times when it makes it easier for you.</p>
+<p>If you enjoyed this article or found it useful please see my other articles and feel free to share this site with your friends. I try to write helpful guides and hope i succeed. I have articles over <a href="http://sciencebyjason.com/beginning-calculus-rate-of-change/">rate of change</a>, and <a href="http://sciencebyjason.com/beginning-calculus-problems-with-limits/">limits.</a></p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>How The Sun Works</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://jahlelin.github.io/Science-By-Jason/how-the-sun-works.html"/>
+        <id>https://jahlelin.github.io/Science-By-Jason/how-the-sun-works.html</id>
+
+        <updated>2019-10-14T21:52:58-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://jahlelin.github.io/Science-By-Jason/media/posts/27/how-the-sun-works-0.jpg" alt="" />
+                    <p>In this paper I want to describe how the sun works. I will also comment about its properties and how it affects us here on Earth with its radiation. Our Sun is a star and is the closest one to us by far. That gives us the opportunity to study it more closely than any other star.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://jahlelin.github.io/Science-By-Jason/media/posts/27/how-the-sun-works-0.jpg" alt="" />
+                <p>In this paper I want to describe how the sun works. I will also comment about its properties and how it affects us here on Earth with its radiation. Our Sun is a star and is the closest one to us by far. That gives us the opportunity to study it more closely than any other star.</p>
+
+<h2 style="text-align: center;"><strong>How The Sun Works</strong></h2>
+<p>I want to start out by saying that our Sun is our only source of heat. Without it, our planet Earth would freeze and us along with it. We would not survive. That is how important this <a href="http://sciencebyjason.com/star-classifications-life-cycles/">star</a> is to our survival. So what is a star? It is a sphere of extremely hot gas. Strong gravity is what helps the Sun hold its shape and keep all this gas in one place. In the center of the Sun are constant nuclear reactions that keep the engine turning.</p>
+<h2 style="text-align: center;"><strong>Properties Of The Sun</strong></h2>
+<p>The Sun is quite large by our standards. It's radius was measured to be almost 700,000 kilometers and diameter to be 1,400,000 km. This measurement was made by the <a href="https://en.wikipedia.org/wiki/Solar_and_Heliospheric_Observatory">SOHO</a> spacecraft a few years ago. It also rotates just like us here. Rotation is different though according to the location on the Sun. It is faster at the equator than towards its poles. This is called differential rotation. Since its rotation is differential, we can infer that the Sun is not solid and is instead gaseous and fluid. Complete rotation takes about a month. The temperature is pretty hot at around an average 5800 kelvin.</p>
+<p>The Suns's radiation reaches us here on Earth. Its energy is what gives us warmth and allows us to live. Different amounts reach here depending on the location. The equator gets more than our poles. That is because the equator faces the Sun more. Earth is tilted after all. The poles get very little radiation and is why they are so much colder.</p>
+<h2 style="text-align: center;"><strong>Layout Of The Sun</strong></h2>
+<p>The layout of our star has been quite organized by those studying it. It is divided into several regions. Those regions are the photosphere, chromosphere, transition zone, corona, convection zone, radiation zone and its central core. These zones all serve different functions. Studying them will explain how the Sun works and allow greater understanding of our universe.</p>
+<p>The photosphere is what we see when looking toward the Sun. It is also where most of the light comes from. It takes 8 minutes for the Sun's light to reach us here on Earth and it constantly bombards us.</p>
+<h2 style="text-align: center;"><strong>Brightness Of The Sun</strong></h2>
+<p>We know that the Sun gives off a lot of radiation. How do we know that? Look at the light during the daytime. Light is the Sun's radiation. Most people do not think about that. We can measure this light as well. There is a solar constant which is the amount of light that hits a given spot of a certain size. At first we thought this was very constant. That is reported anyway. I do not believe it is that constant all the time and that it can vary a lot. When it gets very cold  or hotter than normal for a period of years, this is the Sun being variable. This has happened throughout recorded history and is most likely what is happening instead of global warming due to mankind. A lot of the Sun's light does not even reach us. Only a tiny fraction gets through to us. That is important to realize when you consider our hot days during the summer. Only a very tiny fraction comes through space and past our atmosphere.</p>
+<h2 style="text-align: center;"><strong>Standard Solar Model</strong></h2>
+<p>Since we are not able to directly observe the interior of the Sun we have to make assumptions based off of things we do know. Putting all these assumptions together is called a model. So we have an information model of the Sun that we work from. It comes from a little direct observation and various laws of the universe that are already in place and accepted. Specifically these are the laws of energy, momentum, and mass. Now when physicists put all these things together they are assuming the Sun is a perfect sphere and radiates energy outwardly in an even fashion. The reason this is done is that is because non-uniformity increases the complexity of these problems immensely. Most actually think this is still pretty accurate as well.</p>
+<h2 style="text-align: center;"><strong>Hydrostatic Equilibrium</strong></h2>
+<p>As we talk about how the Sun works it is important to know about its hydrostatic equilibrium. What this means is that its pressure and gravitational forces are close to equal most of the time. This is actually one of the reasons we assume that its energy output is fairly equal in all directions. Most stars will also stay in equilibrium too. The reason for this is that these forces self-regulate. If one force gets increased by an external factor it can usually balance itself out. This is also one of the reasons why stars and objects like them can be so long-lasting.</p>
+<h2 style="text-align: center;"><strong>Energy Transport Inside The Sun</strong></h2>
+<p>Since the Sun is so hot near its core, collisions between particles happen continually. These collisions carry energy. Now we know that the temperature drops the further from the core that you get. This is important because electrons will stay with their atoms easier. Electrons carry energy in their excited states. You may see a problem by now. How does energy move to the surface and beyond then? The way it moves is by convection. This is how energy escapes the Sun and is very important as to how the Sun works.</p>
+<h2 style="text-align: center;"><strong>Granulated Cells</strong></h2>
+<p>When looking at pictures of the Sun's surface you will see many granulated regions. These are huge areas of intense heat. The granulated regions appear to be different colors. Color is mostly dependent on the temperature of individual cells.</p>
+<h2 style="text-align: center;"><strong>Spectral Lines Of The Sun</strong></h2>
+<p>Spectral lines appear when electrons change states. When doing tests we can use these lines to see the composition of what we are studying. Spectral lines of the Sun can tell us the elements that constitute it. However, these lines also give evidence that the temperature of the Sun decreases as you get away from the photosphere.</p>
+<h2 style="text-align: center;"><strong>Chromosphere</strong></h2>
+<p>This is a region just above the photosphere. It is much dimmer and a little cooler than the photosphere also. The chromosphere spawns solar storms that sends out spicules into the atmosphere. It is approximately 4000 km deep. The temperature of the chromosphere is also unusual because its area around the photosphere is cooler than at the top of the chromosphere. Usually anything gets cooler the further from its core it gets. So this makes the chromosphere of the Sun quite unusual. Shockwaves from the photosphere move into the chromosphere at a high velocity. This helps in heating the surrounding areas.</p>
+<h2 style="text-align: center;"><strong>The Corona</strong></h2>
+<p>The corona is a fascinating region of the Sun's atmosphere. Elements arising from this area are in much different forms than anywhere else. Coronal temperatures are much higher on average than the photosphere even. Temperatures of 3-15 million k are common here. That is extraordinary. Intuition says there must be something else causing the heat instead of just the core. It is not clear what this mechanism is though.</p>
+<p>For all of its heat, it is not very bright. We normally see it during eclipses. Magnetic forces move energy into the corona. This produces its high temperatures. The corona constantly leaks into space with the solar wind carrying its particles far and in most directions at once.</p>
+<h2 style="text-align: center;"><strong>Solar Wind</strong></h2>
+<p>The Sun's solar wind is not really a wind in the sense that we know it. It is more akin to a stream of radiation and particles that have been ejected at super high speeds. As far as we know <a href="http://sciencebyjason.com/astronomy-for-beginners-radiation/">radiation</a> and particles are ejected outwardly in an even fashion. It all comes from the corona itself because the temperatures are so high there.</p>
+<h2 style="text-align: center;"><strong>Magnetism</strong></h2>
+<p>Magnetism is one of my favorite subjects. It is no less interesting or relative when talking about how the Sun works. Our Sun has a very strong magnetic field. Its mechanisms and insides follow the electromagnetic laws. Astronomers do not know where its magnetism is created though. Many are still studying this. If I was to guess I would say the magnetic forces are created constantly. The reason I say this is because the high temperatures separate molecules and atoms into individual particles. When these particles are then moved by the abundant energy all around them, they create magnetic fields. Since temperatures everywhere in the Sun are so hot this happens a lot. That is my take on it. I could be totally off but we will see.</p>
+<h2 style="text-align: center;"><strong>Sunspots Within The Sun</strong></h2>
+<p>Sunspots are dark patches that often appear on the Sun's surface. They are quite large, about the size of Earth actually. Sometimes they appear singularly but also in groups. They appear dark because their temperatures are lower than the area around them. When seen up close they have a darker core and a slightly lighter area around the core.</p>
+<p>The sunspots are all on a cycle. Most people think its around 11 years but others think there could be even larger cycles. As we get more data on how the Sun works this will be more evident. What this all means is there are quiet periods and there are raucous times as well.</p>
+<h2 style="text-align: center;"><strong>The Magnetic Field</strong></h2>
+<p>Magnetic fields within sunspots are pretty strong. They are much stronger than here on Earth. Since they are so strong, they redirect convection currents. This is what makes the sunspots darker and cooler than surrounding cells. Magnetic fields always have a polarity as well. This means the direction in which the field runs. Currents and particles seem to follow the same direction as the field lines. Sunspots in the northern hemisphere have opposite field directions as those in the southern hemisphere.</p>
+<h2 style="text-align: center;"><strong>Cycles Of The Sun</strong></h2>
+<p>This is still in regards to sunspots but it is still key to understanding how the Sun works. <a href="http://sciencebyjason.com/how-modern-astronomy-evolved/">Astronomers</a> have been observing the Sun for hundreds of years. During this time there are a few things they have noticed and passed down to later generations. One of these is that solar sunspots are quite variable and prone to change. Sizes, shapes, and durations of sunspots all change constantly. Our Sun does have a long cycle in which sunspots are more common. It is 22 years. We can further break this down into two 11-year periods though. During each 11-year period the polarities reverse.</p>
+<h2 style="text-align: center;"><strong>Solar Flares</strong></h2>
+<p>Solar flares are born of the chaos of changing magnetic fields. They produce incredible amounts of energy. Energy is visible in multiple frequencies so we can study them with x-ray and ultraviolet detectors. They are basically very powerful explosions that occur on the Sun's surface.</p>
+<h2 style="text-align: center;"><strong>What Powers The Sun</strong></h2>
+<p>Everyone knows the Sun gives off lots of energy. The thing is, it continually does this and has done so for a long time. It is common sense that there must be some renewable source of energy and this mechanism is very efficient. This mechanism is nuclear fusion. Nuclear fusions is when two nuclei are joined together. A third nuclei is then formed. However, this third nuclei is smaller than the two previous nuclei. When this happens energy is created because that missing mass has to go somewhere. This is Einstein's $$ E = mc^2 $$ law. It predicts the energy released when this happens. This is what is constantly happening in the Sun and is fundamental to how the Sun works.</p>
+<h2 style="text-align: center;"><strong>Conclusion</strong></h2>
+<p>Hopefully by now you understand some of the basics of our parent star. There are so many fascinating details to study I could not even include everything. There are also newer but untested ideas being presented constantly. It will be quite interesting indeed to see what ultimately develops. I hope that I have shown how the Sun works to a sufficient degree here. If you have any questions please comment below and I will answer. Have a great day!</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>How To Solve Rates Of Change Problems</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://jahlelin.github.io/Science-By-Jason/how-to-solve-rates-of-change-problems.html"/>
+        <id>https://jahlelin.github.io/Science-By-Jason/how-to-solve-rates-of-change-problems.html</id>
+
+        <updated>2019-10-14T21:52:58-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://jahlelin.github.io/Science-By-Jason/media/posts/26/rate-of-change-0.png" alt="" />
+                    <p>Solving rates of change problems is a fundamental skill of Calculus. These basic derivatives lead to more interesting concepts later on. So it is vital you get these down and know all the ways of dealing with them. In this article I want to show how you solve basic derivatives and get good accurate answers.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://jahlelin.github.io/Science-By-Jason/media/posts/26/rate-of-change-0.png" alt="" />
+                <p>Solving rates of change problems is a fundamental skill of Calculus. These basic derivatives lead to more interesting concepts later on. So it is vital you get these down and know all the ways of dealing with them. In this article I want to show how you solve basic derivatives and get good accurate answers.</p>
+
+<h2 style="text-align: center;"><strong>How To Solve Rates Of Change Problems<br />
+</strong></h2>
+<p>One of the easiest techniques to use is called the difference method. When you put a curve on a graph it will have an infinite number of points between its starting and ending points. If you take any two points on this curve you can draw a straight line to connect them. This straight line might be perfectly flat with respect to the x-axis, go up, or go down.</p>
+<p>The line that we drew will have a certain length according to the points on the graph. Length will equal the number of points on the graph that it moves through then. The line will also have a certain amount of points it moves up or down. This value could be 0, positive, or negative. If you divide this change in y by the change in x you will get the slope of the curve in between those two points. This will be important to remember as we move towards <a href="http://sciencebyjason.com/beginning-calculus-problems-with-limits/">limits</a> eventually.</p>
+<h3>Problem 1</h3>
+<p>Find the slope of the curve at the point (1,5).</p>
+<p>$$ y= 3x^2 -2x +4 $$</p>
+<p>The curve looks like this.</p>
+<p><img class="aligncenter size-large wp-image-4827" src="https://jahlelin.github.io/Science-By-Jason/media/posts/26/rate-of-change-0-1-1024x638.png" alt="rate of change 1" width="1024" height="638" /></p>
+<p>We will use the difference formula to solve basic derivatives for now.</p>
+<p>$$ \frac{3(x + \bigtriangleup x)^2 - 2(x + \bigtriangleup x) + 4 - (3x^2 -2x + 4)}{\bigtriangleup x} $$</p>
+<p>Lets multiple out these terms.</p>
+<p>$$ \frac{3x^2 + 6x\bigtriangleup x + 3(\bigtriangleup x)^2 -2x - 2\bigtriangleup x +4 -3x^2 + 2x - 4} {\bigtriangleup x} $$</p>
+<p>We can simplify this a lot now.</p>
+<p>$$ \frac{6x\bigtriangleup x + 3(\bigtriangleup x)^2 - 2\bigtriangleup x} {\bigtriangleup x} $$</p>
+<p>Further reducing this give us:</p>
+<p>$$ 6x + 3\bigtriangleup x - 2 $$</p>
+<p>This gives us:</p>
+<p>$$ 6x - 2 $$</p>
+<p>Our point we are evaluating is (1,5). The x-value of this point is 1. Substitute 1 for x in what is left of our equation.</p>
+<p>$$ 6(1) - 2 $$</p>
+<p>$$ 4 $$ is our slope at this point and the rate of change on the curve we are given.</p>
+<p>&nbsp;</p>
+<h2><strong>Problem 2</strong></h2>
+<p>Find the instantaneous rates of change of :</p>
+<p>$$ y = \frac{2x}{x + 1} $$</p>
+<p>when x = 2.</p>
+<p><img class="aligncenter size-large wp-image-4828" src="https://jahlelin.github.io/Science-By-Jason/media/posts/26/rate-of-change-2-1024x777.png" alt="rate of change 2" width="1024" height="777" /></p>
+<p>First we need to find:</p>
+<p>$$ \frac{\bigtriangleup y}{\bigtriangleup x} $$</p>
+<p>This basically says to find the change in y over the change in x. However, there is more to solving this.</p>
+<p>What we are really saying is this.</p>
+<p>$$ \bigtriangleup y = f(x + \bigtriangleup x) - f(x) $$</p>
+<p>The original problem tells us that:</p>
+<p>$$ y = \frac{2x}{x + 1} $$</p>
+<p>Remember that  y = f(x) and we are trying to find the change in y. So the change in y is:</p>
+<p>$$ f( x + \bigtriangleup x) = \frac{2(x + \bigtriangleup x)}{x + \bigtriangleup x + 1} $$</p>
+<p>Now we substitute what we know into this so far.</p>
+<p>$$ \bigtriangleup y = \frac{ 2x  + 2\bigtriangleup x}{x + \bigtriangleup x + 1} - \frac{2x}{x + 1} $$</p>
+<p>Lets start by combining the terms:</p>
+<p>$$ \bigtriangleup y = \frac{(2x + 2 * \bigtriangleup x)(x + 1) - 2x (x + \bigtriangleup x + 1)}{(x + 1)(x + \bigtriangleup x + 1)} $$</p>
+<p>This of course can be simplified. Look for the terms that cancel.</p>
+<p>$$ \bigtriangleup y = \frac{2 * \bigtriangleup x}{(x \bigtriangleup x + 1)(x + 1)(\bigtriangleup x)} $$</p>
+<p>We now get a much better looking version.</p>
+<p>$$ \frac{2}{(x + \bigtriangleup x + 1)(x + 1)} $$</p>
+<p>Since this limit is approaching 0 we will try substituting 0 for change the in x value and see what kind of answer we get.</p>
+<p>$$ \frac{\bigtriangleup y}{\bigtriangleup x} = \frac{2}{(x + 1)^2} $$</p>
+<p>Now substitute 2 for x and see if we get an answer that makes sense. It looks good so I am happy with that. You can see we are edging towars the <a href="http://sciencebyjason.com/basic-calculus-problems-definition-of-a-limit/">definition of limits</a> here.</p>
+<p>$$ = \frac{2}{(2 + 1)^2} = \frac{2}{9} $$</p>
+<p>&nbsp;</p>
+<h2><strong>Problem 3</strong></h2>
+<p>Find the average rates of change of:</p>
+<p>$$ y = f(x) = x^2 - 2 $$ between the points $$  x = 3 and x = 4 $$</p>
+<p><img class="aligncenter size-large wp-image-4829" src="https://jahlelin.github.io/Science-By-Jason/media/posts/26/rate-of-change-3-1024x788.png" alt="" width="1024" height="788" /></p>
+<p>The average rate of change is defined by:</p>
+<p>$$ \frac{\bigtriangleup y}{\bigtriangleup x} and \bigtriangleup y = f(x + \bigtriangleup x) - f(x) $$</p>
+<p>We are given x = 3 and change in x = 4 - 3 = 1. So this gives us:</p>
+<p>$$ y = f(x) = f(3) = 3^2 - 2 = 7 $$</p>
+<p>The other point we are given is x = 4 so we evaluate for that as well.</p>
+<p>$$  = y + \bigtriangleup y = f(x + \bigtriangleup x) = 4^2 - 2 =14 $$</p>
+<p>This will yield:</p>
+<p>$$  = \bigtriangleup y = f(x + \bigtriangleup x) - f(x) = f(4) - f(3) $$</p>
+<p>Which reduces to:</p>
+<p>$$ = (4^2 - 2) - (3^2 - 2) = 14 - 7 = 7 $$</p>
+<p>The average rate of change of this function is 7.</p>
+<p>&nbsp;</p>
+<h2><strong>Problem 4</strong></h2>
+<p>Find the average rates of change for:</p>
+<p>$$ y = \frac{1}{x} $$</p>
+<p><img class="aligncenter size-large wp-image-4830" src="https://jahlelin.github.io/Science-By-Jason/media/posts/26/rate-of-change-4-1024x775.png" alt="rate of change 4" width="1024" height="775" /></p>
+<p>The average rate of change is defined as:</p>
+<p>$$ \frac{\bigtriangleup y}{\bigtriangleup x}  with  \bigtriangleup y = f(x + \bigtriangleup x) - f(x) $$</p>
+<p>Since:</p>
+<p>$$ f(x) = \frac{1}{x} and f(x + \bigtriangleup x) = \frac{1}{x + \bigtriangleup x} $$</p>
+<p>And:</p>
+<p>$$ \bigtriangleup y = \frac{1}{x + \bigtriangleup x} - \frac{1}{x} = \frac{x - (x + \bigtriangleup x)}{x(x + \bigtriangleup x)} $$</p>
+<p>This will evaluate to:</p>
+<p>$$ = \frac{- \bigtriangleup x}{x(x + \bigtriangleup x)} $$</p>
+<p>This reduces to:</p>
+<p>$$ \frac{\bigtriangleup y}{\bigtriangleup x} = \frac{- \bigtriangleup x}{x(x + \bigtriangleup x) \bigtriangleup x} = - \frac{1}{x(x + \bigtriangleup x)} $$</p>
+<p>So that makes the average rate of change of this particular function as:</p>
+<p>$$ \frac{-1}{x(x + \bigtriangleup x)} $$</p>
+<p>&nbsp;</p>
+<h2><strong>Problem 5</strong></h2>
+<p>Evaluate the rates of change in y=3x + 7 between x = -1 and x = 1.</p>
+<p><img class="aligncenter size-large wp-image-4831" src="https://jahlelin.github.io/Science-By-Jason/media/posts/26/rate-of-change-5-1024x776.png" alt="rate of change 5" width="1024" height="776" /></p>
+<p>$$ \bigtriangleup y = f(x + \bigtriangleup x) - f(x) $$</p>
+<p>We will start with x = -1 and evaluate.</p>
+<p>$$ \bigtriangleup x = 1 - (-1) = 2. $$</p>
+<p>The change in x is equal to 2.</p>
+<p>$$ \bigtriangleup y = f(x + \bigtriangleup x) - f(x) $$</p>
+<p>Since we know the change in x we can now use it in this part of the equation.</p>
+<p>$$ f(-1 + 2) - f(-1) $$</p>
+<p>As you can see I just substituted the values.</p>
+<p>$$ (3(1) + 7) - (3(-1) + 7) = 10 - 4 = 6 $$</p>
+<p>So 6 is our answer as to the change in y.</p>
+<p>&nbsp;</p>
+<h2><strong>Problem 6</strong></h2>
+<p>Evaluate the rate of change in Y with respect to X at the point x = 5 when $$ 2y = x^2 + 3x - 1 $$</p>
+<p><img class="aligncenter size-large wp-image-4832" src="https://jahlelin.github.io/Science-By-Jason/media/posts/26/rate-of-change-6-1024x786.png" alt="rate of change 6" width="1024" height="786" /></p>
+<p>The rate of change is defined as $$ \bigtriangleup y = f(x + \bigtriangleup x) - f(x) $$</p>
+<p>So, we do our inputs into the original equation.</p>
+<p>$$ 2\bigtriangleup y = (x + \bigtriangleup x)^2 + 3(x + \bigtriangleup x) - 1 - (x^2 + 3x - 1) $$</p>
+<p>As you can see this is a little more difficult version of what we have been working with. Pay attention to the sings and think it through and you will be fine.</p>
+<p>We now have:</p>
+<p>$$ x^2 + 2x * \bigtriangleup x + (\bigtriangleup x)^2 + 3x + 3\bigtriangleup x - 1 - x^2 - 3x + 1 $$</p>
+<p>Theres a lot going on there but its not too bad.</p>
+<p>Simplify things now.</p>
+<p>$$ 2x * \bigtriangleup x + (\bigtriangleup x)^2 + 3\bigtriangleup x $$</p>
+<p>Now we need to divide.</p>
+<p>$$ \frac{2 \bigtriangleup y}{\bigtriangleup x} = \frac{2x * \bigtriangleup x}{\bigtriangleup x} + \frac{(\bigtriangleup x)^2}{\bigtriangleup x} + \frac{3 \bigtriangleup x}{\bigtriangleup x} = 2x + \bigtriangleup x + 3 $$</p>
+<p>A lot of that will simplify down thank goodness. Here is what we have left after simplifying.</p>
+<p>$$ \frac{\bigtriangleup y}{\bigtriangleup x} = x + \frac{\bigtriangleup x}{2} + \frac{3}{2} $$</p>
+<p>Now we have:</p>
+<p>$$ \frac{\bigtriangleup y}{\bigtriangleup x} = x + \frac{\bigtriangleup x}{2} + \frac{3}{2} = x + \frac{3}{2} $$</p>
+<p>We are almost done now. If x = 5 then:</p>
+<p>$$ \frac{\bigtriangleup y}{\bigtriangleup x} = 5 + \frac{3}{2} = 6 \frac{1}{2} $$</p>
+<p>That is our rate of change of this curve at x = 5.</p>
+<p>&nbsp;</p>
+<h2><strong>Problem 7</strong></h2>
+<p>Find the derivative of the function:</p>
+<p>$$ y = 2x^2 + 3x $$</p>
+<p><img class="aligncenter size-large wp-image-4833" src="https://jahlelin.github.io/Science-By-Jason/media/posts/26/rate-of-change-7-1024x773.png" alt="rate of change 7" width="1024" height="773" /></p>
+<p>The definition of of this type of derivative is:</p>
+<p>$$ y'(x) = \frac{f(x + \bigtriangleup x) - f(x)}{\bigtriangleup x} $$</p>
+<p>Does that definition look familiar? It should. It is what we have been using all along. What we have been doing all along is finding derivatives at points on a graph.</p>
+<p>We have been given $$ f(x) = 2x^2 + 3x $$</p>
+<p>We use our inputs now into the function.</p>
+<p>$$ f(x + \bigtriangleup x) = 2(x + \bigtriangleup x)^2 + 3(x + \bigtriangleup x) $$</p>
+<p>Now we start substituting.</p>
+<p>$$ y'(x) = \frac{2(x + \bigtriangleup x)^2 + 3(x + \bigtriangleup x) - (2x^2 + 3x)}{\bigtriangleup x} $$</p>
+<p>Lets reduce this down some.</p>
+<p>$$ y'(x) = \frac{4x\bigtriangleup x + 2(\bigtriangleup x)^2 + 3\bigtriangleup x}{\bigtriangleup x} $$</p>
+<p>Keep simplifying.</p>
+<p>$$ y'(x) = 4x + 2\bigtriangleup x + 3 $$</p>
+<p>The middle term drops because we assume it is approaching 0. We are then left with:</p>
+<p>$$ y'(x) = 4x + 3 $$ as our derivative.</p>
+<p>&nbsp;</p>
+<h2><strong>Conclusion To Rates Of Change Problems<br />
+</strong></h2>
+<p>These are rates of change problems. They can be quite interesting. You can see how the problems start from simple to to slightly harder. You should notice, however, that the calculus portion never gets more difficult. It is the same. What gets harder is the <a href="http://www.algebra-class.com/rate-of-change.html">algebra</a> and how to manipulate the equations that you have to work with. So keep your algebra skills sharp and this is easy stuff. later on <a href="http://sciencebyjason.com/one-sided-limits-of-calculus/">one-sided limits</a> will test your knowledge a bit more but they are really more of the same. I hope you enjoyed this article. I would appreciate it if you shared it on Facebook and Twitter so more people will see this.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>How To Use LaTeX Typesetting</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://jahlelin.github.io/Science-By-Jason/how-to-use-latex-typesetting.html"/>
+        <id>https://jahlelin.github.io/Science-By-Jason/how-to-use-latex-typesetting.html</id>
+
+        <updated>2019-10-14T21:52:58-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://jahlelin.github.io/Science-By-Jason/media/posts/25/Latex-Typesetting.png" alt="" />
+                    <p>Learning LaTeX typesetting does not have to be hard. While it can be very involved, there are really just a few basics.Today I will strive to help you with the fundamentals. If you need additional options after that they are easy to find. LaTeX can be very useful so lets get started.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://jahlelin.github.io/Science-By-Jason/media/posts/25/Latex-Typesetting.png" alt="" />
+                <p>Learning LaTeX typesetting does not have to be hard. While it can be very involved, there are really just a few basics.Today I will strive to help you with the fundamentals. If you need additional options after that they are easy to find. LaTeX can be very useful so lets get started.</p>
+
+<h2><strong>Introduction</strong></h2>
+<p>You may wonder why I am using Latex over something like Microsoft Word. The problem with Word is that it hides what is really going on in the background and it has far less capability than Latex. I use it when I want to display math or caluclus and it also helps me learn those topics better. The reason why is that you have to completely understand how the math works before you can properly display it in a document or a web site. That is my logic and I hope it is obvious to others. Besides, if you are in a computer, math, or physics discipline then you will need to learn this anyway. So today I want to talk about how to use LaTeX typesetting in your documents.</p>
+<h2><strong>Defining LaTeX Typesetting</strong></h2>
+<p>LaTeX is a tool for creating very refined looking documents. It is quite different than Microsoft Word. Fundamentally, you have a page of source code that is compiled by an editor. That sounds all fancy and complicated but it is not. Editors and online tools make this quite easy.</p>
+<h2><strong>Reasons To Learn It</strong></h2>
+<p>LaTeX is used everywhere in the world. It is mostly used by scientists and engineers. This is because it is the easiest way to portray their math and diagrams into a document. You can also extend its usage quite a bit by the use of packages. There types of packages for anything conceivable to write about. Others use LaTeX typesetting for writing documents. It gives ultimate control over spacing, fonts, and organization. Making document templates is a very popular way to use this typesetting tool.</p>
+<h2><strong>Your First Document</strong></h2>
+<p>If you are creating a document from scratch you will need to give it a [.tex] file extension through whatever editor you are using. A pure LaTeX editor and online sites will do this in the background for you. Whichever you use the basics are the same. To start a document you do this:</p>
+<div class="blob-content" >
+<pre class="code highlight"><code><span id="LC1" class="line" lang="tex"></span></code></pre>
+<p><span style="color: #008000;">\documentclass{article}</span><br />
+<span style="color: #008000;">\begin{document}</span></p>
+<pre class="code highlight"><span style="color: #008000;"><code></code></span></pre>
+<p><span style="color: #008000;">Learning LaTeX typesetting does not have to be hard. </span><br />
+<span style="color: #008000;">While it can be very involved, there are really just a few basics. </span><br />
+<span style="color: #008000;">If you need additional options after that they are easy to find. </span><br />
+<span style="color: #008000;">Today I want to talk about how to use LaTeX typesetting in your documents. </span><br />
+<span style="color: #008000;">LaTeX can be very useful so lets get started.</span></p>
+<pre class="code highlight"><span style="color: #008000;"><code></code></span></pre>
+<p><span style="color: #008000;">\end{document}</span></p>
+<pre class="code highlight"><code><span id="LC10" class="line" lang="tex"></span></code></pre>
+</div>
+<p>That is how you start a document and write a little text. I will show you how to do more with this in later sections. First, make sure you save it with the [.tex] extension. Then use your editor to compile this source. There should be an obvious button that says compile or build.</p>
+<p>The first line declares what kind of document you are using. An {article} is the most basic class. There are several other document classes as well. Everything else goes between the {document} tags.</p>
+<h2><strong>Modifying The Preamble In Latex Typesetting<br />
+</strong></h2>
+<p>The preamble is the part of a document above the \begin{document} line. You can do a variety of things here. This is where you can specify font size and any special encoding.</p>
+<p>It will look like this.</p>
+<p><span style="color: #008000;">\documentclass[14pt, letterpaper]{article}</span></p>
+<p><span style="color: #008000;">\usepackage[utf8]{inputenc}</span></p>
+<p>The font size can be set to whatever you prefer. The [utf8] encoding is pretty universal as well. There are many other packages and options you can use here.</p>
+<p>Adding A Title And Other Stuff</p>
+<p>Titles, authors, and dates can easily be added to your document. This information goes in the preamble of your document. Use these commands in your preamble.</p>
+<p><span style="color: #008000;">\title{How To Use Latex Typesetting}</span><br />
+<span style="color: #008000;">\author{Jason Moore}</span><br />
+<span style="color: #008000;">\date{April 2019}</span></p>
+<p>Now you will also need to add another line in the body of your document. Add this right below \begin{document}.</p>
+<p><span style="color: #008000;">\maketitle</span></p>
+<p>This line will enable the information you just added to your preamble to show up. These are very popular options to add with LaTeX typesetting.</p>
+<h2><strong>Commenting Your Code</strong></h2>
+<p>This is quite easy to do when using LaTeX typesetting. Add a % to any line will tell the compiler to not do anything with it.</p>
+<p><span style="color: #008000;">\documentclass[10pt, letterpaper]{article}</span><br />
+<span style="color: #008000;">\usepackage[utf8]{inputenc}</span><br />
+<span style="color: #008000;">\title{How To Use Latex Typesetting}</span><br />
+<span style="color: #008000;">\author{Jason Moore}</span><br />
+<span style="color: #008000;">\date{April 2019}</span></p>
+<p><span style="color: #008000;">\begin{document}</span><br />
+<span style="color: #008000;">\maketitle</span></p>
+<p><span style="color: #008000;">% Make sure and check for spelling errors before publishing.</span></p>
+<p><span style="color: #008000;">Learning LaTeX typesetting does not have to be hard. </span><br />
+<span style="color: #008000;">While it can be very involved, there are really just a few basics. </span><br />
+<span style="color: #008000;">If you need additional options after that they are easy to find. </span><br />
+<span style="color: #008000;">Today I want to talk about how to use LaTeX typesetting in your documents. </span><br />
+<span style="color: #008000;">LaTeX can be very useful so lets get started.</span></p>
+<p><span style="color: #008000;">\end{document}</span></p>
+<p>If you are following along in your own editor you will see that my commented line with a [%] does not show up in the document. It is for you. Use it to remind you of things and to tell yourself at a later date what your logic was. I know I have to do this or I will not remember why I did things.</p>
+<h2><strong>Formatting Your Text</strong></h2>
+<p>Well this is about LaTeX typesetting so talking about formatting had to come eventually. This is actually a huge topic on its own. For now I am just going to mention the basics to get you started. Later we can go more in depth together.</p>
+<ul>
+<li>To make words bold you use the \textbf{  } command.</li>
+<li>Italicizing is done with \textit{  }.</li>
+<li>Underlining is done with \underline{  }.</li>
+</ul>
+<p>Let me show you some examples.</p>
+<h2><strong>Making Text Bold</strong></h2>
+<p><span style="color: #008000;">\begin{document}</span><br />
+<span style="color: #008000;">\maketitle</span></p>
+<p><span style="color: #008000;">% Make sure and check for spelling errors before publishing.</span></p>
+<p><span style="color: #008000;">Use the sudo \textbf{fdisk-l} command at the terminal to get a list of block devices in your system.</span></p>
+<p><span style="color: #008000;">\end{document}</span></p>
+<p>The preamble is the same as before. Just ignore the title for now as I did not update it. I used \textbf{fdisk-l} to make that bold.</p>
+<h2><strong>Using Italics</strong></h2>
+<p>Now to italicize you do something very similar.</p>
+<p><span style="color: #008000;">\begin{document}</span><br />
+<span style="color: #008000;">\maketitle</span></p>
+<p><span style="color: #008000;">% Make sure and check for spelling errors before publishing.</span></p>
+<p><span style="color: #008000;">mdadm \textit{--create} \textit{--verbose} /dev/md0 --level=0 --raid-devices=2 /dev/sda /dev/sdb</span></p>
+<p><span style="color: #008000;">\end{document}</span></p>
+<p>Try that in your editor. You will see that --create and --verbose are now italicized.</p>
+<h2><strong>Underlining Text</strong></h2>
+<p>To underline portions of your text you do the same thing. Notice how everything I underlined is enclosed with this bracket.</p>
+<p><span style="color: #008000;">\begin{document}</span><br />
+<span style="color: #008000;">\maketitle</span></p>
+<p><span style="color: #008000;">% Make sure and check for spelling errors before publishing.</span></p>
+<p><span style="color: #008000;">dnf install \underline{@virtualization}.</span></p>
+<p><span style="color: #008000;">\end{document}</span></p>
+<p>This will have [@virtualization] underlined.</p>
+<h2><strong>Lists in LaTeX Typesetting</strong></h2>
+<p>Lists are easy and a good way to break up your content. They also get across a message well too. We will use a different environment for lists. We invoke it by using [\begin{itemize}. That sets up our environment. For each individual item or bulletpoint you will use [\item]. lets look at an example.</p>
+<p><span style="color: #008000;">\begin{document}</span><br />
+<span style="color: #008000;">\maketitle</span></p>
+<p><span style="color: #008000;">% Make sure and check for spelling errors before publishing.</span></p>
+<p><span style="color: #008000;">\begin{itemize}</span><br />
+<span style="color: #008000;">\item dd if=/dev/sda of=/dev/sdb [clones one disk to another]</span><br />
+<span style="color: #008000;">\item dd if =/dev/sda2 of=~/hdadisk.img [backs up sda2 as an image file]</span><br />
+<span style="color: #008000;">\end{itemize}</span></p>
+<p><span style="color: #008000;">\end{document}</span></p>
+<p>This is an unordered list. It is just bulletpoints. You can see how easy that is. Note the beginning and ending of the [itemize] environment.</p>
+<p>We can do the same thing with to make an ordered list. These are sometimes helpful so we should know how to do them. We use a different environment for this too. It is the [enumerate] environment.</p>
+<p><span style="color: #008000;">\begin{document}</span><br />
+<span style="color: #008000;">\maketitle</span></p>
+<p><span style="color: #008000;">% Make sure and check for spelling errors before publishing.</span></p>
+<p><span style="color: #008000;">\begin{enumerate}</span><br />
+<span style="color: #008000;">\item firewall-cmd --add-port=9090/tcp</span><br />
+<span style="color: #008000;">\item firewall-cmd --permanent --add-port=9090/tcp</span><br />
+<span style="color: #008000;">\end{enumerate}</span></p>
+<p><span style="color: #008000;">\end{document}</span></p>
+<p>You can see how the [enumerate] environment lets us order our list.</p>
+<h2><strong>Displaying Math In Latex Typesetting<br />
+</strong></h2>
+<p>Here comes the really fun part of this! A lot of us have had to write about an algebra or calculus concept at one time or another. Do you remember the first time you opened up Word and tried to figure that out? So how long did it take you to get frustrated? Well <a href="http://sciencebyjason.com/beginning-latex/">LaTeX</a> type setting has been around a lot longer than Word and other similar types of software. I am going to be writing about the display mode capabilities today just in case you are wondering. Lets start off in simple terms. Get it, terms, in math? Oh never mind.</p>
+<p>So here is basic Algebra.</p>
+<p>\[ y + 8 = 30 \]</p>
+<p>This is some Calculus.</p>
+<p>$$E=mc^2$$</p>
+<p>$$f(x)=3x^2+2x-5$$</p>
+<p>These small equations are displayed by by enclosing them with $$ before and after the equation. This is called the display mode in LaTex typesetting.</p>
+<h3><strong>Math Expressions</strong></h3>
+<p>Expressions are a fundamental part of equations. They are what make up equations to be precise. Something like:</p>
+<p>$$f'=3x^3+4x^2+9x-3$$.</p>
+<p>The code to display that is f'=3x^3+4x^2+9x-3.</p>
+<p>You can do most of algebra with that little bit of code. It will take care of simple expressions, logarithms and exponents. There are some nuances and other details that I will get into later.</p>
+<h3><strong>Parentheses In Latex</strong></h3>
+<p>These are every day items when doing math of any kind. In Latex typesetting you can control almost every aspect of how they look.</p>
+<p>So if I want to make an equation behave a certain way with parentheses it is easily done. Lets take this one for example and then I will break it down into smaller pieces.</p>
+<p>$$y=\left \{3x+6 \right \} + \left \{4x-2 \right \}$$</p>
+<p>To do this you will enclose your whole line in $$ ... $$</p>
+<p>You will use the \left and \right commands. After either \left or \right you add a space.</p>
+<p>So your whole will look like this:    $$ \left \{ .......... \right \} $$</p>
+<p>The dots are where your expressions go.</p>
+<p>The size can also be controlled. You can do \big{  ,  \Big{  ,  \bigg{  ,  \Bigg{  instead of using \left and \right . The reason is that \left and \right use automatic sizing. Sometimes you may want your parentheses a different size and have to manually size them.</p>
+<p>$$y= \bigg \{4x-9 \bigg \}$$</p>
+<p>You can recreate this simple line by using y= \bigg \{4x-9 \bigg \} in your editor or file.</p>
+<h3><strong>Fraction In Latex Typesetting<br />
+</strong></h3>
+<p>Simple fractions are used continually in <a href="http://sciencebyjason.com/beginning-calculus-problems-with-limits/">math and calculus</a>. Elementary school and collegiate courses both use them constantly. They take the form of \frac {}{}. The top number or letter goes in the first pair of parentheses. The bottom number or letter goes in the second pair.</p>
+<p>So lets do a simple problem. What is:</p>
+<p>$$ \frac{2}{3} + \frac{3}{4} = ? $$</p>
+<p>Of course the answer is to this problem is:</p>
+<p>$$ \frac{2}{3} + \frac{3}{4} \rightarrow \frac{17}{12} $$</p>
+<p>This is achieved with \frac{2}{3} + \frac{3}{4} \rightarrow \frac{17}{12}. Not too hard at all.</p>
+<h3><strong>Trigonometric Operators In Latex<br />
+</strong></h3>
+<p>Once you get to <a href="http://sciencebyjason.com/basic-calculus-problems-definition-of-a-limit/">Pre-Calculus</a> in your schooling, <a href="http://sciencebyjason.com/one-sided-limits-of-calculus/">trigonometry</a> will be very common. Therefore, it is important to know how to display these operators properly when you are learning about them.</p>
+<p>The basic forms are \sin, \cos, \tan, \csc, \sec, and \cot.</p>
+<p>We can have problems like:</p>
+<p>$$ \cos \frac{5\pi}{6} = ? $$</p>
+<p>which is given by \cos \frac{5\pi}{6}.</p>
+<p>$$ \sin \frac{4\pi}{3} = ? $$</p>
+<p>which is done by \sin \frac{4\pi}{3}.</p>
+<p>$$ \tan \frac{3\pi}{4} = ? $$</p>
+<p>is displayed with \sin \frac{4\pi}{3}.</p>
+<p>$$ \sec \frac{2\pi}{4} = ? $$</p>
+<p>is given with this, \sec \frac{2\pi}{4}.</p>
+<p>$$ \csc \frac{3}{2\pi} = ? $$</p>
+<p>is done with the code \csc \frac{3}{2\pi}.</p>
+<p>$$ \cot \frac{11}{4\pi} = ? $$</p>
+<p>will be shown by the code cot \frac{11}{4\pi} .</p>
+<p>There are a lot more trigonometric functions but this should get you started for now. These are examples for all the basic types of functions.</p>
+<h3><strong>Integrals Using Typesetting</strong></h3>
+<p>Basic <a href="http://tutorial.math.lamar.edu/Problems/CalcI/CalcI.aspx">integrals</a> will pop up in your first year of calculus. Therefore, it is vital you know how to handle them. This is where <a href="http://sciencebyjason.com/beginning-calculus-rate-of-change/">calculus</a> starts getting fun. I will just put the code below the problem as usual. The basic integral form is this:</p>
+<p>$$ \int_{A}^{B} x^2 dx $$</p>
+<p>\int_{A}^{B} x^2 dx</p>
+<p>Another form of the integral looks like this:</p>
+<p>$$ \int 5x^2 +3x +9 dx $$</p>
+<p>\int 5x^2 +3x +9 dx</p>
+<p>Here is a slightly different form but basically the same.</p>
+<p>$$ \int 6x^3 - 4x^2 +7x -5 dx $$</p>
+<p>\int 6x^3 - 4x^2 +7x -5 dx</p>
+<p>This is a more complicated form of an integral.</p>
+<p>$$ \int (8x-12) (4x^2-4x)^4 dx $$</p>
+<p>\int (8x-12) (4x^2-4x)^4 dx</p>
+<p>Integrals can get really complicated. There is a lot more I could list here and talk about here. However, these are the basic forms and will be enough for first and maybe second year calculus.</p>
+<p>&nbsp;</p>
+<h3><strong>Conclusion<br />
+</strong></h3>
+<p>Typesetting in Latex is like many other disciplines. It is fairly easy to get started but can take a very long time to master. Fortunately, it is rare that anyone really needs to master it. most of us, myself included, pick up what we need as we go. It started with computer science and physics classes in school. That got me really interested in this and other topics. That is why it is so fun though. I was already interested in what I was doing and Latex was just an extension of those interests. If you find similar interests and if any of them include typesetting documents for one reason or another then I hope this guide will be useful. I will be adding subsections continually as I am making this my official guide and reference to myself. Hope it helps!</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<pre><code></code></pre>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Astronomy For Beginners: Exoplanets</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://jahlelin.github.io/Science-By-Jason/astronomy-for-beginners-exoplanets.html"/>
+        <id>https://jahlelin.github.io/Science-By-Jason/astronomy-for-beginners-exoplanets.html</id>
+
+        <updated>2019-10-14T21:52:58-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://jahlelin.github.io/Science-By-Jason/media/posts/24/exoplanets-0.jpg" alt="" />
+                    <p>Exoplanets are planets that are beyond our solar system. They have been known for a hundred years or more. They are really hard to study directly. We can still learn a lot from them though. In fact, that is why we study them. Learning about exoplanets will help us learn about the formation of our own Earth and corresponding solar system. Astronomers monitor young planets to see what Earth might have been like in its early stages. In this article I want to talk about what is known about exoplanets and how they are formed. This will obviously lead into solar system formation which is pretty interesting stuff.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://jahlelin.github.io/Science-By-Jason/media/posts/24/exoplanets-0.jpg" alt="" />
+                <p>Exoplanets are planets that are beyond our solar system. They have been known for a hundred years or more. They are really hard to study directly. We can still learn a lot from them though. In fact, that is why we study them. Learning about exoplanets will help us learn about the formation of our own Earth and corresponding solar system. Astronomers monitor young planets to see what Earth might have been like in its early stages. In this article I want to talk about what is known about exoplanets and how they are formed. This will obviously lead into solar system formation which is pretty interesting stuff.</p>
+
+<h2>History Of Exoplanet Detection</h2>
+<p>Scientists first thought they had discovered an extrasolar planet in the 1800's They certainly could have been right. We do not know for sure though. Slowly more and more evidence was found that indicated these existed. It was not until more modern times, however, that Astrophysicists were able to verify some of these claims. Now space <a href="http://sciencebyjason.com/astronomy-for-beginners-how-telescopes-are-used/">telescopes</a> like Kepler, Spitzer, and Hubble find exoplanets quite often. Finding them and documenting their properties is key for our understanding to evolve. Its a very important time in learning about our universe.</p>
+<h2><strong>Formation of Exoplanets</strong></h2>
+<p><img class="size-full wp-image-4700 alignleft" src="https://jahlelin.github.io/Science-By-Jason/media/posts/24/Exoplanets-1-kepler186f.jpg" alt="Exoplanets 1 kepler186f" width="985" height="554" /></p>
+<p>Solar systems and exoplanets form because of stars. A star is a luminous object made of plasma that spins. When a star starts its processes it will be rotating. As it rotates it gathers all the rocky and gaseous material around it. This material will then form into a protoplanetary disk. A disk like this looks sort of like a cd to us. It is flat and it rotates around its star. This is where planets and moons come from, it just takes a while to happen.</p>
+<p>Exoplanets that form from this can either small and rocky or giant and gaseous. These extrasolar planets will often move from where they are first formed. They move because of other objects and processes. Collision and gravity from other objects are the main reasons. Collisions can either destroy objects or eject them into space.  Observation is key here. Direct observations are the best but indirect will lead to nice results also.</p>
+<p>We learn about planets from the huge cosmic gas clouds we can observe. It is from here we learn about these extrasolar planets that inhabit other galaxies. Astronomers have discovered a few thousand exoplanets from the data I can find. The more they are studied, the more we will understand about our own planet and its processes. Currently, we just have very vague data on all of these extrasolar planets. They are so far away in the <a href="http://sciencebyjason.com/astronomy-for-beginners-guide-to-the-universe/">universe</a> that estimates are the best that can be done. Astronomers are learning more by the day though.</p>
+<h2><strong>Theory Of Solar System Formation</strong></h2>
+<p>The main theory of <a href="http://sciencebyjason.com/astronomy-for-beginners-the-solar-system/">solar system</a> formation is the <a href="https://en.wikipedia.org/wiki/Nebular_hypothesis">nebula theory</a>. Everything in our system formed from gas and dust. It was all one big cloud covering a massive area. The nebular cloud became unstable because of some event. We don't know what kind of event though. Eventually the gas and dust stuck together and formed other objects. The Law of Conservation of Momentum is the reason some of it started rotating. The center started rotating and pulled in a lot of material around it. Everything that converged to the center eventually became a star. The material that was left behind in the disk formed our planets. Rocky material formed our first few planets. The gaseous remains were made into the big gas giants like Jupiter and Saturn. Astronomers now think this is how most solar systems are formed.</p>
+<p>In our quest for knowledge, we are constantly refining our views on how solar systems are created. There are many explanations. Some of those seem quite strange today! There are a few ideas that, so far, have stood the test of time. Exoplanets orbits are somewhere between perfectly circular and highly elliptical. This is vague but it is also a starting point. Orbits are usually in the same direction as the Sun's rotation. Random events, such as collisions, do happen and they cause drastic change. There is evidence of many large object collisions in our galaxy between <a href="http://sciencebyjason.com/astronomy-for-beginners-the-moon/">moons</a>, asteroids, and planets. These collisions have shaped and influenced most of our galaxy. I am sure other galaxies have had mostly similar experiences.</p>
+<h2><strong>The Search Is On For Exoplanets<br />
+</strong></h2>
+<p><img class="size-full wp-image-4701 alignleft" src="https://jahlelin.github.io/Science-By-Jason/media/posts/24/Exoplanets-2-Kepler22bArtwork_full.jpg" alt="Exoplanets 2 Kepler22bArtwork_full" width="985" height="739" /></p>
+<p>Astronomers are constantly searching for exoplanets. With technology advances, we can finally try to confirm discoveries made many years ago. Now you might wonder how exoplanets are discovered and verified? It is quite true they are so far away we can only barely see a few with modern telescopes. So they are observed by other means. The most popular ways are studying the light from the star it orbits and the radial velocity of that star. Radial velocity, in this context, refers to the change in the velocity of its spinning relative to us here on Earth. It is our perceived changed in an objects velocity far away.</p>
+<h2><strong>Planetary Transits</strong></h2>
+<p>When we study the light of stars there are times when the brightness lessens slightly. This happens occasionally and it is often an indication an exoplanet is orbiting this star. When it travels in between our line of sight and the star, the light output decreases. Astronomers are using this easy technique constantly to find new exoplanets.</p>
+<h2><strong>Radial Velocity</strong></h2>
+<p>The other technique that is used to find extrasolar planets orbiting other stars is measuring a star's radial velocity. What happens is that periodically, the gravity of an exoplanet will cause a slight wobble in its parent star. When this happens the rotational velocity is measurably less. Just like planet transits, when this happens we watch closely and if it happens continuously and at regular intervals we know its being caused by an extrasolar object orbiting around that star. <a href="http://sciencebyjason.com/how-modern-astronomy-evolved/">Astronomy</a> is all about those observations!</p>
+<h2><strong>Other Methods</strong></h2>
+<p>We can also just take direct pictures of exoplanets. This is pretty rare though. Astronomers have to get very lucky for this to happen. They are very far away and they are very dim as well.</p>
+<p>Another way we can find exoplanets is through gravitational lensing. This is really just the study of light. Light is affected by gravity over long distances. It is bent when a planet passes through its light.</p>
+<h2></h2>
+<h2><strong>Exoplanet Characteristics</strong></h2>
+<p>Thousands of exoplanets have now been discovered by our space instruments. Most have been spotted by the <a href="https://www.nasa.gov/mission_pages/kepler/main/index.html">Kepler</a> Space Telescope. They have been rocky, icy, and some made mostly of gas. A few have been in the habitable zone of their stars. Some are very close to their star and are tidally locked. A planet is tidally locked when their is a large difference in masses between the two. Distance also plays a factor. When an exoplanet is tidally locked it also shows the same side to the star. An example of this is our moon because it always shows the same side to us here on Earth.</p>
+<p><a href="http://sciencebyjason.com/planets-of-our-solar-system/">Planets</a> that are much larger than Earth are called Super-Earths. These are planets that exhibit many of the same properties as our planet here. They are assumed to be rocky and fairly dense.</p>
+<p>Gaseous planets that are many times the size of Earth and orbit close to their star are called Hot-Jupiters.</p>
+<p>Most planets are detected as they transit across our view of a particular star. A few, however, are detected by the radial velocity technique.</p>
+<p>One of the problems that Astronomers struggle with is the composition of these exoplanets. Knowing the composition would allow them to be able to guess about their density. Most exoplanets discovered are very hot and gaseous. These planets put off the most light. That makes them the easiest to see. We know that many planets should exist that are like Earth. They are small, like Earth, so they are harder to detect.</p>
+<h2><strong>Habitable Zones</strong></h2>
+<p>One of the main reasons we are searching for exoplanets is to find some in habitable zones. Scientists want to find something that has life on it. Some stars will have an area around it that would be the right temperature for life as we know it. That is what everyone is looking for. Another key ingredient to this is the ability to hold water. It has been determined that this is important for life. I wonder how they figured that out.</p>
+<p>Finding life will be more difficult. We know what life here is like. That is how the first search started. It was, and still is, looking for signs that organisms like us are out there. Who really knows if we will ever find that. The other problem being tackled is recognizing life that is very unlike us. If it isn't very similar to us we might never know that we saw it. We just don't know how other forms of life could look.</p>
+<p>To be successful at all of this we have to stare through space. The problem here is that the light of other stars outshine small planets that might host life. NASA is working on technology to help with this problem. Its goal is to dim incoming light but allow space telescopes to image space better.</p>
+<h2><strong>Different Planetary Systems</strong></h2>
+<p>Since there are so many different galaxies, it would be safe to assume that some formed in unusual ways. Ours is one of those. Astronomers have not found a solar system that is like ours exactly. They have not discovered a planet with any sort life on it either. That makes us pretty unique. Systems have been discovered with Jupiter size planets orbiting a Star like ours. Still, its a bit different. Most Jupiter sized planets orbit much closer to the star. They also have more eccentric orbits. Those are some big differences and we don't know why.</p>
+<p>Astronomers have also not found another Earth or anything that resembles it. We have life all over the planet including its oceans. There are plate tectonics that have constantly moved. An atmosphere filters out the deadly <a href="http://sciencebyjason.com/astronomy-for-beginners-radiation/">radiation</a> from the Sun. We even have cosmic protectors in the form of Jupiter and Saturn. Those gas giants grab deadly <a href="http://sciencebyjason.com/astronomy-for-beginners-space-debris/">asteroids</a> that head this way and lock them in their gravitational grasp. As a result, we rarely see anything that hurts us. There has never been anything that collided with this planet and broke it apart, unlike many other objects. So we are very unique.</p>
+<h2><strong>Conclusion</strong></h2>
+<p>Exoplanets have been discovered by the thousands now. Some are even relatively close to us. Most that have been found are large, hot, and gaseous. This is because they emit more light and are thusly easier to see. They form in protoplanetary disks after a star starts its processes. These exoplanets will then move around and collide with other stuff. This allows it to gather more material in its physical formation. They are quite varied in size and composition. Rocky, icy, and gaseous are all represented. Different properties such as these have allowed many types of solar systems to develop. Astronomers can't explain why systems can be so different. Everyone is trying to find a solution.</p>
+<p>I hope you enjoyed this article. If you are not a member of my email list please consider it. Questions or comments are most welcome down below.</p>
+<p>&nbsp;</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Astronomy For Beginners: Space Debris</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://jahlelin.github.io/Science-By-Jason/astronomy-for-beginners-space-debris.html"/>
+        <id>https://jahlelin.github.io/Science-By-Jason/astronomy-for-beginners-space-debris.html</id>
+
+        <updated>2019-10-14T21:52:58-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://jahlelin.github.io/Science-By-Jason/media/posts/23/asteroid20161103-16.jpg" alt="" />
+                    <p><!-- wp:heading --></p>
+<h2>Introduction</h2>
+<p>There is a lot of space debris in our galaxy. It can be large or small. Space debris can be Asteroids, Comets, Meteors, or even dust. In this article I talk about all of these objects and their characteristics. I also discuss topics such as Asteroids getting close to Earth and the once-planet Pluto.</p>
+<p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://jahlelin.github.io/Science-By-Jason/media/posts/23/asteroid20161103-16.jpg" alt="" />
+                <p><!-- wp:heading --></p>
+<h2>Introduction</h2>
+<p>There is a lot of space debris in our galaxy. It can be large or small. Space debris can be Asteroids, Comets, Meteors, or even dust. In this article I talk about all of these objects and their characteristics. I also discuss topics such as Asteroids getting close to Earth and the once-planet Pluto.</p>
+<p>
+</p>
+<p>&nbsp;</p>
+<h2>Asteroids</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p><a href="https://www.space.com/51-asteroids-formation-discovery-and-exploration.html">Asteroids</a> are big rocks. You may see that as simplistic but that is essentially all they are. Asteroids are generally the largest forms of space debris. They formed from collisions in remote parts of the <a href="http://sciencebyjason.com/astronomy-for-beginners-the-solar-system/">galaxy</a>. Asteroids are much smaller than planets and moons. They travel around the Sun in weird trajectories.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Europeans first discovered Asteroids in the 1800's. There have been constant discoveries since then. Most of these are in the famous Asteroid Belt. This huge Belt of rocks is assumed to be pieces held by gravity that never formed into a planet.</p>
+<p>Most of these rocks and other space debris are very small and just have gravity holding onto them. That is why they are called stray objects. They can be classified using <a href="http://sciencebyjason.com/astronomy-for-beginners-spectroscopy/">spectroscopy</a> which I discussed in a previous article. The darker they are the more carbon they contain. Their size is estimated from the amount of light that they reflect. It is not terribly accurate but it is the best that scientists can do right now. The largest Asteroid is Ceres which has a diameter of around 900 km.</p>
+<p>Most of our information about Asteroids comes from the planetary belts that have been observed with<a href="http://sciencebyjason.com/astronomy-for-beginners-how-telescopes-are-used/"> telescopes </a>for a while now. Some of these have extensive craters of their own and even include a tiny bit of volcanism.</p>
+<p>Asteroids are similar to Earth because of their rocky cores and density.</p>
+<h3><strong>Asteroids That Come Close</strong></h3>
+<p>Most Asteroids will never come close to us. They are trapped forever, or close to it, most likely in the gravity of something larger. They will stay on that path for an extremely long time. Some, however, will get somewhat close. It is these that we can take a closer look at.</p>
+<p>The largest of these could be dangerous to us here on <a href="http://sciencebyjason.com/planets-of-our-solar-system/">Earth</a>. An impact from one of these would be devastating. The occasional small Asteroid that enters our atmosphere releases a huge amount of energy.</p>
+<p>Eventually it will happen. Not much we can do about it at the moment. Since we are 2/3 water on this planet we can expect 2 out of 3 Asteroid landings to happen in the water. Not sure if that is any better or not.</p>
+<p>Astronomers will continue the hunt for these big Asteroids because we want to know if something is coming our way.</p>
+<h2><strong>Comets</strong></h2>
+<p><img class="aligncenter size-large wp-image-4681" src="https://jahlelin.github.io/Science-By-Jason/media/posts/23/space-debris-comet-1024x667.jpg" alt="space debris comet" width="1024" height="667" /></p>
+<p><a href="https://www.space.com/53-comets-formation-discovery-and-exploration.html">Comets</a> are relatively small objects that are primarily made up up of dust and water ice. This type of space debris is thought to come from the Oort cloud and the Kuiper belt. Those Comets from the Oort cloud have longer orbital periods than those from the Kuiper belt. The most interesting feature of Comets are their tail, also known as a coma. This tail appears when the Sun's <a href="http://sciencebyjason.com/astronomy-for-beginners-radiation/">radiation</a> causes the comet to slightly melt and turn to gas. The Sun's radiation is therefore causing this gas to glow in its light and that is why we see a tail trailing comets. Comets are hard to see until they fairly close to the Sun. This is because they are just an iceball when in deep space.</p>
+<p>They are usually first discovered when they come in contact with the Sun's radiation. A Comet will appear as a fuzzy ball at this point. They have very elliptical orbits and are in the Sun's gravitational grasp.</p>
+<p>Most of a Comet's mass is found in its nucleus which is the icy portion. No one knows the exact mass of a Comet but scientists guess based on its nucleus and the density of ice. Comets are the size of small Asteroids for reference.</p>
+<h2><strong>The Outer Galaxy</strong></h2>
+<p>This area of space is not documented very well. It is really just too far away for our technology. So progress is slow and what Astronomers can see are only faint glimpses of objects and other various space debris. Specifically, I am referring to the area between the planet Neptune and the edge of the <a href="https://www.space.com/16401-oort-cloud-the-outer-solar-system-s-icy-shell.html">Oort Cloud</a>. These are just vast distances.</p>
+<p>The <a href="https://www.space.com/16144-kuiper-belt-objects.html">Kuiper Belt</a> is just beyond Neptune and objects discovered in this area are referred to Kuiper Belt Objects. Our most famous Kuiper Belt Object is the demoted planet Pluto.</p>
+<p>Pluto was discovered in the early 1900's. It has a very elongated orbit which changes its distance from the Sun quite a bit. It has a <a href="http://sciencebyjason.com/astronomy-for-beginners-the-moon/">moon</a> of its own called Charon which is tidally locked. Pluto is about 20% the diameter of Earth. Frozen methane seems to make up most of its mass. </p>
+<p>Most space debris in the Kuiper belt is extremely faint. That makes it hard to study these objects. Most are smaller than Pluto but we know of at least one object that is not. That object is the Asteroid Eris. It was found to be slightly larger than Pluto.</p>
+<h2><strong>Demotion Of Pluto</strong></h2>
+<p><img class="aligncenter size-large wp-image-4683" src="https://jahlelin.github.io/Science-By-Jason/media/posts/23/space-debris-pluto-1024x1024.png" alt="space debris pluto" width="1024" height="1024" /></p>
+<p>Most of you will will know that Pluto used to be classified as a planet. Most of you, like myself, will also have mixed feelings on this matter. Pluto was called a planet for a long time. Reasons were given of course. The main reason it was demoted was it did not have enough of its own gravity to clear the area around it of smaller objects. This bothered some in <a href="http://sciencebyjason.com/how-modern-astronomy-evolved/">Astronomy</a>. I am not sure if I agree with this because what does that really mean? Aside from the technical definition, what does it matter if it doesn't have enough gravity to clear its own area around it? So you can see it was demoted from being a planet arbitrarily and the new definition of a planet was made specifically to exclude Pluto. That is the main problem I have with this, even though its old news now.</p>
+<h2><strong>Meteors</strong></h2>
+<p><img class="aligncenter size-full wp-image-4685" src="https://jahlelin.github.io/Science-By-Jason/media/posts/23/space-debris-meteor.jpg" alt="space debris meteor" width="876" height="493" /></p>
+<p>Shooting stars happen all the time and they are wonderful to see. These are really meteors that have entered our atmosphere. They give off their famous flash when the surrounding air molecules heat up quickly. To differentiate, a meteorite is a piece that hits the ground.</p>
+<p><a href="https://www.space.com/15353-meteor-showers-facts-shooting-stars-skywatching-sdcmp.html">Meteors</a> come from Comets that got too close to the Sun and have some of their pieces melted away. This space debris is so pretty watch. Our gravity attracts them and toward our atmosphere they go. The smaller ones just burn up after they enter but the larger ones fall to the ground and cause much destruction. Meteor showers happen in this same way. There are just many at once. </p>
+<p>Meteorites that are found on Earth are rocky and very dense. They are composed of Iron and Nickel for the most part. Some are even rich in Carbon which is quite interesting. The reason why is that we are always looking for molecules that could help spur life. So there is much reason to study these objects.</p>
+<h2><strong>Conclusion</strong></h2>
+<p>Our galaxy and <a href="http://sciencebyjason.com/astronomy-for-beginners-guide-to-the-universe/">universe</a> has a lot of different objects in it that are not planets or a <a href="http://sciencebyjason.com/star-classifications-life-cycles/">star</a>. Space debris is everywhere and includes many different types. I think its fascinating to figure out how everything interacts with each other. If you enjoyed this article please share it with your friends. I have included handy buttons at top of article to help with that. If you have any questions please ask away in the comment section below.</p>
+<p><!-- /wp:paragraph --></p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>The Fundamentals Of Chemistry Guide</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://jahlelin.github.io/Science-By-Jason/the-fundamentals-of-chemistry-guide.html"/>
+        <id>https://jahlelin.github.io/Science-By-Jason/the-fundamentals-of-chemistry-guide.html</id>
+
+        <updated>2019-10-14T21:52:58-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://jahlelin.github.io/Science-By-Jason/media/posts/22/fundamentals-of-chemistry-0.jpg" alt="" />
+                    <p>The fundamentals of chemistry are a fascinating subject. They apply to almost all the other sciences as well. In this article I will do my best to explain these fundamentals so they are easy to understand.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://jahlelin.github.io/Science-By-Jason/media/posts/22/fundamentals-of-chemistry-0.jpg" alt="" />
+                <p>The fundamentals of chemistry are a fascinating subject. They apply to almost all the other sciences as well. In this article I will do my best to explain these fundamentals so they are easy to understand.</p>
+
+<h2 style="text-align: center;">Fundamentals Of Chemistry</h2>
+<p>Chemistry is extremely involved and difficult. People that attempt to study this in detail often do not know where to start. This is why I have put together this guide to just start on the fundamentals. More rigorous subjects are pursued afterwards.</p>
+<h2 style="text-align: center;"><strong>Matter</strong></h2>
+<p>In <a href="http://sciencebyjason.com/18-basic-chemistry-concepts/">chemistry</a> we concern ourselves with matter and how it changes forms. It is not easy to say what matter is though. The best way to think about it is that matter has <a href="http://sciencebyjason.com/purpose-dna-biology/">mass</a> and takes up space. According to this definition, my bookshelf is matter but the light shining through my window is not. A substance is another term for matter but means pure and unadulterated matter. Matter is a substance. It is made up of one thing . However, matter that is made up of many things, like concrete, is not a substance.</p>
+<p>Substances can come in different forms. These different forms are the stats of matter. The usual states of matter that we talk about are a solid, liquid, and a gas. A solid is a rigid form of matter and is something we can handle. The atoms are packed very closely in a solid. A liquid is a fluid that will have a surface when it settles. Their <a href="https://en.wikipedia.org/wiki/Chemistry">atoms</a> are packed fairly closely but not as tightly as in a solid. Gases are another form of matter that are like a liquid but do not have a surface. The atoms of a gas are very far apart.</p>
+<h2 style="text-align: center;"><strong>Physical Properties</strong></h2>
+<p><img class="size-large wp-image-4651" src="https://jahlelin.github.io/Science-By-Jason/media/posts/22/fundamentals-of-chemistry-2-1024x682.jpeg" alt="fundamentals of chemistry" width="1024" height="682" /> fundamentals of chemistry</p>
+<p>A physical property of any matter is its defining characteristic. This characteristic is something that we can measure or observe. When you measure the property of a substance you need to report the accuracy and precision of the data. The precision of the data is the significant figures of the measurements.</p>
+<h2 style="text-align: center;"><strong>Force</strong></h2>
+<p>A force is something that changes the state of motion of an object. \(Force = mass * acceleration\).  This means there is a push or a pull on the object in question. Forces only have an effect when they are interacting with something else. They can interact at a distance or when they contact something. Example of contact forces are tension, friction, and normal. Example of distance forces are gravitational, electric, and magnetic forces. Lastly, a force is a vector quantity. This means the force has both a magnitude and a direction when applied and is one of the fundamentals of chemistry.</p>
+<h2 style="text-align: center;"><strong>Energy</strong></h2>
+<p>This is a term that most people are familiar with. They also have a vague sense of what it is. In chemistry it is important to understand that energy is transferred during reactions. That is the primary reason it is interesting to chemists. In very simple terms energy is the capacity to do work. Work, applied to something, is motion of some sort.</p>
+<p>There are 3 main types of energy. They are kinetic, potential, and electromagnetic. Kinetic energy is energy of motion and depends on how much work is done. Potential energy is that of position. It depends on the forces involved and their magnitudes.   Electromagnetic energy is that of the electromagnetic field. Energy is carried through different mediums by waves.</p>
+<h2 style="text-align: center;"><strong>Elements</strong></h2>
+<p>There are well over a 100 different elements. Most are natural however a few are man made. At the most basic level an element is a substance that can not be broken down anymore using chemical methods. The atoms of an element all have the same number of protons. They can have differing amounts of electrons though which give the elements different masses. When they have a different number of neutrons they are called isotopes.</p>
+<p>Hydrogen and Helium are the most abundant elements that we know of. Many elements were discovered long ago. We do not know who discovered a lot of elements either.</p>
+<h2 style="text-align: center;"><strong>Atoms</strong></h2>
+<p>Atoms are very tiny particles and their study is one of the most important fundamentals of chemistry. In fact, they are so small that if we cut them in 2 then they would be something different at that point. We now know they make up our elements.</p>
+<h2 style="text-align: center;"><strong>Compounds</strong></h2>
+<p><img class="size-large wp-image-4650" src="https://jahlelin.github.io/Science-By-Jason/media/posts/22/fundamentals-of-chemistry-1-1024x682.jpeg" alt="fundamentals of chemistry" width="1024" height="682" /> fundamentals of chemistry</p>
+<p>A compound is a substance that is neutral in charge and is made up of two or more different elements. They are either organic or inorganic. Organic compounds all contain carbon. Inorganic compounds are everything else.</p>
+<p>The elements in a compound are joined chemically. We call this being bonded together.</p>
+<h2 style="text-align: center;"><strong>Molecules</strong></h2>
+<p>There is always confusion between a compound and a molecule. A molecule is also neutral in charge like a regular compound. It is made up of more than one element. However, a molecule can be made up of two of the same type of element. All these together are what makes a molecule.</p>
+<h2 style="text-align: center;"><strong>The Mole</strong></h2>
+<p>The mole is one of the man-made fundamentals of chemistry and is the main unit that chemists use in reporting data of their experiments. So what is a mole? A mole contains the same quantity of something that makes up the same in 12g of carbon-12. So basically its the number of atoms in 12g of carbon-12. It is a lot of atoms for sure. Just like with any other number, however, we need to specify units or what exactly we are working with.</p>
+<h2 style="text-align: center;"><strong>Molar Mass</strong></h2>
+<p>The molar mass of an element is the mass per mole of its atoms. You have to use mass spectrometry to find the molar mass of elements. When the mass of an individual atom is large then that means the molar mass is greater also. Since knowing the atomic weight of an element gives us an idea of the protons and neutrons we are then equipped to make a good guess about other properties.</p>
+<h2 style="text-align: center;"><strong>Chemical Formulas</strong></h2>
+<p>An empirical formula shows the relative numbers of atoms of each element present in the compound. This is important because it gives us the entire makeup of the compound. For example, it will give us the ratios of elements in some substance. To get the formula you have to measure the mass of each element in the compound. This gives us the mass percentage composition.</p>
+<p>\( Element Percentage = \frac{Mass of Element}{Mass of Sample} * 100% \)</p>
+<h2 style="text-align: center;"><strong>Molecular Formulas</strong></h2>
+<p>To find the molecular formula of a sample we also need to have its molar mass. Of course we already know that we need to use a mass spectrometer to find the molar mass. The molecular formula of a compound is found by determining how many empirical formulas units are needed to account for the measured molar mass of the compound.</p>
+<h2 style="text-align: center;"><strong>Mixtures And Solutions</strong></h2>
+<p><img class="size-large wp-image-4652" src="https://jahlelin.github.io/Science-By-Jason/media/posts/22/fundamentals-of-chemistry-3-1024x682.jpeg" alt="fundamentals of chemistry" width="1024" height="682" /> fundamentals of chemistry</p>
+<p>Most substances that we encounter in the world are not pure like an element. Just about everything we see and touch are mixtures of some sort. Mixtures of different compounds do not gain unique properties. They are just varied quantities of multiples types of compound substances. Everything in a mixture retains its own properties. This is important to remember when you observe compounds and mixtures.</p>
+<p>Obviously there are different types of mixtures. Mixtures that are not very uniform are called heterogeneous. This means that randomly taking a sample will not give us a true indicator of its composition.</p>
+<p>Homogeneous mixtures vary in that they are completely uniform. Taking multiple samples will always give the same composition. You can also call a homogeneous mixture a solution. Many every day products are solutions that we interact with on a regular basis.</p>
+<p>The term dissolving means that we are producing a solution. This is commonly by mixing things together like my chocolate milk in the evenings. When making a solution the more numerous parts are the solvent and the parts that get dissolved are the solute. In my chocolate milk example the milk is the solvent and the chocolate is the solute.</p>
+<h2 style="text-align: center;"><strong>Chemical Reactions</strong></h2>
+<p>Chemical reactions are around us every day. We can describe them in two parts, reactants and products. Reactants are what we start with and the product is what we end up with. Use firewood as an example. The wood is our reactant and after we set it on fire we end up with ashes and those are our product.</p>
+<p>We have learned that reactions do not lose mass in a controlled environment. This led chemists to the law of conservation of mass. This means that atoms are neither created or destroyed. They just change forms. Equations that show a reaction can guide you through what happened to the quantities of everything is involved from starting point to the end product. Chemical reactions are some of the most fun fundamentals of chemistry that I studied in school.</p>
+<h2 style="text-align: center;"><strong>Aqueous Solutions</strong></h2>
+<p>These are types of chemical reactions. An aqueous solution is when two different solutions are mixed and a chemical reaction takes place. This is not common but it does happen. A soluble substance is one that dissolves to a significant extent in a specified solvent. An insoluble substance is one that does not dissolve significantly in a specified solvent.</p>
+<p>A solute may be present as ions or as molecules. We can do a test on anything like this to determine which it is. The test is to see if the new solution conducts and electric current or not. If it does then it is ionic and if not it is molecular.</p>
+<p>An electrolyte is a substance that is present as ions. ionic solids that are soluble in water are electrolytes because the ions become free to move when the solid dissolves.</p>
+<p>The solute in an aqueous strong electrolyte solution is present as ions that can conduct electricity through the solvent. The solutes in nonelectrolyte solutions are present as molecules. Only a small fraction of the solute molecules in weak electrolyte solutions are present as ions.</p>
+<h2 style="text-align: center;"><strong>Precipitate Reactions</strong></h2>
+<p><img class="size-full wp-image-4653" src="https://jahlelin.github.io/Science-By-Jason/media/posts/22/fundamentals-of-chemistry-4.png" alt="fundamentals of chemistry" width="728" height="621" /> fundamentals of chemistry</p>
+<p>Some ionic compounds are soluble and others are not. In a precipitation reaction an insoluble solid product forms when we mix two electrolyte solutions. When an insoluble substance is formed in water it immediately precipitates. A precipitation reaction takes place when solutions of two strong electrolytes are mixed and react to form an insoluble solid. These types of reactions and their study are some of the most popular of the fundamentals of chemistry</p>
+<p>A complete ionic equation for a precipitation reaction shows all the dissolved ions. A complete ionic equation expresses a reaction in terms of the ions that are present in a solution. A net ionic equation is the chemical equation that remains after the cancellation of the spectator ions.</p>
+<p>Precipitation reactions will often make compounds. Chemists often plan this ahead of time to make certain things.</p>
+<h2 style="text-align: center;"><strong>Acids and Bases</strong></h2>
+<p>Substances that historically had sharp tastes were often associated with being an acid. If they were not acidic they were then termed as bases. We can easily tell the difference today with an instrument called a ph meter. An acid is a compound that contains hydrogen and reacts with water to form hydrogen ions and gives away protons. A base is a compound that produces hydroxide ions in water and accepts protons.</p>
+<p>When a molecule of an acid dissolves in water it donates a hydrogen ion to one of the water molecules and forms a hydronium ion. A substance that accepts an ion in a reaction is one that acts as a base. Acids are molecules or ions that are proton donors. Bases are molecules or ions that are proton acceptors.</p>
+<p>Strong acids are completely deprotonated in a solution while weak acids are not. Strong bases are also completely deprotonated in a solution while weak bases are not.</p>
+<p>The reaction between an acid and a base is called a neutralization reaction. The ionic compound produced in the reaction is called a salt. In the neutralization reaction between an acid and a metal hydroxide the cation of the salt is provided by the metal hydroxide and the anion is provided by the acid.</p>
+<p>In a neutralization reaction that occurs in water, an acid reacts with a base to provide a salt. The net outcome of the reaction between between solutions of a strong acid and a strong base is the formation of water from hydrogen ions and hydroxide ions.</p>
+<h2 style="text-align: center;"><strong>Redox Reactions</strong></h2>
+<p>This is another type of reaction and it is very common. Oxidation and reduction are two types of redox reactions. What is common between these two subtypes is the loss of electrons and their transfer to another reactant. We can often recognize the loss of electrons by noting the increase in charge afterwards. We can then infer that oxidation is electron loss and reduction is electron gain. Remember, however, that particles are never lost. So, when anything is oxidized something else must be reduced. Oxidation is electron loss and reduction is electron gain and they both occur together in redox reactions.</p>
+<p>We recognize redox reactions by nothing whether electrons have moved from one substance to another. Chemists keep track of electrons by using oxidation numbers. Oxidation means that an increase in its oxidation number has occurred. Reduction means that a decrease in the oxidation number has happened. So a redox reaction is one in which there have been changes in the oxidation numbers.</p>
+<p>The substance that causes oxidation is called the oxidation agent. When an oxidation agent reacts, it accepts the electrons released by whatever is being oxidized. so the oxidizing agent in a redox reaction is whatever is being reduced and the reducing agent is what is being oxidized.</p>
+<h2 style="text-align: center;"><strong>Stoichiometry</strong></h2>
+<p>Stoichiometry is the process of predicting the amounts of reactant or product that will be needed for a given reaction.  You can tell this by balancing an equation which will give you the amounts of atoms involved. Of the fundamentals of chemistry that people learn, it can be a little confusing.</p>
+<p>The balanced chemical equation for a reaction is used to set up the mole ratio which is a factor that is used to convert the amount of one substance into the amount of another substance.</p>
+<p>In a mass to mass calculation, convert the given mass into moles, apply the mole to mole conversion factor to obtain the amount required, and finally convert the amount in moles into mass.</p>
+<p>A common technique for determining the concentration of a solute is titration. This process is part of volumetric analysis. Titrations are usually either acid-base or redox reactions. An acid-base is where an acid reacts with a base. A redox  titration is where the reaction is between a reducing agent and an oxidizing agent.</p>
+<h2 style="text-align: center;"><strong>Limiting Reactants</strong></h2>
+<p>The theoretical yield of a reaction is the max quantity of product that can be obtained from a given quantity of reactant. The percentage yield is the fraction of the theoretical yield actually produced.</p>
+<p>\( Percentage yeild = \frac{actual yield}{theoretical yield} * 100% \)</p>
+<p>The theoretical yield of a product is the max quantity that can be expected on the basis of the stoichiometry of a chemical equation. The percentage yield is the percentage of the theoretical yield actually produced.</p>
+<p>The limiting reactant in a reaction is the reactant that governs the max yield of product.</p>
+<h2 style="text-align: center;"><strong>Conclusion</strong></h2>
+<p>The fundamentals of chemistry are quite complex and deep. In fact, we have not even got to the more fun parts yet. That is the way it is though, you have to get these basic concepts down before the other things will make sense and you can really enjoy what chemistry has to offer.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>One-Sided Limits Of Calculus</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://jahlelin.github.io/Science-By-Jason/one-sided-limits-of-calculus.html"/>
+        <id>https://jahlelin.github.io/Science-By-Jason/one-sided-limits-of-calculus.html</id>
+
+        <updated>2019-10-14T21:52:58-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://jahlelin.github.io/Science-By-Jason/media/posts/21/one-sidedlimits0.png" alt="" />
+                    <p>In a continuance of this series today, I wanted to talk about the one-sided limits of calculus. Limits and where they lead are one of the fundamental concepts of calculus. Since limits show what happens near any particular point on a graph we need to take a look at them. Read on with me and I will explain their behavior so you can easily solve them.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://jahlelin.github.io/Science-By-Jason/media/posts/21/one-sidedlimits0.png" alt="" />
+                <p>In a continuance of this series today, I wanted to talk about the one-sided limits of calculus. Limits and where they lead are one of the fundamental concepts of calculus. Since limits show what happens near any particular point on a graph we need to take a look at them. Read on with me and I will explain their behavior so you can easily solve them.</p>
+
+<h2 style="text-align: center;"><strong>One-Sided Limits</strong></h2>
+<p>Our current idea of the <a href="http://sciencebyjason.com/basic-calculus-problems-definition-of-a-limit/">limit definition</a> goes back around 200 years ago by <a href="https://en.wikipedia.org/wiki/Bernard_Bolzano">Bernard Bolzano</a>. He was instrumental in several mathematical ideas. One of which was the definition of one-sided limits which I will be talking about today. Now on to some problems!</p>
+<h3><strong>Problem 1.</strong></h3>
+<p>Use the graph to see if the following statements are true or false. Look at the graph carefully because it can be tricky to see what is really going on sometimes.</p>
+<p><img class="aligncenter size-large wp-image-4591" src="https://jahlelin.github.io/Science-By-Jason/media/posts/21/one-sidedlimits1-1024x450.png" alt="" width="1024" height="450" /></p>
+<p>&nbsp;</p>
+<p>We can see there is a function \(y=f(x)\). There is also a small portion of the positive x-axis defined from [3 to 6].</p>
+<p>A. True or False: \(lim_{x \to -3+}(f(x)=9\)</p>
+<p>F(x) is your [y] value. X is of course your [x] value. Does [y] or [f(x)] get closer to 9 as [x] gets closer to 3 when coming from larger numbers than +3 ?</p>
+<p>We can see that it sure does. The answer is [true].</p>
+<p>B. True or False: \(lim_{x \to 0-}(f(x)=3\)</p>
+<p>F(x) is your [y] value. X is your [x] value. The question is asking if [y=3] as [x] approaches 0 from the negative side of the [x] axis ?</p>
+<p>It appears that [y=0] when [x=0] so the answer is false for this question.</p>
+<p>C. True or False: \(lim_{x \to 0-}(f(x)\) = \(lim_{x \to 0+}(f(x)\) ?</p>
+<p>This question is asking if the left limit is the same as the right limit. What does [y] equal when [x] is coming from the negative side? It equals 0. Now what         does   [y] equal as [x] is coming from the positive side? It equals 0 also. So both one-sides limits equal each other and the answer to the question is [true].</p>
+<p>D. True or False: \(lim_{x \to 0}(f(x)\) exists?</p>
+<p>We have basically answered this question already. When the limit is listed without directional signs(- or +) it is asking if the limit exists and is equal from both       sides of the graph. It is equivalent to asking if the limit from the left side equal the limit from the right side? As mentioned before we have answered this. We           did see that the limit from the left side equaled the limit from the right side. So the answer to this question is [true].</p>
+<p>E. True or False: \(lim_{x \to 0}(f(x)=0\)</p>
+<p>This is another version of the question above. Since there are no directional signs(- or +) it is implying the full limit. The full limit is each one-sided limit being       equal to each other. The left hand limit=0. The right hand limit=0. Therefore the limits equal each other and both equal 0. So the answer is also true for this           question.</p>
+<p>F. True or False: \(lim_{x \to 3}(f(x)=9\)</p>
+<p>F(x) is your [y] value. X is your [x] value. The question is asking if [y=9] whether [x] approaches 3 from the negative or positive side?</p>
+<p>When [x] is coming from the positive side of the [x] axis things are pretty clear and defined. However, there is a hole in the graph when [x] approaches 3 from       the negative side. Therefore our limits are not equal and the answer is [false].</p>
+<p>G. True or False: \(lim_{x \to 6-}(f(x)=6\)</p>
+<p>F(x) is your [y] value. X is your [x] value. This is asking if [y=6] when [x] approaches 6 from the negative side? We can plainly see that it does not. When [y=6]       it looks like [x] is somewhere between 2 and 3. So the answer to this question is [false].</p>
+<h3><strong>Problem 2.</strong></h3>
+<p>F(x) = 6-x when x &lt; 2 and (x/2) +1 when x &gt; 2.</p>
+<p>Find \(lim_{x \to 2+}(f(x)\) and \(lim_{x \to 2-}(f(x)\).</p>
+<p>This is what I call a conditional function. Certain sections of the function give different values depending on the condition.</p>
+<p>We will start by looking at the one-sided limits. First lets look at the limit as [x] approaches 2 from the positive side of the x-axis. The expresison (x/2) + 1 is used to evaluate when x &gt; 2.</p>
+<p>The \(lim_{x \to 2+}(f(x)=((x/2)+1)\)  =  (2/2) + 1 = 2.</p>
+<p>The expression 6-x is used to evaluate the expression when x &lt; 2.</p>
+<p>The \(lim_{x \to 2-}(f(x)=6-x\)  =  6-2 = 4.</p>
+<p>Does the limit exist? For a full limit to exist its one-sided limits have to exist and be equal. The two limits above that we evaluated are not equal. Therefore the limit does not exist.</p>
+<h3><strong>Problem 3.</strong></h3>
+<p>Use the relation \(lim_{\theta \to 0}{\frac{\sin\theta}{\theta}}=1\) to find the limit of this function.</p>
+<p>\(\frac{\sin \sqrt{2} \theta}{\sqrt{2} \theta}\)</p>
+<p>As \(\theta\) gets closer to 0 the square root of \(\theta\) also gets closer to 0.</p>
+<p>We now have : \(lim_{\sqrt{2}\theta \to 0}{\frac{\sin \sqrt{2} \theta}{\sqrt{2} \theta}}\)</p>
+<p>So \(x = \sqrt{2} \theta \). Now substitute in the values.</p>
+<p>\(lim_{x \to 0} \frac{\sin x}{x} =1 \). That is our answer using the relation.</p>
+<h3><strong>Problem 4.</strong></h3>
+<p>Find the limit of this expression. \(lim_{y \to 0}{\frac{\sin 3y}{7y}}\)</p>
+<p>Again we will use the theorem \(lim_{\theta \to 0} \frac{\sin \theta}{\theta} = 1 \)</p>
+<p>To get the form that we want so we can solve easily we need to multiply the numerator and denominator by \(\frac{3}{7}\).</p>
+<p>Once you see how everything cancels out you will see that your answer is also \(\frac{3}{7}\).</p>
+<h3><strong>Problem 5.</strong></h3>
+<p>Use the relation \(lim_{\theta \to 0} \frac{\sin \theta}{\theta} =1 \) for the following one-sided limits problem.</p>
+<p>\( f(x) = \frac{2x + 2x\cos(2x)}{\sin(2x)\cos(2x)} \)  as x approaches 0.</p>
+<p>We should write this expression as the sum of two terms.</p>
+<p>\(\frac{2x}{\sin(2x)\cos(2x)} + {2x}{\sin(2x)}\)</p>
+<p>Now rewrite the first fraction as the product of two fractions and then factor the result.</p>
+<p>\(\frac{2x}{\sin(2x)} * \frac{1}{\cos(2x)} + \frac{2x}{\sin(2x)}\)</p>
+<p>\(= \frac{2x}{\sin(2x)} \left(\frac{1}{\cos(2x)} + 1\right) \)</p>
+<p>Multiply this out and then simplify. I did not show all the Algebra steps there because it is a pain but if you are in calculus this should be trivial for you.</p>
+<p>You will this expression: \(\frac{1}{1} \left(\frac{1}{1} +1\right)\)</p>
+<p>\(=2\)</p>
+<h3><strong>Problem 6.</strong></h3>
+<p>Use the relation \(lim_{\theta \to 0} \frac{\sin \theta}{\theta} =1\) to find out the limit of the function below.</p>
+<p>\(f(\theta)=\frac{\sin \theta}{\sin (2\theta)}\)</p>
+<p>Multiply \(\frac{\sin \theta}{\sin (2\theta)} by \frac{2\theta}{2\theta} \).</p>
+<p>This equals : \(\frac{1}{2} * \frac{\sin \theta}{\theta} * \frac{2\theta}{\sin (2\theta)}\).</p>
+<p>We now have: \(\frac{1}{2} * 1 * \frac{1}{1} \).</p>
+<p>So you should get \(\frac{1}{2}\) as your answer.</p>
+<h2 style="text-align: center;"><strong>Conclusion</strong></h2>
+<p>After doing a few problems you should be able to see how useful one-sided limits can be to you. This will be one of your premier tools later on to help you solve problems. <a href="http://sciencebyjason.com/beginning-calculus-problems-with-limits/">Limits</a> often exhibit some wild behavior. That is why we must look at both sides of any particular limit. Sometimes they may be exactly equal on both sides but many times they will not be. Graphing will help when it gets more complicated so I will be using more graphs as we progress.</p>
+<p>I hope you enjoyed this article and that it will help your understanding and appreciation of <a href="http://sciencebyjason.com/beginning-calculus-rate-of-change/">Calculus</a>.</p>
+<p>If you are already not a member of my site then please subscribe. I would appreciate it very much!</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+            ]]>
+        </content>
+    </entry>
+</feed>
