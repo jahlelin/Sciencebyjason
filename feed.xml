@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Science By Jason</title>
-    <link href="https://jahlelin.github.io/Science-By-Jason/feed.xml" rel="self" />
-    <link href="https://jahlelin.github.io/Science-By-Jason" />
-    <updated>2019-10-14T22:24:42-05:00</updated>
+    <link href="https://jahlelin.github.io/ScienceByJason/feed.xml" rel="self" />
+    <link href="https://jahlelin.github.io/ScienceByJason" />
+    <updated>2019-11-28T17:30:22-06:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
-    <id>https://jahlelin.github.io/Science-By-Jason</id>
+    <id>https://jahlelin.github.io/ScienceByJason</id>
 
     <entry>
         <title>How To Differentiate Trig Functions</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://jahlelin.github.io/Science-By-Jason/how-to-differentiate-trig-functions.html"/>
-        <id>https://jahlelin.github.io/Science-By-Jason/how-to-differentiate-trig-functions.html</id>
+        <link href="https://jahlelin.github.io/ScienceByJason/how-to-differentiate-trig-functions.html"/>
+        <id>https://jahlelin.github.io/ScienceByJason/how-to-differentiate-trig-functions.html</id>
 
         <updated>2019-10-14T21:52:58-05:00</updated>
             <summary>
@@ -38,8 +38,8 @@
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://jahlelin.github.io/Science-By-Jason/how-to-use-stellarium.html"/>
-        <id>https://jahlelin.github.io/Science-By-Jason/how-to-use-stellarium.html</id>
+        <link href="https://jahlelin.github.io/ScienceByJason/how-to-use-stellarium.html"/>
+        <id>https://jahlelin.github.io/ScienceByJason/how-to-use-stellarium.html</id>
 
         <updated>2019-10-14T21:52:58-05:00</updated>
             <summary></summary>
@@ -50,20 +50,20 @@
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://jahlelin.github.io/Science-By-Jason/how-to-differentiate-algebra-functions.html"/>
-        <id>https://jahlelin.github.io/Science-By-Jason/how-to-differentiate-algebra-functions.html</id>
+        <link href="https://jahlelin.github.io/ScienceByJason/how-to-differentiate-algebra-functions.html"/>
+        <id>https://jahlelin.github.io/ScienceByJason/how-to-differentiate-algebra-functions.html</id>
 
         <updated>2019-10-14T21:52:58-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://jahlelin.github.io/Science-By-Jason/media/posts/28/differentiate-algebra-functions-0.png" alt="" />
+                        <img src="https://jahlelin.github.io/ScienceByJason/media/posts/28/differentiate-algebra-functions-0.png" alt="" />
                     <p>Learning to differentiate algebra functions is not hard but involves learning a few rules and some practice. In this article I want to go over these rules which will help you analyze these functions. For each example I also include a graph so you can see what the function is doing visually.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://jahlelin.github.io/Science-By-Jason/media/posts/28/differentiate-algebra-functions-0.png" alt="" />
+                    <img src="https://jahlelin.github.io/ScienceByJason/media/posts/28/differentiate-algebra-functions-0.png" alt="" />
                 <p>Learning to differentiate algebra functions is not hard but involves learning a few rules and some practice. In this article I want to go over these rules which will help you analyze these functions. For each example I also include a graph so you can see what the function is doing visually.</p>
 
 <p>&nbsp;</p>
@@ -86,38 +86,38 @@
 <p>There are two variables here (u and x) but the chain rule can handle any number of variables. This will be handy later on. Lets try some examples now.</p>
 <h2><strong>Example 1</strong></h2>
 <p>Find the derivative of $$ y = x^{3b} $$ .</p>
-<p><img class="aligncenter wp-image-4885 size-full" src="https://jahlelin.github.io/Science-By-Jason/media/posts/28/differentiate-algebra-functions-1.png" alt="differentiate algebra functions " width="1416" height="899" /></p>
+<p><img class="aligncenter wp-image-4885 size-full" src="https://jahlelin.github.io/ScienceByJason/media/posts/28/differentiate-algebra-functions-1.png" alt="differentiate algebra functions " width="1416" height="899" /></p>
 <p>Ok remember the exponent rules. Bring down the exponent in front of the term and subtract one from the exponent. That gives us:</p>
 <p>$$ \frac{dy}{dx} = 3b * (x^{3b-1}) $$</p>
 <p>It is just the simple combination of terms as the answer, which is $$ 3bx^{3b-1} $$</p>
 <h2><strong>Example 2</strong></h2>
 <p>Next we want to find the derivative of $$ y = (2x^3 - 5x^2 + 4)^5 $$</p>
-<p><img class="aligncenter size-large wp-image-4886" src="https://jahlelin.github.io/Science-By-Jason/media/posts/28/differentiate-algebra-functions-2-1024x645.png" alt="differentiate algebra functions" width="1024" height="645" /></p>
+<p><img class="aligncenter size-large wp-image-4886" src="https://jahlelin.github.io/ScienceByJason/media/posts/28/differentiate-algebra-functions-2-1024x645.png" alt="differentiate algebra functions" width="1024" height="645" /></p>
 <p>You will see this looks weird but just take it step by step. It is two main parts. It is often explained by taking the outside derivative and then the inside derivative. You can use the power rule each way. So lets do the outside first. That will be:</p>
 <p>$$ 5(2x^3 - 5x^2 + 4)^4 $$ and the inside is $$ 6x^2 -10x $$</p>
 <p>Just combine the two and we will get $$ 5(2x^3 - 5x^2 + 4)^4(6x^2 -10x) $$</p>
 <h2><strong>Example 3</strong></h2>
 <p>Lets try this one now, $$ y = (x^2 + 2)^3 $$</p>
-<p><img class="aligncenter size-large wp-image-4887" src="https://jahlelin.github.io/Science-By-Jason/media/posts/28/differentiate-algebra-functions-3-1024x653.png" alt="differentiate algebra functions " width="1024" height="653" /></p>
+<p><img class="aligncenter size-large wp-image-4887" src="https://jahlelin.github.io/ScienceByJason/media/posts/28/differentiate-algebra-functions-3-1024x653.png" alt="differentiate algebra functions " width="1024" height="653" /></p>
 <p>This is a chain rule again. Take the outside derivative and then the inside derivative. Afterwards, just combine the two expressions.</p>
 <p>$$ 3(x^2 + 2)^2 $$ is the outside and $$ 2x $$ is the inside.</p>
 <p>So our answer is $$ 3(x^2 + 2)^2 (2x) $$</p>
 <h2><strong>Example 4</strong></h2>
 <p>Find the derivative of $$ y = (x^3 - 4)^5 $$</p>
-<p><img class="aligncenter size-large wp-image-4888" src="https://jahlelin.github.io/Science-By-Jason/media/posts/28/differentiate-algebr-functions-4-1024x654.png" alt="differentiate algebra functions" width="1024" height="654" /></p>
+<p><img class="aligncenter size-large wp-image-4888" src="https://jahlelin.github.io/ScienceByJason/media/posts/28/differentiate-algebr-functions-4-1024x654.png" alt="differentiate algebra functions" width="1024" height="654" /></p>
 <p>Take the outside derivative and then the derivative inside.</p>
 <p>$$ \frac{d}{dx} ((x^3 - 4)^5) * \frac{d}{dx} (x^3 - 4) $$</p>
 <p>That is the outside * the inside. So after taking the derivatives we get:</p>
 <p>$$ 5(x^3 - 4)^4 (3x^2) $$</p>
 <h2><strong>Example 5</strong></h2>
 <p>Here is another straight forward problem. Find the derivative of $$ y = (2x^2 + 3x)^{10} $$</p>
-<p><img class="aligncenter size-large wp-image-4889" src="https://jahlelin.github.io/Science-By-Jason/media/posts/28/differentiate-algebra-functions-5-1024x650.png" alt="differentiate algebra functions" width="1024" height="650" /></p>
+<p><img class="aligncenter size-large wp-image-4889" src="https://jahlelin.github.io/ScienceByJason/media/posts/28/differentiate-algebra-functions-5-1024x650.png" alt="differentiate algebra functions" width="1024" height="650" /></p>
 <p>Just like the others, take the derivative of the outside and then take derivative of the inside. Combine them after that.</p>
 <p>$$ 10(2x^2 + 3x)^9 (4x + 3) $$</p>
 <p>That should be fairly straight forward by now. No fancy tricks needed.</p>
 <h2><strong>Example 6</strong></h2>
 <p>Find the derivative of $$ y = \sqrt{2x^3 - 4x + 5} $$</p>
-<p><img class="aligncenter size-large wp-image-4890" src="https://jahlelin.github.io/Science-By-Jason/media/posts/28/differentiate-algebra-functions-6-1024x646.png" alt="differentiate algebra functions" width="1024" height="646" /></p>
+<p><img class="aligncenter size-large wp-image-4890" src="https://jahlelin.github.io/ScienceByJason/media/posts/28/differentiate-algebra-functions-6-1024x646.png" alt="differentiate algebra functions" width="1024" height="646" /></p>
 <p>You can see this is an expression with a square root. A square root is the same as an exponent to the half power. This expression can be rewritten as:</p>
 <p>$$ y = (2x^3 - 4x + 5)^\frac{1}{2} $$</p>
 <p>Now we just apply the same rules that we are already used to. You will notice that in Calculus, rewriting an expression is sometimes half the battle. You will know certain rules and have tools to deal with certain kinds of expressions but you need them in the right form. So it will be important to recognize when you need to rewrite something to make it work for you.</p>
@@ -125,7 +125,7 @@
 <p>$$ \frac{1}{2}(2x^3 - 4x + 5)^{-\frac{1}{2}} (6x^2 - 4) $$</p>
 <h2><strong>Example 7</strong></h2>
 <p>Next, find this derivative. $$ y = \sqrt{x^2 + 1} $$</p>
-<p><img class="aligncenter size-large wp-image-4891" src="https://jahlelin.github.io/Science-By-Jason/media/posts/28/differentiate-algebra-functions-7-1024x655.png" alt="differentiate algebra functions" width="1024" height="655" /></p>
+<p><img class="aligncenter size-large wp-image-4891" src="https://jahlelin.github.io/ScienceByJason/media/posts/28/differentiate-algebra-functions-7-1024x655.png" alt="differentiate algebra functions" width="1024" height="655" /></p>
 <p>First, we rewrite the problem to get rid of the root expression.</p>
 <p>$$ y = (x^2 + 1)^\frac{1}{2} $$</p>
 <p>As before, we take the derivative of the outside expression and then take the inside derivative. Then we combine the expressions.</p>
@@ -133,21 +133,21 @@
 <p>That is our answer.</p>
 <h2><strong>Example 8</strong></h2>
 <p>Find the derivative of $$ y = \sqrt{3x^2 + 4} $$</p>
-<p><img class="aligncenter size-large wp-image-4892" src="https://jahlelin.github.io/Science-By-Jason/media/posts/28/differentiate-algebra-functions-8-1024x647.png" alt="differentiate algebra functions" width="1024" height="647" /></p>
+<p><img class="aligncenter size-large wp-image-4892" src="https://jahlelin.github.io/ScienceByJason/media/posts/28/differentiate-algebra-functions-8-1024x647.png" alt="differentiate algebra functions" width="1024" height="647" /></p>
 <p>Rewrite the expression to get rid of the root and get an exponent.</p>
 <p>$$ y = (3x^2 + 4)^\frac{1}{2} $$</p>
 <p>Now we can work with it. Take the outside derivative and then the inside derivative. We get:</p>
 <p>$$ \frac{1}{2}(3x^2 + 4)^{-\frac{1}{2}} (6x) $$</p>
 <h2><strong>Example 9</strong></h2>
 <p>Find the derivative of $$ y = \sqrt[3]{4 - t} $$</p>
-<p><img class="aligncenter size-large wp-image-4893" src="https://jahlelin.github.io/Science-By-Jason/media/posts/28/differentiate-algebra-functions-9-1024x650.png" alt="differentiate algebra functions " width="1024" height="650" /></p>
+<p><img class="aligncenter size-large wp-image-4893" src="https://jahlelin.github.io/ScienceByJason/media/posts/28/differentiate-algebra-functions-9-1024x650.png" alt="differentiate algebra functions " width="1024" height="650" /></p>
 <p>This problem is slightly different. You can see it has a cube root. It will follow the same rules as a square root though. The expression is to the 1/3 power. It looks like this.</p>
 <p>$$ y = (4 - t)^\frac{1}{3} $$</p>
 <p>Now we just use the chain rule like we have been all along. Take the derivative of the outside expression and then the inside derivative.</p>
 <p>$$ y = \frac{1}{3} (4 - t)^{-\frac{2}{3}} (-1) $$</p>
 <h2><strong>Example 10</strong></h2>
 <p>Find the derivative of $$ y = \sqrt[3]{t^3 + 3t + 1} $$</p>
-<p><img class="aligncenter size-large wp-image-4894" src="https://jahlelin.github.io/Science-By-Jason/media/posts/28/differentiate-algebra-functions-10-1024x642.png" alt="differentiate algebra functions " width="1024" height="642" /></p>
+<p><img class="aligncenter size-large wp-image-4894" src="https://jahlelin.github.io/ScienceByJason/media/posts/28/differentiate-algebra-functions-10-1024x642.png" alt="differentiate algebra functions " width="1024" height="642" /></p>
 <p>This is another cube root expression. It will follow the same rules as the other root expressions.</p>
 <p>$$ y = (t^3 + 3t + 1)^\frac{1}{3} $$</p>
 <p>That should look familiar now. Lets use the chain rule again. Once again its time to take the outside derivative and then the inside derivative.</p>
@@ -155,7 +155,7 @@
 <p>We have a good answer there.</p>
 <h2><strong>Example 11</strong></h2>
 <p>Find the derivative of $$ y = \frac{1}{4x^3 + 5x^2 - 7x + 8} $$</p>
-<p><img class="aligncenter size-large wp-image-4895" src="https://jahlelin.github.io/Science-By-Jason/media/posts/28/differentiate-algebra-functions-11-1024x652.png" alt="differentiate algebra functions " width="1024" height="652" /></p>
+<p><img class="aligncenter size-large wp-image-4895" src="https://jahlelin.github.io/ScienceByJason/media/posts/28/differentiate-algebra-functions-11-1024x652.png" alt="differentiate algebra functions " width="1024" height="652" /></p>
 <p>You will see everything is in the denominator. I am sure you think this will be real fun! Well it won't be near as bad as you are thinking. Remember what I said earlier about rewriting problems to make it easier for you? This is exactly what we are going to do here.</p>
 <p>Lets start by moving the denominator up to the numerator. We reverse the exponent when we do this. It looks like this.</p>
 <p>$$ y = (4x^3 + 5x^2 - 7x + 8)^{-1} $$</p>
@@ -164,7 +164,7 @@
 <p>That is our answer. You could move the expression with the -2 power to the denominator if you wanted but I view that as a formality. Everyone knows you can do that. If you have to give a more precise answer then do that as it will make it easier.</p>
 <h2><strong>Example 12</strong></h2>
 <p>Find the derivative of $$ y = x^3 - 2\sqrt{3x^2 + 4} $$</p>
-<p><img class="aligncenter size-large wp-image-4896" src="https://jahlelin.github.io/Science-By-Jason/media/posts/28/differentiate-algebra-functions-12-1024x654.png" alt="differentiate algebra functions " width="1024" height="654" /></p>
+<p><img class="aligncenter size-large wp-image-4896" src="https://jahlelin.github.io/ScienceByJason/media/posts/28/differentiate-algebra-functions-12-1024x654.png" alt="differentiate algebra functions " width="1024" height="654" /></p>
 <p>This is another slightly different type of problem. Take it step by step. We will separate the constant from the root and do the other parts as normal. First, take derivative of the first term.</p>
 <p>$$ 3x^2 - 2\sqrt{3x^2 + 4} $$</p>
 <p>Now lets rewrite the root portion of the problem.</p>
@@ -186,20 +186,20 @@
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://jahlelin.github.io/Science-By-Jason/how-the-sun-works.html"/>
-        <id>https://jahlelin.github.io/Science-By-Jason/how-the-sun-works.html</id>
+        <link href="https://jahlelin.github.io/ScienceByJason/how-the-sun-works.html"/>
+        <id>https://jahlelin.github.io/ScienceByJason/how-the-sun-works.html</id>
 
         <updated>2019-10-14T21:52:58-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://jahlelin.github.io/Science-By-Jason/media/posts/27/how-the-sun-works-0.jpg" alt="" />
+                        <img src="https://jahlelin.github.io/ScienceByJason/media/posts/27/how-the-sun-works-0.jpg" alt="" />
                     <p>In this paper I want to describe how the sun works. I will also comment about its properties and how it affects us here on Earth with its radiation. Our Sun is a star and is the closest one to us by far. That gives us the opportunity to study it more closely than any other star.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://jahlelin.github.io/Science-By-Jason/media/posts/27/how-the-sun-works-0.jpg" alt="" />
+                    <img src="https://jahlelin.github.io/ScienceByJason/media/posts/27/how-the-sun-works-0.jpg" alt="" />
                 <p>In this paper I want to describe how the sun works. I will also comment about its properties and how it affects us here on Earth with its radiation. Our Sun is a star and is the closest one to us by far. That gives us the opportunity to study it more closely than any other star.</p>
 
 <h2 style="text-align: center;"><strong>How The Sun Works</strong></h2>
@@ -255,20 +255,20 @@
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://jahlelin.github.io/Science-By-Jason/how-to-solve-rates-of-change-problems.html"/>
-        <id>https://jahlelin.github.io/Science-By-Jason/how-to-solve-rates-of-change-problems.html</id>
+        <link href="https://jahlelin.github.io/ScienceByJason/how-to-solve-rates-of-change-problems.html"/>
+        <id>https://jahlelin.github.io/ScienceByJason/how-to-solve-rates-of-change-problems.html</id>
 
         <updated>2019-10-14T21:52:58-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://jahlelin.github.io/Science-By-Jason/media/posts/26/rate-of-change-0.png" alt="" />
+                        <img src="https://jahlelin.github.io/ScienceByJason/media/posts/26/rate-of-change-0.png" alt="" />
                     <p>Solving rates of change problems is a fundamental skill of Calculus. These basic derivatives lead to more interesting concepts later on. So it is vital you get these down and know all the ways of dealing with them. In this article I want to show how you solve basic derivatives and get good accurate answers.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://jahlelin.github.io/Science-By-Jason/media/posts/26/rate-of-change-0.png" alt="" />
+                    <img src="https://jahlelin.github.io/ScienceByJason/media/posts/26/rate-of-change-0.png" alt="" />
                 <p>Solving rates of change problems is a fundamental skill of Calculus. These basic derivatives lead to more interesting concepts later on. So it is vital you get these down and know all the ways of dealing with them. In this article I want to show how you solve basic derivatives and get good accurate answers.</p>
 
 <h2 style="text-align: center;"><strong>How To Solve Rates Of Change Problems<br />
@@ -279,7 +279,7 @@
 <p>Find the slope of the curve at the point (1,5).</p>
 <p>$$ y= 3x^2 -2x +4 $$</p>
 <p>The curve looks like this.</p>
-<p><img class="aligncenter size-large wp-image-4827" src="https://jahlelin.github.io/Science-By-Jason/media/posts/26/rate-of-change-0-1-1024x638.png" alt="rate of change 1" width="1024" height="638" /></p>
+<p><img class="aligncenter size-large wp-image-4827" src="https://jahlelin.github.io/ScienceByJason/media/posts/26/rate-of-change-0-1-1024x638.png" alt="rate of change 1" width="1024" height="638" /></p>
 <p>We will use the difference formula to solve basic derivatives for now.</p>
 <p>$$ \frac{3(x + \bigtriangleup x)^2 - 2(x + \bigtriangleup x) + 4 - (3x^2 -2x + 4)}{\bigtriangleup x} $$</p>
 <p>Lets multiple out these terms.</p>
@@ -298,7 +298,7 @@
 <p>Find the instantaneous rates of change of :</p>
 <p>$$ y = \frac{2x}{x + 1} $$</p>
 <p>when x = 2.</p>
-<p><img class="aligncenter size-large wp-image-4828" src="https://jahlelin.github.io/Science-By-Jason/media/posts/26/rate-of-change-2-1024x777.png" alt="rate of change 2" width="1024" height="777" /></p>
+<p><img class="aligncenter size-large wp-image-4828" src="https://jahlelin.github.io/ScienceByJason/media/posts/26/rate-of-change-2-1024x777.png" alt="rate of change 2" width="1024" height="777" /></p>
 <p>First we need to find:</p>
 <p>$$ \frac{\bigtriangleup y}{\bigtriangleup x} $$</p>
 <p>This basically says to find the change in y over the change in x. However, there is more to solving this.</p>
@@ -324,7 +324,7 @@
 <h2><strong>Problem 3</strong></h2>
 <p>Find the average rates of change of:</p>
 <p>$$ y = f(x) = x^2 - 2 $$ between the points $$  x = 3 and x = 4 $$</p>
-<p><img class="aligncenter size-large wp-image-4829" src="https://jahlelin.github.io/Science-By-Jason/media/posts/26/rate-of-change-3-1024x788.png" alt="" width="1024" height="788" /></p>
+<p><img class="aligncenter size-large wp-image-4829" src="https://jahlelin.github.io/ScienceByJason/media/posts/26/rate-of-change-3-1024x788.png" alt="" width="1024" height="788" /></p>
 <p>The average rate of change is defined by:</p>
 <p>$$ \frac{\bigtriangleup y}{\bigtriangleup x} and \bigtriangleup y = f(x + \bigtriangleup x) - f(x) $$</p>
 <p>We are given x = 3 and change in x = 4 - 3 = 1. So this gives us:</p>
@@ -340,7 +340,7 @@
 <h2><strong>Problem 4</strong></h2>
 <p>Find the average rates of change for:</p>
 <p>$$ y = \frac{1}{x} $$</p>
-<p><img class="aligncenter size-large wp-image-4830" src="https://jahlelin.github.io/Science-By-Jason/media/posts/26/rate-of-change-4-1024x775.png" alt="rate of change 4" width="1024" height="775" /></p>
+<p><img class="aligncenter size-large wp-image-4830" src="https://jahlelin.github.io/ScienceByJason/media/posts/26/rate-of-change-4-1024x775.png" alt="rate of change 4" width="1024" height="775" /></p>
 <p>The average rate of change is defined as:</p>
 <p>$$ \frac{\bigtriangleup y}{\bigtriangleup x}  with  \bigtriangleup y = f(x + \bigtriangleup x) - f(x) $$</p>
 <p>Since:</p>
@@ -356,7 +356,7 @@
 <p>&nbsp;</p>
 <h2><strong>Problem 5</strong></h2>
 <p>Evaluate the rates of change in y=3x + 7 between x = -1 and x = 1.</p>
-<p><img class="aligncenter size-large wp-image-4831" src="https://jahlelin.github.io/Science-By-Jason/media/posts/26/rate-of-change-5-1024x776.png" alt="rate of change 5" width="1024" height="776" /></p>
+<p><img class="aligncenter size-large wp-image-4831" src="https://jahlelin.github.io/ScienceByJason/media/posts/26/rate-of-change-5-1024x776.png" alt="rate of change 5" width="1024" height="776" /></p>
 <p>$$ \bigtriangleup y = f(x + \bigtriangleup x) - f(x) $$</p>
 <p>We will start with x = -1 and evaluate.</p>
 <p>$$ \bigtriangleup x = 1 - (-1) = 2. $$</p>
@@ -370,7 +370,7 @@
 <p>&nbsp;</p>
 <h2><strong>Problem 6</strong></h2>
 <p>Evaluate the rate of change in Y with respect to X at the point x = 5 when $$ 2y = x^2 + 3x - 1 $$</p>
-<p><img class="aligncenter size-large wp-image-4832" src="https://jahlelin.github.io/Science-By-Jason/media/posts/26/rate-of-change-6-1024x786.png" alt="rate of change 6" width="1024" height="786" /></p>
+<p><img class="aligncenter size-large wp-image-4832" src="https://jahlelin.github.io/ScienceByJason/media/posts/26/rate-of-change-6-1024x786.png" alt="rate of change 6" width="1024" height="786" /></p>
 <p>The rate of change is defined as $$ \bigtriangleup y = f(x + \bigtriangleup x) - f(x) $$</p>
 <p>So, we do our inputs into the original equation.</p>
 <p>$$ 2\bigtriangleup y = (x + \bigtriangleup x)^2 + 3(x + \bigtriangleup x) - 1 - (x^2 + 3x - 1) $$</p>
@@ -393,7 +393,7 @@
 <h2><strong>Problem 7</strong></h2>
 <p>Find the derivative of the function:</p>
 <p>$$ y = 2x^2 + 3x $$</p>
-<p><img class="aligncenter size-large wp-image-4833" src="https://jahlelin.github.io/Science-By-Jason/media/posts/26/rate-of-change-7-1024x773.png" alt="rate of change 7" width="1024" height="773" /></p>
+<p><img class="aligncenter size-large wp-image-4833" src="https://jahlelin.github.io/ScienceByJason/media/posts/26/rate-of-change-7-1024x773.png" alt="rate of change 7" width="1024" height="773" /></p>
 <p>The definition of of this type of derivative is:</p>
 <p>$$ y'(x) = \frac{f(x + \bigtriangleup x) - f(x)}{\bigtriangleup x} $$</p>
 <p>Does that definition look familiar? It should. It is what we have been using all along. What we have been doing all along is finding derivatives at points on a graph.</p>
@@ -423,20 +423,20 @@
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://jahlelin.github.io/Science-By-Jason/how-to-use-latex-typesetting.html"/>
-        <id>https://jahlelin.github.io/Science-By-Jason/how-to-use-latex-typesetting.html</id>
+        <link href="https://jahlelin.github.io/ScienceByJason/how-to-use-latex-typesetting.html"/>
+        <id>https://jahlelin.github.io/ScienceByJason/how-to-use-latex-typesetting.html</id>
 
         <updated>2019-10-14T21:52:58-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://jahlelin.github.io/Science-By-Jason/media/posts/25/Latex-Typesetting.png" alt="" />
+                        <img src="https://jahlelin.github.io/ScienceByJason/media/posts/25/Latex-Typesetting.png" alt="" />
                     <p>Learning LaTeX typesetting does not have to be hard. While it can be very involved, there are really just a few basics.Today I will strive to help you with the fundamentals. If you need additional options after that they are easy to find. LaTeX can be very useful so lets get started.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://jahlelin.github.io/Science-By-Jason/media/posts/25/Latex-Typesetting.png" alt="" />
+                    <img src="https://jahlelin.github.io/ScienceByJason/media/posts/25/Latex-Typesetting.png" alt="" />
                 <p>Learning LaTeX typesetting does not have to be hard. While it can be very involved, there are really just a few basics.Today I will strive to help you with the fundamentals. If you need additional options after that they are easy to find. LaTeX can be very useful so lets get started.</p>
 
 <h2><strong>Introduction</strong></h2>
@@ -629,26 +629,26 @@
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://jahlelin.github.io/Science-By-Jason/astronomy-for-beginners-exoplanets.html"/>
-        <id>https://jahlelin.github.io/Science-By-Jason/astronomy-for-beginners-exoplanets.html</id>
+        <link href="https://jahlelin.github.io/ScienceByJason/astronomy-for-beginners-exoplanets.html"/>
+        <id>https://jahlelin.github.io/ScienceByJason/astronomy-for-beginners-exoplanets.html</id>
 
         <updated>2019-10-14T21:52:58-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://jahlelin.github.io/Science-By-Jason/media/posts/24/exoplanets-0.jpg" alt="" />
+                        <img src="https://jahlelin.github.io/ScienceByJason/media/posts/24/exoplanets-0.jpg" alt="" />
                     <p>Exoplanets are planets that are beyond our solar system. They have been known for a hundred years or more. They are really hard to study directly. We can still learn a lot from them though. In fact, that is why we study them. Learning about exoplanets will help us learn about the formation of our own Earth and corresponding solar system. Astronomers monitor young planets to see what Earth might have been like in its early stages. In this article I want to talk about what is known about exoplanets and how they are formed. This will obviously lead into solar system formation which is pretty interesting stuff.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://jahlelin.github.io/Science-By-Jason/media/posts/24/exoplanets-0.jpg" alt="" />
+                    <img src="https://jahlelin.github.io/ScienceByJason/media/posts/24/exoplanets-0.jpg" alt="" />
                 <p>Exoplanets are planets that are beyond our solar system. They have been known for a hundred years or more. They are really hard to study directly. We can still learn a lot from them though. In fact, that is why we study them. Learning about exoplanets will help us learn about the formation of our own Earth and corresponding solar system. Astronomers monitor young planets to see what Earth might have been like in its early stages. In this article I want to talk about what is known about exoplanets and how they are formed. This will obviously lead into solar system formation which is pretty interesting stuff.</p>
 
 <h2>History Of Exoplanet Detection</h2>
 <p>Scientists first thought they had discovered an extrasolar planet in the 1800's They certainly could have been right. We do not know for sure though. Slowly more and more evidence was found that indicated these existed. It was not until more modern times, however, that Astrophysicists were able to verify some of these claims. Now space <a href="http://sciencebyjason.com/astronomy-for-beginners-how-telescopes-are-used/">telescopes</a> like Kepler, Spitzer, and Hubble find exoplanets quite often. Finding them and documenting their properties is key for our understanding to evolve. Its a very important time in learning about our universe.</p>
 <h2><strong>Formation of Exoplanets</strong></h2>
-<p><img class="size-full wp-image-4700 alignleft" src="https://jahlelin.github.io/Science-By-Jason/media/posts/24/Exoplanets-1-kepler186f.jpg" alt="Exoplanets 1 kepler186f" width="985" height="554" /></p>
+<p><img class="size-full wp-image-4700 alignleft" src="https://jahlelin.github.io/ScienceByJason/media/posts/24/Exoplanets-1-kepler186f.jpg" alt="Exoplanets 1 kepler186f" width="985" height="554" /></p>
 <p>Solar systems and exoplanets form because of stars. A star is a luminous object made of plasma that spins. When a star starts its processes it will be rotating. As it rotates it gathers all the rocky and gaseous material around it. This material will then form into a protoplanetary disk. A disk like this looks sort of like a cd to us. It is flat and it rotates around its star. This is where planets and moons come from, it just takes a while to happen.</p>
 <p>Exoplanets that form from this can either small and rocky or giant and gaseous. These extrasolar planets will often move from where they are first formed. They move because of other objects and processes. Collision and gravity from other objects are the main reasons. Collisions can either destroy objects or eject them into space.  Observation is key here. Direct observations are the best but indirect will lead to nice results also.</p>
 <p>We learn about planets from the huge cosmic gas clouds we can observe. It is from here we learn about these extrasolar planets that inhabit other galaxies. Astronomers have discovered a few thousand exoplanets from the data I can find. The more they are studied, the more we will understand about our own planet and its processes. Currently, we just have very vague data on all of these extrasolar planets. They are so far away in the <a href="http://sciencebyjason.com/astronomy-for-beginners-guide-to-the-universe/">universe</a> that estimates are the best that can be done. Astronomers are learning more by the day though.</p>
@@ -657,7 +657,7 @@
 <p>In our quest for knowledge, we are constantly refining our views on how solar systems are created. There are many explanations. Some of those seem quite strange today! There are a few ideas that, so far, have stood the test of time. Exoplanets orbits are somewhere between perfectly circular and highly elliptical. This is vague but it is also a starting point. Orbits are usually in the same direction as the Sun's rotation. Random events, such as collisions, do happen and they cause drastic change. There is evidence of many large object collisions in our galaxy between <a href="http://sciencebyjason.com/astronomy-for-beginners-the-moon/">moons</a>, asteroids, and planets. These collisions have shaped and influenced most of our galaxy. I am sure other galaxies have had mostly similar experiences.</p>
 <h2><strong>The Search Is On For Exoplanets<br />
 </strong></h2>
-<p><img class="size-full wp-image-4701 alignleft" src="https://jahlelin.github.io/Science-By-Jason/media/posts/24/Exoplanets-2-Kepler22bArtwork_full.jpg" alt="Exoplanets 2 Kepler22bArtwork_full" width="985" height="739" /></p>
+<p><img class="size-full wp-image-4701 alignleft" src="https://jahlelin.github.io/ScienceByJason/media/posts/24/Exoplanets-2-Kepler22bArtwork_full.jpg" alt="Exoplanets 2 Kepler22bArtwork_full" width="985" height="739" /></p>
 <p>Astronomers are constantly searching for exoplanets. With technology advances, we can finally try to confirm discoveries made many years ago. Now you might wonder how exoplanets are discovered and verified? It is quite true they are so far away we can only barely see a few with modern telescopes. So they are observed by other means. The most popular ways are studying the light from the star it orbits and the radial velocity of that star. Radial velocity, in this context, refers to the change in the velocity of its spinning relative to us here on Earth. It is our perceived changed in an objects velocity far away.</p>
 <h2><strong>Planetary Transits</strong></h2>
 <p>When we study the light of stars there are times when the brightness lessens slightly. This happens occasionally and it is often an indication an exoplanet is orbiting this star. When it travels in between our line of sight and the star, the light output decreases. Astronomers are using this easy technique constantly to find new exoplanets.</p>
@@ -693,13 +693,13 @@
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://jahlelin.github.io/Science-By-Jason/astronomy-for-beginners-space-debris.html"/>
-        <id>https://jahlelin.github.io/Science-By-Jason/astronomy-for-beginners-space-debris.html</id>
+        <link href="https://jahlelin.github.io/ScienceByJason/astronomy-for-beginners-space-debris.html"/>
+        <id>https://jahlelin.github.io/ScienceByJason/astronomy-for-beginners-space-debris.html</id>
 
         <updated>2019-10-14T21:52:58-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://jahlelin.github.io/Science-By-Jason/media/posts/23/asteroid20161103-16.jpg" alt="" />
+                        <img src="https://jahlelin.github.io/ScienceByJason/media/posts/23/asteroid20161103-16.jpg" alt="" />
                     <p><!-- wp:heading --></p>
 <h2>Introduction</h2>
 <p>There is a lot of space debris in our galaxy. It can be large or small. Space debris can be Asteroids, Comets, Meteors, or even dust. In this article I talk about all of these objects and their characteristics. I also discuss topics such as Asteroids getting close to Earth and the once-planet Pluto.</p>
@@ -709,7 +709,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://jahlelin.github.io/Science-By-Jason/media/posts/23/asteroid20161103-16.jpg" alt="" />
+                    <img src="https://jahlelin.github.io/ScienceByJason/media/posts/23/asteroid20161103-16.jpg" alt="" />
                 <p><!-- wp:heading --></p>
 <h2>Introduction</h2>
 <p>There is a lot of space debris in our galaxy. It can be large or small. Space debris can be Asteroids, Comets, Meteors, or even dust. In this article I talk about all of these objects and their characteristics. I also discuss topics such as Asteroids getting close to Earth and the once-planet Pluto.</p>
@@ -732,7 +732,7 @@
 <p>Eventually it will happen. Not much we can do about it at the moment. Since we are 2/3 water on this planet we can expect 2 out of 3 Asteroid landings to happen in the water. Not sure if that is any better or not.</p>
 <p>Astronomers will continue the hunt for these big Asteroids because we want to know if something is coming our way.</p>
 <h2><strong>Comets</strong></h2>
-<p><img class="aligncenter size-large wp-image-4681" src="https://jahlelin.github.io/Science-By-Jason/media/posts/23/space-debris-comet-1024x667.jpg" alt="space debris comet" width="1024" height="667" /></p>
+<p><img class="aligncenter size-large wp-image-4681" src="https://jahlelin.github.io/ScienceByJason/media/posts/23/space-debris-comet-1024x667.jpg" alt="space debris comet" width="1024" height="667" /></p>
 <p><a href="https://www.space.com/53-comets-formation-discovery-and-exploration.html">Comets</a> are relatively small objects that are primarily made up up of dust and water ice. This type of space debris is thought to come from the Oort cloud and the Kuiper belt. Those Comets from the Oort cloud have longer orbital periods than those from the Kuiper belt. The most interesting feature of Comets are their tail, also known as a coma. This tail appears when the Sun's <a href="http://sciencebyjason.com/astronomy-for-beginners-radiation/">radiation</a> causes the comet to slightly melt and turn to gas. The Sun's radiation is therefore causing this gas to glow in its light and that is why we see a tail trailing comets. Comets are hard to see until they fairly close to the Sun. This is because they are just an iceball when in deep space.</p>
 <p>They are usually first discovered when they come in contact with the Sun's radiation. A Comet will appear as a fuzzy ball at this point. They have very elliptical orbits and are in the Sun's gravitational grasp.</p>
 <p>Most of a Comet's mass is found in its nucleus which is the icy portion. No one knows the exact mass of a Comet but scientists guess based on its nucleus and the density of ice. Comets are the size of small Asteroids for reference.</p>
@@ -742,10 +742,10 @@
 <p>Pluto was discovered in the early 1900's. It has a very elongated orbit which changes its distance from the Sun quite a bit. It has a <a href="http://sciencebyjason.com/astronomy-for-beginners-the-moon/">moon</a> of its own called Charon which is tidally locked. Pluto is about 20% the diameter of Earth. Frozen methane seems to make up most of its mass. </p>
 <p>Most space debris in the Kuiper belt is extremely faint. That makes it hard to study these objects. Most are smaller than Pluto but we know of at least one object that is not. That object is the Asteroid Eris. It was found to be slightly larger than Pluto.</p>
 <h2><strong>Demotion Of Pluto</strong></h2>
-<p><img class="aligncenter size-large wp-image-4683" src="https://jahlelin.github.io/Science-By-Jason/media/posts/23/space-debris-pluto-1024x1024.png" alt="space debris pluto" width="1024" height="1024" /></p>
+<p><img class="aligncenter size-large wp-image-4683" src="https://jahlelin.github.io/ScienceByJason/media/posts/23/space-debris-pluto-1024x1024.png" alt="space debris pluto" width="1024" height="1024" /></p>
 <p>Most of you will will know that Pluto used to be classified as a planet. Most of you, like myself, will also have mixed feelings on this matter. Pluto was called a planet for a long time. Reasons were given of course. The main reason it was demoted was it did not have enough of its own gravity to clear the area around it of smaller objects. This bothered some in <a href="http://sciencebyjason.com/how-modern-astronomy-evolved/">Astronomy</a>. I am not sure if I agree with this because what does that really mean? Aside from the technical definition, what does it matter if it doesn't have enough gravity to clear its own area around it? So you can see it was demoted from being a planet arbitrarily and the new definition of a planet was made specifically to exclude Pluto. That is the main problem I have with this, even though its old news now.</p>
 <h2><strong>Meteors</strong></h2>
-<p><img class="aligncenter size-full wp-image-4685" src="https://jahlelin.github.io/Science-By-Jason/media/posts/23/space-debris-meteor.jpg" alt="space debris meteor" width="876" height="493" /></p>
+<p><img class="aligncenter size-full wp-image-4685" src="https://jahlelin.github.io/ScienceByJason/media/posts/23/space-debris-meteor.jpg" alt="space debris meteor" width="876" height="493" /></p>
 <p>Shooting stars happen all the time and they are wonderful to see. These are really meteors that have entered our atmosphere. They give off their famous flash when the surrounding air molecules heat up quickly. To differentiate, a meteorite is a piece that hits the ground.</p>
 <p><a href="https://www.space.com/15353-meteor-showers-facts-shooting-stars-skywatching-sdcmp.html">Meteors</a> come from Comets that got too close to the Sun and have some of their pieces melted away. This space debris is so pretty watch. Our gravity attracts them and toward our atmosphere they go. The smaller ones just burn up after they enter but the larger ones fall to the ground and cause much destruction. Meteor showers happen in this same way. There are just many at once. </p>
 <p>Meteorites that are found on Earth are rocky and very dense. They are composed of Iron and Nickel for the most part. Some are even rich in Carbon which is quite interesting. The reason why is that we are always looking for molecules that could help spur life. So there is much reason to study these objects.</p>
@@ -761,20 +761,20 @@
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://jahlelin.github.io/Science-By-Jason/the-fundamentals-of-chemistry-guide.html"/>
-        <id>https://jahlelin.github.io/Science-By-Jason/the-fundamentals-of-chemistry-guide.html</id>
+        <link href="https://jahlelin.github.io/ScienceByJason/the-fundamentals-of-chemistry-guide.html"/>
+        <id>https://jahlelin.github.io/ScienceByJason/the-fundamentals-of-chemistry-guide.html</id>
 
         <updated>2019-10-14T21:52:58-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://jahlelin.github.io/Science-By-Jason/media/posts/22/fundamentals-of-chemistry-0.jpg" alt="" />
+                        <img src="https://jahlelin.github.io/ScienceByJason/media/posts/22/fundamentals-of-chemistry-0.jpg" alt="" />
                     <p>The fundamentals of chemistry are a fascinating subject. They apply to almost all the other sciences as well. In this article I will do my best to explain these fundamentals so they are easy to understand.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://jahlelin.github.io/Science-By-Jason/media/posts/22/fundamentals-of-chemistry-0.jpg" alt="" />
+                    <img src="https://jahlelin.github.io/ScienceByJason/media/posts/22/fundamentals-of-chemistry-0.jpg" alt="" />
                 <p>The fundamentals of chemistry are a fascinating subject. They apply to almost all the other sciences as well. In this article I will do my best to explain these fundamentals so they are easy to understand.</p>
 
 <h2 style="text-align: center;">Fundamentals Of Chemistry</h2>
@@ -783,7 +783,7 @@
 <p>In <a href="http://sciencebyjason.com/18-basic-chemistry-concepts/">chemistry</a> we concern ourselves with matter and how it changes forms. It is not easy to say what matter is though. The best way to think about it is that matter has <a href="http://sciencebyjason.com/purpose-dna-biology/">mass</a> and takes up space. According to this definition, my bookshelf is matter but the light shining through my window is not. A substance is another term for matter but means pure and unadulterated matter. Matter is a substance. It is made up of one thing . However, matter that is made up of many things, like concrete, is not a substance.</p>
 <p>Substances can come in different forms. These different forms are the stats of matter. The usual states of matter that we talk about are a solid, liquid, and a gas. A solid is a rigid form of matter and is something we can handle. The atoms are packed very closely in a solid. A liquid is a fluid that will have a surface when it settles. Their <a href="https://en.wikipedia.org/wiki/Chemistry">atoms</a> are packed fairly closely but not as tightly as in a solid. Gases are another form of matter that are like a liquid but do not have a surface. The atoms of a gas are very far apart.</p>
 <h2 style="text-align: center;"><strong>Physical Properties</strong></h2>
-<p><img class="size-large wp-image-4651" src="https://jahlelin.github.io/Science-By-Jason/media/posts/22/fundamentals-of-chemistry-2-1024x682.jpeg" alt="fundamentals of chemistry" width="1024" height="682" /> fundamentals of chemistry</p>
+<p><img class="size-large wp-image-4651" src="https://jahlelin.github.io/ScienceByJason/media/posts/22/fundamentals-of-chemistry-2-1024x682.jpeg" alt="fundamentals of chemistry" width="1024" height="682" /> fundamentals of chemistry</p>
 <p>A physical property of any matter is its defining characteristic. This characteristic is something that we can measure or observe. When you measure the property of a substance you need to report the accuracy and precision of the data. The precision of the data is the significant figures of the measurements.</p>
 <h2 style="text-align: center;"><strong>Force</strong></h2>
 <p>A force is something that changes the state of motion of an object. \(Force = mass * acceleration\).  This means there is a push or a pull on the object in question. Forces only have an effect when they are interacting with something else. They can interact at a distance or when they contact something. Example of contact forces are tension, friction, and normal. Example of distance forces are gravitational, electric, and magnetic forces. Lastly, a force is a vector quantity. This means the force has both a magnitude and a direction when applied and is one of the fundamentals of chemistry.</p>
@@ -796,7 +796,7 @@
 <h2 style="text-align: center;"><strong>Atoms</strong></h2>
 <p>Atoms are very tiny particles and their study is one of the most important fundamentals of chemistry. In fact, they are so small that if we cut them in 2 then they would be something different at that point. We now know they make up our elements.</p>
 <h2 style="text-align: center;"><strong>Compounds</strong></h2>
-<p><img class="size-large wp-image-4650" src="https://jahlelin.github.io/Science-By-Jason/media/posts/22/fundamentals-of-chemistry-1-1024x682.jpeg" alt="fundamentals of chemistry" width="1024" height="682" /> fundamentals of chemistry</p>
+<p><img class="size-large wp-image-4650" src="https://jahlelin.github.io/ScienceByJason/media/posts/22/fundamentals-of-chemistry-1-1024x682.jpeg" alt="fundamentals of chemistry" width="1024" height="682" /> fundamentals of chemistry</p>
 <p>A compound is a substance that is neutral in charge and is made up of two or more different elements. They are either organic or inorganic. Organic compounds all contain carbon. Inorganic compounds are everything else.</p>
 <p>The elements in a compound are joined chemically. We call this being bonded together.</p>
 <h2 style="text-align: center;"><strong>Molecules</strong></h2>
@@ -811,7 +811,7 @@
 <h2 style="text-align: center;"><strong>Molecular Formulas</strong></h2>
 <p>To find the molecular formula of a sample we also need to have its molar mass. Of course we already know that we need to use a mass spectrometer to find the molar mass. The molecular formula of a compound is found by determining how many empirical formulas units are needed to account for the measured molar mass of the compound.</p>
 <h2 style="text-align: center;"><strong>Mixtures And Solutions</strong></h2>
-<p><img class="size-large wp-image-4652" src="https://jahlelin.github.io/Science-By-Jason/media/posts/22/fundamentals-of-chemistry-3-1024x682.jpeg" alt="fundamentals of chemistry" width="1024" height="682" /> fundamentals of chemistry</p>
+<p><img class="size-large wp-image-4652" src="https://jahlelin.github.io/ScienceByJason/media/posts/22/fundamentals-of-chemistry-3-1024x682.jpeg" alt="fundamentals of chemistry" width="1024" height="682" /> fundamentals of chemistry</p>
 <p>Most substances that we encounter in the world are not pure like an element. Just about everything we see and touch are mixtures of some sort. Mixtures of different compounds do not gain unique properties. They are just varied quantities of multiples types of compound substances. Everything in a mixture retains its own properties. This is important to remember when you observe compounds and mixtures.</p>
 <p>Obviously there are different types of mixtures. Mixtures that are not very uniform are called heterogeneous. This means that randomly taking a sample will not give us a true indicator of its composition.</p>
 <p>Homogeneous mixtures vary in that they are completely uniform. Taking multiple samples will always give the same composition. You can also call a homogeneous mixture a solution. Many every day products are solutions that we interact with on a regular basis.</p>
@@ -825,7 +825,7 @@
 <p>An electrolyte is a substance that is present as ions. ionic solids that are soluble in water are electrolytes because the ions become free to move when the solid dissolves.</p>
 <p>The solute in an aqueous strong electrolyte solution is present as ions that can conduct electricity through the solvent. The solutes in nonelectrolyte solutions are present as molecules. Only a small fraction of the solute molecules in weak electrolyte solutions are present as ions.</p>
 <h2 style="text-align: center;"><strong>Precipitate Reactions</strong></h2>
-<p><img class="size-full wp-image-4653" src="https://jahlelin.github.io/Science-By-Jason/media/posts/22/fundamentals-of-chemistry-4.png" alt="fundamentals of chemistry" width="728" height="621" /> fundamentals of chemistry</p>
+<p><img class="size-full wp-image-4653" src="https://jahlelin.github.io/ScienceByJason/media/posts/22/fundamentals-of-chemistry-4.png" alt="fundamentals of chemistry" width="728" height="621" /> fundamentals of chemistry</p>
 <p>Some ionic compounds are soluble and others are not. In a precipitation reaction an insoluble solid product forms when we mix two electrolyte solutions. When an insoluble substance is formed in water it immediately precipitates. A precipitation reaction takes place when solutions of two strong electrolytes are mixed and react to form an insoluble solid. These types of reactions and their study are some of the most popular of the fundamentals of chemistry</p>
 <p>A complete ionic equation for a precipitation reaction shows all the dissolved ions. A complete ionic equation expresses a reaction in terms of the ions that are present in a solution. A net ionic equation is the chemical equation that remains after the cancellation of the spectator ions.</p>
 <p>Precipitation reactions will often make compounds. Chemists often plan this ahead of time to make certain things.</p>
@@ -863,27 +863,27 @@
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://jahlelin.github.io/Science-By-Jason/one-sided-limits-of-calculus.html"/>
-        <id>https://jahlelin.github.io/Science-By-Jason/one-sided-limits-of-calculus.html</id>
+        <link href="https://jahlelin.github.io/ScienceByJason/one-sided-limits-of-calculus.html"/>
+        <id>https://jahlelin.github.io/ScienceByJason/one-sided-limits-of-calculus.html</id>
 
         <updated>2019-10-14T21:52:58-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://jahlelin.github.io/Science-By-Jason/media/posts/21/one-sidedlimits0.png" alt="" />
+                        <img src="https://jahlelin.github.io/ScienceByJason/media/posts/21/one-sidedlimits0.png" alt="" />
                     <p>In a continuance of this series today, I wanted to talk about the one-sided limits of calculus. Limits and where they lead are one of the fundamental concepts of calculus. Since limits show what happens near any particular point on a graph we need to take a look at them. Read on with me and I will explain their behavior so you can easily solve them.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://jahlelin.github.io/Science-By-Jason/media/posts/21/one-sidedlimits0.png" alt="" />
+                    <img src="https://jahlelin.github.io/ScienceByJason/media/posts/21/one-sidedlimits0.png" alt="" />
                 <p>In a continuance of this series today, I wanted to talk about the one-sided limits of calculus. Limits and where they lead are one of the fundamental concepts of calculus. Since limits show what happens near any particular point on a graph we need to take a look at them. Read on with me and I will explain their behavior so you can easily solve them.</p>
 
 <h2 style="text-align: center;"><strong>One-Sided Limits</strong></h2>
 <p>Our current idea of the <a href="http://sciencebyjason.com/basic-calculus-problems-definition-of-a-limit/">limit definition</a> goes back around 200 years ago by <a href="https://en.wikipedia.org/wiki/Bernard_Bolzano">Bernard Bolzano</a>. He was instrumental in several mathematical ideas. One of which was the definition of one-sided limits which I will be talking about today. Now on to some problems!</p>
 <h3><strong>Problem 1.</strong></h3>
 <p>Use the graph to see if the following statements are true or false. Look at the graph carefully because it can be tricky to see what is really going on sometimes.</p>
-<p><img class="aligncenter size-large wp-image-4591" src="https://jahlelin.github.io/Science-By-Jason/media/posts/21/one-sidedlimits1-1024x450.png" alt="" width="1024" height="450" /></p>
+<p><img class="aligncenter size-large wp-image-4591" src="https://jahlelin.github.io/ScienceByJason/media/posts/21/one-sidedlimits1-1024x450.png" alt="" width="1024" height="450" /></p>
 <p>&nbsp;</p>
 <p>We can see there is a function \(y=f(x)\). There is also a small portion of the positive x-axis defined from [3 to 6].</p>
 <p>A. True or False: \(lim_{x \to -3+}(f(x)=9\)</p>
