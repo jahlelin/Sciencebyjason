@@ -3,12 +3,67 @@
     <title>Science By Jason</title>
     <link href="https://ScienceByJason.com/feed.xml" rel="self" />
     <link href="https://ScienceByJason.com" />
-    <updated>2019-11-29T10:31:31-06:00</updated>
+    <updated>2019-12-04T06:53:45-06:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://ScienceByJason.com</id>
 
+    <entry>
+        <title>Astronomy for Beginners: The Stars</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://ScienceByJason.com/astronomy-for-beginners-the-stars.html"/>
+        <id>https://ScienceByJason.com/astronomy-for-beginners-the-stars.html</id>
+
+        <updated>2019-12-04T06:53:41-06:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://ScienceByJason.com/media/posts/29/stars0.jpg" alt="" />
+                    <p>The stars in our universe vary greatly. They are all different sizes and colors. Stars also have a lot of common attributes too though. Instead of talkingabout how they are unique, I will discuss how they are similar today.Read on if you are interested in finding out more about these incredible objects.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://ScienceByJason.com/media/posts/29/stars0.jpg" alt="" />
+                <p>The stars in our universe vary greatly. They are all different sizes and colors. Stars also have a lot of common attributes too though. Instead of talkingabout how they are unique, I will discuss how they are similar today.Read on if you are interested in finding out more about these incredible objects.</p>
+
+<h2 id="mcetoc_1dr7aic790" class="align-left"><strong>Stars Around Us</strong></h2>
+<p><img class="post__image align-center" src="https://ScienceByJason.com/media/posts/29/stars1.jpg" alt="" width="501" height="360"></p>
+<p>Within our own galaxy there are untold numbers of stars. If you happened to somehow leave our galaxy then the number of stars increases exponentially. So the first thing we want to do is figure out how far away all thesestars are. When we figure out distances to the stars their other properties can also be inferred to a decent degree of accuracy.</p>
+<h2 id="mcetoc_1dr7ajdeh1" class="align-left"><strong>Stellar Parallax</strong></h2>
+<p>Stellar parallax is the degree our view changes when an object is observed from two different points. This lets us calculate the distance between us and the object. Distances are measured in arcseconds. The distance an object is away from us that has a parallax of 1 arcsecond is called a parsec, which is slightly over 200,000 AU. Parallax decreases as the distance gets greater so we can use a formula to calculate it.</p>
+<p>$$ distance =\frac{1}{parallax} $$</p>
+<h2 id="mcetoc_1dr7ajrdv2" class="align-left"><strong>Motion of the Stars</strong></h2>
+<p>The stars move. This may not be apparent, especially if you never thought about it before.They move very fast as well by our own standards. They are just so far away it is difficult to notice. Stars have their own motion as they soar through the sky and they also rotate extremely quick too. Proper motion is how to describe a star's velocity. </p>
+<h2 id="mcetoc_1dr7ak5np3" class="align-left"><strong>Luminosity and Brightness</strong></h2>
+<p>Every star has its own luminous qualities and apparent brightness as seen from Earth. A star’s apparent brightness depends partly on its distance fromEarth. So, the amount of light that reaches us varies inversely as the square of its distance from the source. Therefore, doubling the distance from a star makes it appear 4 times fainter. This means two different stars can appear to have the same brightness. If the brighter star is farther away than a slightly dimmer star then to us they could appear to be the exact same. Remember how we talked about inferring properties of stars once we know a few things about them?This is a good example. If we know a star’s distance through the use of parallax calculations and a particular star is farther away,but appears to have the same brightness, then we know it is inherently brighter than the other star.</p>
+<h2 id="mcetoc_1dr7akfrv4" class="align-left"><strong>Star Temperatures</strong></h2>
+<p>Stars also have their own temperature ranges. Star temperatures can vary greatly. However, we can get an idea of its temperature from the star’s color. This is not very intuitive but red stars are a lot cooler than blue stars. Astronomers measure the temperature of a star by taking the brightness at several different frequencies. They then match these readings to a blackbody curve and see where they align. This will give the approximate temperature of the star.</p>
+<h2 id="mcetoc_1dr7al2bb5" class="align-left"><strong>Spectra of the Stars</strong></h2>
+<p>Spectroscopy is a very useful tool. I talked about it in a past article and it has many uses. With stars, it is used to collect data on individual stars and then study the differences. The patterns are what tell us the differences and compositions of stars. Spectroscopy is a fascinating subject and can tell us so much just by looking at absorption lines.</p>
+<h2 id="mcetoc_1dr7alc136" class="align-left"><strong>Stellar Size</strong></h2>
+<p> </p>
+<div>Like their temperatures, stars can be all different sizes as well. The problem, like always, is that they are too far away to directly measure in most cases. So indirect techniques have to be used. The most popular method is using the radiation laws. The radiation that comes from a star is governed by the Stefan-Boltzmann law. This radiation law says that the energy emitted per unit area per unit of time increases as the fourth power of the stars temperature. We know that larger stars give off more radiation than smaller stars. Since this is the case, knowing how much radiation a star gives off gives us a good idea about how large a star is. See how all these pieces fit together?This will let us do an indirect measurement of its size.</div>
+<div> </div>
+<h2 id="mcetoc_1dr7ancns7" class="align-left">H-R Diagrams</h2>
+<div class="align-left"> </div>
+<div>
+<div>Hertzsprung-Russell diagrams are used as a way to classify stars once we know some of their attributes. This helps us visually compare many different stars at a time. Most people learn and interpret better using visual methods so this is handy indeed. Typically these diagrams are composed of luminosity and temperature data. Any star can be included in these diagrams if we have its data. What we have learned is that cool stars will be faint and hot stars will be brighter.</div>
+<div> </div>
+<h2 id="mcetoc_1dr8f50880"><strong>Mass of Stars</strong></h2>
+<div>A star's mass is one of its fundamental properties. Mass tells us about its internal core and subsequent layers. Its mass is determined by the gravitational pull on nearby objects. Determining the mass of a star can be done in a few different ways. The best methods are studying the orbit and the dipping of the light curves when objects pass in front of it. When looking at an H-R diagram, for instance, we see the masses of stars are grouped very logically. They start at red dwarf stars and end at giant blue stars. Masses range from much smaller compared to our Sun to much larger. </div>
+<div> </div>
+<h2 id="mcetoc_1dr8fdt7b1"><strong>Conclusion</strong></h2>
+<div>There are several important properties about stars that aid in greater understanding. Finding the distance between us and other stars is an excellent start. Stars have their own velocity even though it is difficult for us to see it from here on Earth. Brightness and apparent magnitude are also useful because those attributes give us an idea of radii. Lastly, studying HR-diagrams is very useful in gleaning characteristics from Stars.</div>
+<div> </div>
+<div> </div>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>How To Differentiate Algebra Functions</title>
         <author>
@@ -1127,100 +1182,6 @@
 <p>Neptune also has a few rings around it. They are pretty dark and do not reflect much light. Scientists think they are dark because of radiation that has basically burned them. They are unique because they are very unevenly spaced. Every ring system seems to be different and Neptune's system appears to be no different.</p>
 <h3 style="text-align: center;"><strong>Conclusion</strong></h3>
 <p>The planets of our solar system are all different and wonderful. Each is unique and teaches us new things. However, there is still much to learn. The amount of knowledge that we do know is very minute. Learning how each of these planets formed and what they are like on the surface will be a many-lifetime endeavor.</p>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Basic Calculus Problems: Definition Of A Limit</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://ScienceByJason.com/basic-calculus-problems-definition-of-a-limit.html"/>
-        <id>https://ScienceByJason.com/basic-calculus-problems-definition-of-a-limit.html</id>
-
-        <updated>2019-10-14T21:52:58-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://ScienceByJason.com/media/posts/19/deflimit3.png" alt="" />
-                    <p>The definition of a limit continues on in our learning limits and how they are applied. Specifically we are going to look at some proofs in this section. With a precise definition we can now prove many limit properties.</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://ScienceByJason.com/media/posts/19/deflimit3.png" alt="" />
-                <p>The definition of a limit continues on in our learning limits and how they are applied. Specifically we are going to look at some proofs in this section. With a precise definition we can now prove many limit properties.</p>
-
-<h2 style="text-align: center;"><strong>Definition of a Limit</strong></h2>
-<p><img class="aligncenter wp-image-4439 size-full" title="definition of a limit" src="https://ScienceByJason.com/media/posts/19/deflimit2.png" alt="definition of a limit" width="586" height="216" /></p>
-<p>The \(\delta\) value will always depend on the \(\epsilon\) value. That is important to remember in order to understand what is happening in these <a href="http://sciencebyjason.com/beginning-calculus-problems-with-limits/">limits</a>. Once you find a value that works in your problem then smaller values of that \(\delta\) also work.</p>
-<p><strong>Problem 1.</strong></p>
-<p>For the given function f(x) and values L,c, and \(\epsilon\)  &gt; 0 find the largest open interval about c on which the inequality |f(x)-L| &lt; \(\epsilon\) holds. Then determine the largest value for \(\delta\) &gt;0 such that 0&lt;|x-c|&lt;\(\delta\)\(\rightarrow\) |f(x)-L|&lt;\(\epsilon\).</p>
-<p><img class="aligncenter wp-image-4438 size-full" title="definition of a limit" src="https://ScienceByJason.com/media/posts/19/deflimit1.png" alt="definition of a limit" width="246" height="312" /></p>
-<p>f(x) = \(\frac{1}{x}\),  L= 0.125,  c = 8,  \(\epsilon\) = 0.015</p>
-<p>Solve |f(x) - L| &lt; \(\epsilon\) to find the largest interval containing c on which the inequality holds.</p>
-<p>Write the inequality without absolute value. Substitute \(\frac{1}{x}\) for f(x), 0.1215 for L, and 0.015 for \(\epsilon\).</p>
-<p>|f(x)-L| &lt; \(\epsilon\)</p>
-<p>|\(\frac{1}{x}\) - 0.125| &lt; 0.015</p>
-<p>-0.015 &lt; \(\frac{1}{x}\) - 0.125 &lt; 0.015</p>
-<p>Simplify by adding 0.125 to all expressions.</p>
-<p>-0.015 &lt; \(\frac{1}{x}\) - 0.125 &lt; 0.015</p>
-<p>0.11 &lt; \(\frac{1}{x}\) &lt; 0.14</p>
-<p>Simplify further by taking the reciprocals of all terms. Be sure to reverse the inequalities. Make sure you check that the rounded endpoints still allow the inequality |f(x)-L| &lt; \(\epsilon\) to hold true.</p>
-<p>9.0909 &gt; x &gt; 7.1429</p>
-<p>Since the interval 7.1429 &lt; x &lt; 9.0909 is not centered on c=8, \(\delta\) is the distance from 8 to closer endpoint of the interval. The value of \(\delta\) is then 0.8571.</p>
-<p>&nbsp;</p>
-<p><strong>Problem 2.</strong></p>
-<p>For the given function \(f(x)\), the point \(c\), and a positive number \(\epsilon\), find \(L=lim f(x)\). Then find a number \(\delta\) &gt; 0 such that for all x, 0&lt;|x-c|&lt;\(\delta\)\(\rightarrow\)|\(f(x)-L\)| &lt; \(\epsilon\).</p>
-<p>\(f(x)=8-3x, c=4, \epsilon=0.03\)</p>
-<p>Notice that \(f(x)\) is a linear function. Since a linear function is a simple polynomial function and it is defined for all \(x\), the limit \(L\) = lim is the value of \(f(x)\) at \(c\).</p>
-<p>Evaluate the function at \(c=4\).</p>
-<p>\(L=8-3(4)=-4\)</p>
-<p>To find \(\delta\), begin by solving the inequality \(|f(x)-L|&lt;\epsilon\) to find an open interval \((a,b)\) containing \(c\) on which the inequality holds for all \(x\neq c\).</p>
-<p>Remove the absolute value sign and rewrite the inequality as a compound inequality.</p>
-<p>\(|(8-3x)-(-4)| &lt; 0.03\)</p>
-<p>\(-0.03 &lt; (8-3x) - (-4) &lt; 0.03\)</p>
-<p>Simplify the center expression and isolate the x-term.</p>
-<p>\(-0.03 &lt; -3x+12 &lt; 0.03\)</p>
-<p>\(-12.03 &lt; -3x &lt; -11.97\)</p>
-<p>Then isolate \(x\) in the center. Notice that the direction of the inequalities has been changed.</p>
-<p>\(4.01 &gt; x &gt; 3.99\)</p>
-<p>Therefore, for \(x\) in the interval \((3.99,4.01)\), the inequality \((8-3x)-(-4)|&lt;0.03\) holds. Now choose a positive value for \(\delta\) that places the open interval \((c-\delta,c+\delta)\) centered on \(c\) inside the                  interval \((3.99,4.01)\).</p>
-<p>The distance to the first endpoint is \(4-3.99=0.01\).</p>
-<p>The distance to the second endpoint is \(4.01 -4=0.01\).</p>
-<p>The largest possible value for \(\delta\)  is \( 0.01\).</p>
-<p>Therefore, for all \(x\) satisfying \(0&lt;|x-4|&lt;0.01\), the inequality \(|(8-3x)-(-4)|&lt;0.03\) holds.</p>
-<p>&nbsp;</p>
-<p><strong>Problem 3.</strong></p>
-<p>Give an \(\epsilon - \delta\) proof of the limit fact.</p>
-<p>\(lim_{x \to 0}(5x+1)=1\)</p>
-<p>We begin by giving the precise meaning of a limit.</p>
-<p>To say that \(lim f(x)=L\) means that for each \(\epsilon&gt;0\) there is a corresponding \(\delta&gt;0\) such that \(|f(x)-L|&lt;\epsilon\), provided that \(0&lt;|x-c|&lt;\delta\).</p>
-<p>To establish the proof, we first perform a preliminary analysis to find the appropriate choice of \(\delta\).</p>
-<p>Let \(\epsilon\) be any positive number.</p>
-<p>We must produce a \(\delta &gt; 0\) such that \( 0&lt;|x-0|&lt;\delta \rightarrow |(5x+1) -1 &lt; \epsilon\).</p>
-<p>By simplifying the inequality on the right, we will determine the value of \(\delta\) needed for the inequality on the left.</p>
-<p>\(|(5x+1)-1| &lt; \epsilon \Leftrightarrow |5x| &lt; \epsilon \)</p>
-<p>\(\Leftrightarrow |5| |x| &lt; \epsilon\)</p>
-<p>\(\Leftrightarrow 5|x| &lt; \epsilon\)</p>
-<p>\(\Leftrightarrow |x| &lt; \frac{\epsilon}{5}\).</p>
-<p>Now we see that we should choose \(\delta=\frac{\epsilon}{5}\). We can now construct the formal proof of the statement \(\lim_{x \to 0}(5x+1)=1\).</p>
-<p>Let \(\epsilon &gt; 0\) be given. Choose \(\delta=\frac{\epsilon}{5}\). Then \(0&lt;|x-0|&lt;\delta\) implies the following chain of equalities and an inequality.</p>
-<p>\(|(5x+1)-1| = |5x|\)     Simplify inside the absolute value bars.</p>
-<p>\(                     = |5| |x|\)        Rewrite as product of absolute values.</p>
-<p>\(                     = 5 |x| \)          Simplify.</p>
-<p>\(                      =5 |x-0|\)        Rewrite expression inside absolute value bars.</p>
-<p>\(                      &lt; 5\delta\)   Apply the condition \(0&lt;|x-0|&lt;\delta\).</p>
-<p>\(                      = \epsilon  \)   Substitute \(\delta=\frac{\epsilon}{5}\).</p>
-<p>The result of the above chain of equalities and an inequality is that \(|(5x+1)-1|&lt; \epsilon\).</p>
-<p>Therefore, we have proven that \(\lim_{x \to 0}(5x+1)=1\).</p>
-<h3 style="text-align: center;"><strong>Conclusion</strong></h3>
-<p>The definition of a limit has some nice proofs that can establish. If you go over these problems slowly the ideas behind limits will begin to emerge. While this section is short it is essential to understanding limits and beginning <a href="http://sciencebyjason.com/beginning-calculus-rate-of-change/">calculus</a> in general.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 
             ]]>
         </content>
