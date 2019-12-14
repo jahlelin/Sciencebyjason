@@ -3,7 +3,7 @@
     <title>Science By Jason</title>
     <link href="https://ScienceByJason.com/feed.xml" rel="self" />
     <link href="https://ScienceByJason.com" />
-    <updated>2019-12-13T06:52:41-06:00</updated>
+    <updated>2019-12-14T13:31:46-06:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://ScienceByJason.com/differentiating-trig-functions.html"/>
         <id>https://ScienceByJason.com/differentiating-trig-functions.html</id>
 
-        <updated>2019-12-13T06:52:32-06:00</updated>
+        <updated>2019-12-14T13:31:40-06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://ScienceByJason.com/media/posts/30/Differentiating-trig-functions-0.png" alt="" />
@@ -41,7 +41,7 @@
 <div>$$ (d) sec x = sec x tan x $$</div>
 <div>$$ (d) cot x = -csc^2 x $$</div>
 <div> </div>
-<div>Applying these rules to previous concepts like the power rule and chain rule will let us solve these trig functions. Any time we are able we will change from the inverse function name to the regular. This will make it easier to solve problems and will be good practice for doing this later on.</div>
+<div>Applying these rules to previous concepts like the<a href="https://sciencebyjason.com/one-sided-limits-of-calculus.html"> power rule</a> and <a href="https://www.cliffsnotes.com/study-guides/calculus/calculus/the-derivative/chain-rule">chain rule</a> will let us solve these trig functions. Any time we are able we will change from the inverse function name to the regular. This will make it easier to solve problems and will be good practice for doing this later on.</div>
 <div> </div>
 <h3 id="mcetoc_1drvjkall0"><strong>Problem 1</strong></h3>
 <div>Find the derivative of:</div>
@@ -194,7 +194,7 @@
 <div>$$ (\frac{2}{3}  cos 2x)  -  (6 tan 3x)  (sec^2 3x) $$</div>
 <div> </div>
 <h2 id="mcetoc_1drvj8i5f0" class="align-center"><strong>Conclusion</strong></h2>
-<p>Differentiating trig functions is not bad at all. If you are new to them, the key is to remain organized and take them step by step. Learning the identities and relationships between them is important but will come naturally with practice doing problems.</p>
+<p><a href="https://sciencebyjason.com/how-to-differentiate-algebra-functions.html">Differentiating</a> trig functions is not bad at all. If you are new to them, the key is to remain organized and take them step by step. Learning the <a href="https://sciencebyjason.com/how-to-solve-rates-of-change-problems.html">identities</a> and relationships between them is important but will come naturally with practice doing problems.</p>
             ]]>
         </content>
     </entry>
