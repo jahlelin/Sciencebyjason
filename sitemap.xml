@@ -62,7 +62,7 @@
 </url>
 <url>
 <loc>https://ScienceByJason.com/astronomy-essentials.html</loc>
-<lastmod>2020-07-31T00:05:18-05:00</lastmod>
+<lastmod>2020-08-09T10:25:00-05:00</lastmod>
 <image:image>
 <image:loc>https://ScienceByJason.com/media\posts\35/Astronomy-Essentials-0.png</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -114,6 +114,38 @@
 <image:image>
 <image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/4/image3-300x90.jpg</image:loc>
 <image:title><![CDATA[image3]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/36/stellarevolution-1.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/36/stellarevolution-2.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/36/stellarevolution-3.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/36/stellar-evolution-4.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/36/stellarevolution-6.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/36/stellarevolution-5.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/36/stellarevolution-7.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/36/stellarevolution-8.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
 <image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/4/alberio_visual.jpg</image:loc>
@@ -314,7 +346,7 @@
 </url>
 <url>
 <loc>https://ScienceByJason.com/beginning-calculus-problems-with-limits.html</loc>
-<lastmod>2019-10-14T21:52:58-05:00</lastmod>
+<lastmod>2020-08-09T10:29:50-05:00</lastmod>
 <image:image>
 <image:loc>https://ScienceByJason.com/media\posts\14/limits0-2.png</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -334,7 +366,7 @@
 </url>
 <url>
 <loc>https://ScienceByJason.com/beginning-calculus-rate-of-change.html</loc>
-<lastmod>2019-10-14T21:52:57-05:00</lastmod>
+<lastmod>2020-08-09T10:27:31-05:00</lastmod>
 <image:image>
 <image:loc>https://ScienceByJason.com/media\posts\6/BeginningCalculus1-1.png</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -342,7 +374,7 @@
 </url>
 <url>
 <loc>https://ScienceByJason.com/beginning-latex-tutorial-for-beginners.html</loc>
-<lastmod>2019-10-14T21:52:57-05:00</lastmod>
+<lastmod>2020-08-09T10:34:05-05:00</lastmod>
 <image:image>
 <image:loc>https://ScienceByJason.com/media\posts\7/latex_logo.png</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -474,6 +506,22 @@
 <image:image>
 <image:loc>https://ScienceByJason.com/media\posts\13/ThemesOfLife5-399x1024.png</image:loc>
 <image:title><![CDATA[themes of life]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://ScienceByJason.com/calculus-essentials.html</loc>
+<lastmod>2020-08-09T10:32:12-05:00</lastmod>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/14/limit0-300x297.jpg</image:loc>
+<image:title><![CDATA[beginning calculus problems with limits]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/14/limit1-1024x523.png</image:loc>
+<image:title><![CDATA[beginning calculus problems with limits]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/14/limit1-1024x523.png</image:loc>
+<image:title><![CDATA[beginning calculus problems with limits]]></image:title>
 </image:image>
 </url>
 <url>
@@ -661,6 +709,102 @@
 </image:image>
 </url>
 <url>
+<loc>https://ScienceByJason.com/latex-essentials.html</loc>
+<lastmod>2020-08-09T10:45:18-05:00</lastmod>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/7/latex1-1.png</image:loc>
+<image:title><![CDATA[beginning latex]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/7/latex1.png</image:loc>
+<image:title><![CDATA[beginning latex :environments]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/7/latex2.png</image:loc>
+<image:title><![CDATA[beginning latex : subsections]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/7/latex2-1.png</image:loc>
+<image:title><![CDATA[beginning latex tutorial]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/7/latex3-1.png</image:loc>
+<image:title><![CDATA[beginning latex tutorial]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/7/latex4-1.png</image:loc>
+<image:title><![CDATA[beginning latex tutorial]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/7/latex5-1.png</image:loc>
+<image:title><![CDATA[beginning latex tutorial]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/7/latex6-1.png</image:loc>
+<image:title><![CDATA[beginning latex tutorial]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/7/latex3.png</image:loc>
+<image:title><![CDATA[beginning latex : matrices]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/7/latex4.png</image:loc>
+<image:title><![CDATA[beginning latex : matrices]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/7/Image(5).png</image:loc>
+<image:title><![CDATA[quick latex tutorial]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/7/latex5.png</image:loc>
+<image:title><![CDATA[beginning latex : powers]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/7/Image(6).png</image:loc>
+<image:title><![CDATA[quick latex tutorial]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/7/latex6.png</image:loc>
+<image:title><![CDATA[beginning latex : powers]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/7/Image(7).png</image:loc>
+<image:title><![CDATA[quick latex tutorial]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/7/latex7.png</image:loc>
+<image:title><![CDATA[beginning latex : fractions]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/7/Image(8).png</image:loc>
+<image:title><![CDATA[quick latex tutorial]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/7/latex8.png</image:loc>
+<image:title><![CDATA[beginning latex : fractions]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/7/latex9.png</image:loc>
+<image:title><![CDATA[beginning latex : square roots]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/7/latex10.png</image:loc>
+<image:title><![CDATA[beginning latex : square roots]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/7/latex12.png</image:loc>
+<image:title><![CDATA[beginning latex : derivatives]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/7/latex13.png</image:loc>
+<image:title><![CDATA[beginning latex : integrals]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/7/latex14.png</image:loc>
+<image:title><![CDATA[beginning latex : integrals]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://ScienceByJason.com/one-sided-limits-of-calculus.html</loc>
 <lastmod>2019-10-14T21:52:58-05:00</lastmod>
 <image:image>
@@ -709,6 +853,46 @@
 <image:image>
 <image:loc>https://ScienceByJason.com/media\posts\20/neptune.png</image:loc>
 <image:title><![CDATA[planets of our solar system - neptune]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://ScienceByJason.com/the-evolution-of-stars.html</loc>
+<lastmod>2020-08-09T10:19:41-05:00</lastmod>
+<image:image>
+<image:loc>https://ScienceByJason.com/media\posts\36/stellarevolution-0.jpg</image:loc>
+<image:title><![CDATA[evolution of stars]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://ScienceByJason.com/media\posts\36/stellarevolution-1.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://ScienceByJason.com/media\posts\36/stellarevolution-2.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://ScienceByJason.com/media\posts\36/stellarevolution-3.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://ScienceByJason.com/media\posts\36/stellar-evolution-4.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://ScienceByJason.com/media\posts\36/stellarevolution-6.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://ScienceByJason.com/media\posts\36/stellarevolution-5.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://ScienceByJason.com/media\posts\36/stellarevolution-7.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://ScienceByJason.com/media\posts\36/stellarevolution-8.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
