@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://ScienceByJason.com/algebra-essentials.html",
+            "url": "https://ScienceByJason.com/algebra-essentials.html",
+            "title": "Algebra Essentials",
+            "summary": "<p data-pm-slice=\"0 0 []\">This is the start of a new series involving Algebra and number sets. It will start out with basic Algebra but get more advanced in time.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-08-14T08:59:38-05:00",
+            "date_modified": "2020-08-14T09:01:51-05:00"
+        },
+        {
             "id": "https://ScienceByJason.com/understanding-functions-in-algebra.html",
             "url": "https://ScienceByJason.com/understanding-functions-in-algebra.html",
             "title": "Understanding Functions In Algebra",
@@ -21,7 +34,7 @@
             "tags": [
             ],
             "date_published": "2020-08-13T19:55:30-05:00",
-            "date_modified": "2020-08-14T08:57:49-05:00"
+            "date_modified": "2020-08-14T09:02:24-05:00"
         },
         {
             "id": "https://ScienceByJason.com/latex-essentials.html",
@@ -91,7 +104,7 @@
             "tags": [
             ],
             "date_published": "2020-07-30T23:49:21-05:00",
-            "date_modified": "2020-07-30T23:52:53-05:00"
+            "date_modified": "2020-08-14T09:00:15-05:00"
         },
         {
             "id": "https://ScienceByJason.com/how-stars-form.html",
@@ -134,20 +147,6 @@
             ],
             "date_published": "2020-03-09T09:05:40-05:00",
             "date_modified": "2020-03-09T09:19:54-05:00"
-        },
-        {
-            "id": "https://ScienceByJason.com/differentiating-trig-functions.html",
-            "url": "https://ScienceByJason.com/differentiating-trig-functions.html",
-            "title": "Differentiating Trig Functions",
-            "summary": "<div>In this Calculus article I want to show you how to differentiate trig functions. There are a few required relationships to remember in order to do this. These all have to do with the trig identities as they are called. Read on for examples on how to solve these problems.</div>\n<div> </div>\n<div>",
-            "image": "https://ScienceByJason.com/media/posts/30/Differentiating-trig-functions-0.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-12-13T06:22:41-06:00",
-            "date_modified": "2019-12-14T13:31:40-06:00"
         }
     ]
 }

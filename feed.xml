@@ -3,12 +3,29 @@
     <title>Science By Jason</title>
     <link href="https://ScienceByJason.com/feed.xml" rel="self" />
     <link href="https://ScienceByJason.com" />
-    <updated>2020-08-14T08:58:35-05:00</updated>
+    <updated>2020-08-14T09:02:30-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://ScienceByJason.com</id>
 
+    <entry>
+        <title>Algebra Essentials</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://ScienceByJason.com/algebra-essentials.html"/>
+        <id>https://ScienceByJason.com/algebra-essentials.html</id>
+
+        <updated>2020-08-14T09:01:51-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p data-pm-slice="0 0 []">This is the start of a new series involving Algebra and number sets. It will start out with basic Algebra but get more advanced in time.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Understanding Functions In Algebra</title>
         <author>
@@ -17,7 +34,7 @@
         <link href="https://ScienceByJason.com/understanding-functions-in-algebra.html"/>
         <id>https://ScienceByJason.com/understanding-functions-in-algebra.html</id>
 
-        <updated>2020-08-14T08:57:49-05:00</updated>
+        <updated>2020-08-14T09:02:24-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://ScienceByJason.com/media/posts/39/algebra-functions-0.png" alt="algebra functions 0" />
@@ -108,7 +125,7 @@
         <link href="https://ScienceByJason.com/a-first-look-at-algebra-and-number-sets.html"/>
         <id>https://ScienceByJason.com/a-first-look-at-algebra-and-number-sets.html</id>
 
-        <updated>2020-07-30T23:52:53-05:00</updated>
+        <updated>2020-08-14T09:00:15-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://ScienceByJason.com/media/posts/34/a-first-look-at-algebra-0.png" alt="" />
@@ -171,25 +188,6 @@
                     <h2 id="mcetoc_1e2vp4n3f0">The Matter in Interstellar Space</h2>
 <div> </div>
 <div>There are several types of matter in deep space. They range from the huge to very small. Their characteristics are very interesting as well. When we look through a telescope, these areas are very dark. That does not mean it is empty though. There are all sorts of dust, gas, and other molecules hiding in these dark areas.</div>
-<div> </div>
-<div>
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Differentiating Trig Functions</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://ScienceByJason.com/differentiating-trig-functions.html"/>
-        <id>https://ScienceByJason.com/differentiating-trig-functions.html</id>
-
-        <updated>2019-12-14T13:31:40-06:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://ScienceByJason.com/media/posts/30/Differentiating-trig-functions-0.png" alt="" />
-                    <div>In this Calculus article I want to show you how to differentiate trig functions. There are a few required relationships to remember in order to do this. These all have to do with the trig identities as they are called. Read on for examples on how to solve these problems.</div>
 <div> </div>
 <div>
                 ]]>
