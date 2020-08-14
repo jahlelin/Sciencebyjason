@@ -3,12 +3,30 @@
     <title>Science By Jason</title>
     <link href="https://ScienceByJason.com/feed.xml" rel="self" />
     <link href="https://ScienceByJason.com" />
-    <updated>2020-08-09T11:08:39-05:00</updated>
+    <updated>2020-08-14T08:58:35-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://ScienceByJason.com</id>
 
+    <entry>
+        <title>Understanding Functions In Algebra</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://ScienceByJason.com/understanding-functions-in-algebra.html"/>
+        <id>https://ScienceByJason.com/understanding-functions-in-algebra.html</id>
+
+        <updated>2020-08-14T08:57:49-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://ScienceByJason.com/media/posts/39/algebra-functions-0.png" alt="algebra functions 0" />
+                    <p data-pm-slice="0 0 []">In this article I discuss the history and uses of functions. Algebraic functions are some of the most important concepts in math. Since this is a series on Algebra, I use specific examples that are related.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Latex Essentials</title>
         <author>
@@ -174,24 +192,6 @@
                     <div>In this Calculus article I want to show you how to differentiate trig functions. There are a few required relationships to remember in order to do this. These all have to do with the trig identities as they are called. Read on for examples on how to solve these problems.</div>
 <div> </div>
 <div>
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Astronomy for Beginners: The Stars</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://ScienceByJason.com/astronomy-for-beginners-the-stars.html"/>
-        <id>https://ScienceByJason.com/astronomy-for-beginners-the-stars.html</id>
-
-        <updated>2019-12-04T12:36:01-06:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://ScienceByJason.com/media/posts/29/stars0.jpg" alt="" />
-                    <p>The stars in our universe vary greatly. They are all different sizes and colors. Stars also have a lot of common attributes too though. Instead of talking about how they are unique, I will discuss how they are similar today.Read on if you are interested in finding out more about these incredible objects.</p>
-
                 ]]>
             </summary>
         <content></content>

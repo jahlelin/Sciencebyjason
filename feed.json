@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://ScienceByJason.com/understanding-functions-in-algebra.html",
+            "url": "https://ScienceByJason.com/understanding-functions-in-algebra.html",
+            "title": "Understanding Functions In Algebra",
+            "summary": "<p data-pm-slice=\"0 0 []\">In this article I discuss the history and uses of functions. Algebraic functions are some of the most important concepts in math. Since this is a series on Algebra, I use specific examples that are related.</p>\n",
+            "image": "https://ScienceByJason.com/media/posts/39/algebra-functions-0.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-08-13T19:55:30-05:00",
+            "date_modified": "2020-08-14T08:57:49-05:00"
+        },
+        {
             "id": "https://ScienceByJason.com/latex-essentials.html",
             "url": "https://ScienceByJason.com/latex-essentials.html",
             "title": "Latex Essentials",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2019-12-13T06:22:41-06:00",
             "date_modified": "2019-12-14T13:31:40-06:00"
-        },
-        {
-            "id": "https://ScienceByJason.com/astronomy-for-beginners-the-stars.html",
-            "url": "https://ScienceByJason.com/astronomy-for-beginners-the-stars.html",
-            "title": "Astronomy for Beginners: The Stars",
-            "summary": "<p>The stars in our universe vary greatly. They are all different sizes and colors. Stars also have a lot of common attributes too though. Instead of talking about how they are unique, I will discuss how they are similar today.Read on if you are interested in finding out more about these incredible objects.</p>\n",
-            "image": "https://ScienceByJason.com/media/posts/29/stars0.jpg",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-12-03T22:22:46-06:00",
-            "date_modified": "2019-12-04T12:36:01-06:00"
         }
     ]
 }
