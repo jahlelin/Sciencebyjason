@@ -14,13 +14,14 @@
             "url": "https://ScienceByJason.com/algebra-essentials.html",
             "title": "Algebra Essentials",
             "summary": "<p data-pm-slice=\"0 0 []\">This is the start of a new series involving Algebra and number sets. It will start out with basic Algebra but get more advanced in time.</p>\n",
+            "image": "https://ScienceByJason.com/media/posts/40/Algebra-Essentials-0.png",
             "author": {
                 "name": "Jason Moore"
             },
             "tags": [
             ],
             "date_published": "2020-08-14T08:59:38-05:00",
-            "date_modified": "2020-08-14T09:01:51-05:00"
+            "date_modified": "2020-08-15T12:16:41-05:00"
         },
         {
             "id": "https://ScienceByJason.com/understanding-functions-in-algebra.html",
@@ -34,7 +35,7 @@
             "tags": [
             ],
             "date_published": "2020-08-13T19:55:30-05:00",
-            "date_modified": "2020-08-14T09:02:24-05:00"
+            "date_modified": "2020-08-14T09:49:09-05:00"
         },
         {
             "id": "https://ScienceByJason.com/latex-essentials.html",
@@ -48,7 +49,7 @@
             "tags": [
             ],
             "date_published": "2020-08-09T10:33:13-05:00",
-            "date_modified": "2020-08-09T11:08:11-05:00"
+            "date_modified": "2020-08-14T09:50:47-05:00"
         },
         {
             "id": "https://ScienceByJason.com/calculus-essentials.html",
@@ -62,7 +63,7 @@
             "tags": [
             ],
             "date_published": "2020-08-09T10:26:59-05:00",
-            "date_modified": "2020-08-09T11:00:15-05:00"
+            "date_modified": "2020-08-14T09:51:52-05:00"
         },
         {
             "id": "https://ScienceByJason.com/the-evolution-of-stars.html",
@@ -90,7 +91,7 @@
             "tags": [
             ],
             "date_published": "2020-07-30T23:54:32-05:00",
-            "date_modified": "2020-08-09T10:25:00-05:00"
+            "date_modified": "2020-08-14T09:53:52-05:00"
         },
         {
             "id": "https://ScienceByJason.com/a-first-look-at-algebra-and-number-sets.html",
