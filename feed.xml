@@ -3,12 +3,31 @@
     <title>Science By Jason</title>
     <link href="https://ScienceByJason.com/feed.xml" rel="self" />
     <link href="https://ScienceByJason.com" />
-    <updated>2020-08-15T12:16:48-05:00</updated>
+    <updated>2020-09-06T22:35:36-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://ScienceByJason.com</id>
 
+    <entry>
+        <title>When Stars Explode</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://ScienceByJason.com/when-stars-explode.html"/>
+        <id>https://ScienceByJason.com/when-stars-explode.html</id>
+
+        <updated>2020-09-06T22:28:49-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://ScienceByJason.com/media/posts/41/when-stars-explode-0.jpg" alt="when stars explode" />
+                    <h3 id="mcetoc_1ehj8s8jo9"> </h3>
+<p id="mcetoc_1ehj88n1j0"><a href="https://sciencebyjason.com/the-evolution-of-stars.html">Stars</a> explode all the time. They do so for a few different reasons. The type of explosions and aftereffects depend on the characteristics of the original star. As you can imagine, there are multiple types of explosions. There are different types of explosions because there are so many different types of stars.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Algebra Essentials</title>
         <author>
@@ -71,7 +90,7 @@
         <link href="https://ScienceByJason.com/calculus-essentials.html"/>
         <id>https://ScienceByJason.com/calculus-essentials.html</id>
 
-        <updated>2020-08-14T09:51:52-05:00</updated>
+        <updated>2020-09-06T22:35:07-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://ScienceByJason.com/media/posts/37/calculus-essentials-0.png" alt="calculus essentials 0" />
@@ -107,7 +126,7 @@
         <link href="https://ScienceByJason.com/astronomy-essentials.html"/>
         <id>https://ScienceByJason.com/astronomy-essentials.html</id>
 
-        <updated>2020-08-14T09:53:52-05:00</updated>
+        <updated>2020-09-06T22:29:48-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://ScienceByJason.com/media/posts/35/Astronomy-Essentials-0.png" alt="Astronomy Essentials 0" />
@@ -168,27 +187,6 @@
                 <![CDATA[
                         <img src="https://ScienceByJason.com/media/posts/32/Differentiating-Inverse-Trig-Functions.png" alt="" />
                     <div>This article today will be about differentiating inverse trigonometric functions. They look weird and may take a bit to wrap your head around. Be patient and you will see results in learning these.</div>
-<div> </div>
-<div>
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>The Matter in Interstellar Space</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://ScienceByJason.com/the-matter-in-interstellar-space.html"/>
-        <id>https://ScienceByJason.com/the-matter-in-interstellar-space.html</id>
-
-        <updated>2020-03-09T09:19:54-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://ScienceByJason.com/media/posts/31/Interstellar-Medium-0.jpg" alt="matter in interstellar space" />
-                    <h2 id="mcetoc_1e2vp4n3f0">The Matter in Interstellar Space</h2>
-<div> </div>
-<div>There are several types of matter in deep space. They range from the huge to very small. Their characteristics are very interesting as well. When we look through a telescope, these areas are very dark. That does not mean it is empty though. There are all sorts of dust, gas, and other molecules hiding in these dark areas.</div>
 <div> </div>
 <div>
                 ]]>

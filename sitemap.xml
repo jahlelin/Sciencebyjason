@@ -90,7 +90,7 @@
 </url>
 <url>
 <loc>https://ScienceByJason.com/astronomy-essentials.html</loc>
-<lastmod>2020-08-14T09:53:52-05:00</lastmod>
+<lastmod>2020-09-06T22:29:48-05:00</lastmod>
 <image:image>
 <image:loc>https://ScienceByJason.com/media\posts\35/Astronomy-Essentials-0.png</image:loc>
 <image:title><![CDATA[Astronomy Essentials 0]]></image:title>
@@ -177,6 +177,22 @@
 </image:image>
 <image:image>
 <image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/4/alberio_visual.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/41/when-stars-explode-1.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/41/when-stars-explode-2.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/41/when-stars-explode-3.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/41/when-stars-explode-4.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -358,7 +374,7 @@
 </url>
 <url>
 <loc>https://ScienceByJason.com/basic-calculus-problems-definition-of-a-limit.html</loc>
-<lastmod>2019-10-14T21:52:58-05:00</lastmod>
+<lastmod>2020-09-06T22:34:34-05:00</lastmod>
 <image:image>
 <image:loc>https://ScienceByJason.com/media\posts\19/deflimit3.png</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -538,7 +554,7 @@
 </url>
 <url>
 <loc>https://ScienceByJason.com/calculus-essentials.html</loc>
-<lastmod>2020-08-14T09:51:52-05:00</lastmod>
+<lastmod>2020-09-06T22:35:07-05:00</lastmod>
 <image:image>
 <image:loc>https://ScienceByJason.com/media\posts\37/calculus-essentials-0.png</image:loc>
 <image:title><![CDATA[calculus essentials 0]]></image:title>
@@ -554,6 +570,14 @@
 <image:image>
 <image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/14/limit1-1024x523.png</image:loc>
 <image:title><![CDATA[beginning calculus problems with limits]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/19/deflimit2.png</image:loc>
+<image:title><![CDATA[definition of a limit]]></image:title>
+</image:image>
+<image:image>
+<image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/19/deflimit1.png</image:loc>
+<image:title><![CDATA[definition of a limit]]></image:title>
 </image:image>
 </url>
 <url>
@@ -957,7 +981,7 @@
 </url>
 <url>
 <loc>https://ScienceByJason.com/the-matter-in-interstellar-space.html</loc>
-<lastmod>2020-03-09T09:19:54-05:00</lastmod>
+<lastmod>2020-09-06T22:28:02-05:00</lastmod>
 <image:image>
 <image:loc>https://ScienceByJason.com/media\posts\31/Interstellar-Medium-0.jpg</image:loc>
 <image:title><![CDATA[matter in interstellar space]]></image:title>
@@ -1029,6 +1053,30 @@
 <image:image>
 <image:loc>https://ScienceByJason.com/media\posts\2/dna3.jpg</image:loc>
 <image:title><![CDATA[dna3]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://ScienceByJason.com/when-stars-explode.html</loc>
+<lastmod>2020-09-06T22:28:49-05:00</lastmod>
+<image:image>
+<image:loc>https://ScienceByJason.com/media\posts\41/when-stars-explode-0.jpg</image:loc>
+<image:title><![CDATA[when stars explode]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://ScienceByJason.com/media\posts\41/when-stars-explode-1.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://ScienceByJason.com/media\posts\41/when-stars-explode-2.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://ScienceByJason.com/media\posts\41/when-stars-explode-3.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://ScienceByJason.com/media\posts\41/when-stars-explode-4.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 </urlset>

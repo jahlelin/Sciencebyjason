@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://ScienceByJason.com/when-stars-explode.html",
+            "url": "https://ScienceByJason.com/when-stars-explode.html",
+            "title": "When Stars Explode",
+            "summary": "<h3 id=\"mcetoc_1ehj8s8jo9\"> </h3>\n<p id=\"mcetoc_1ehj88n1j0\"><a href=\"https://sciencebyjason.com/the-evolution-of-stars.html\">Stars</a> explode all the time. They do so for a few different reasons. The type of explosions and aftereffects depend on the characteristics of the original star. As you can imagine, there are multiple types of explosions. There are different types of explosions because there are so many different types of stars.</p>\n",
+            "image": "https://ScienceByJason.com/media/posts/41/when-stars-explode-0.jpg",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-09-06T22:05:58-05:00",
+            "date_modified": "2020-09-06T22:28:49-05:00"
+        },
+        {
             "id": "https://ScienceByJason.com/algebra-essentials.html",
             "url": "https://ScienceByJason.com/algebra-essentials.html",
             "title": "Algebra Essentials",
@@ -63,7 +77,7 @@
             "tags": [
             ],
             "date_published": "2020-08-09T10:26:59-05:00",
-            "date_modified": "2020-08-14T09:51:52-05:00"
+            "date_modified": "2020-09-06T22:35:07-05:00"
         },
         {
             "id": "https://ScienceByJason.com/the-evolution-of-stars.html",
@@ -91,7 +105,7 @@
             "tags": [
             ],
             "date_published": "2020-07-30T23:54:32-05:00",
-            "date_modified": "2020-08-14T09:53:52-05:00"
+            "date_modified": "2020-09-06T22:29:48-05:00"
         },
         {
             "id": "https://ScienceByJason.com/a-first-look-at-algebra-and-number-sets.html",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2020-05-14T16:52:35-05:00",
             "date_modified": "2020-05-14T17:32:34-05:00"
-        },
-        {
-            "id": "https://ScienceByJason.com/the-matter-in-interstellar-space.html",
-            "url": "https://ScienceByJason.com/the-matter-in-interstellar-space.html",
-            "title": "The Matter in Interstellar Space",
-            "summary": "<h2 id=\"mcetoc_1e2vp4n3f0\">The Matter in Interstellar Space</h2>\n<div> </div>\n<div>There are several types of matter in deep space. They range from the huge to very small. Their characteristics are very interesting as well. When we look through a telescope, these areas are very dark. That does not mean it is empty though. There are all sorts of dust, gas, and other molecules hiding in these dark areas.</div>\n<div> </div>\n<div>",
-            "image": "https://ScienceByJason.com/media/posts/31/Interstellar-Medium-0.jpg",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-03-09T09:05:40-05:00",
-            "date_modified": "2020-03-09T09:19:54-05:00"
         }
     ]
 }
