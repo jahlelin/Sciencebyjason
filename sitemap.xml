@@ -62,7 +62,7 @@
 </url>
 <url>
 <loc>https://ScienceByJason.com/algebra-essentials.html</loc>
-<lastmod>2020-08-15T12:16:41-05:00</lastmod>
+<lastmod>2020-09-19T08:48:42-05:00</lastmod>
 <image:image>
 <image:loc>https://ScienceByJason.com/media\posts\40/Algebra-Essentials-0.png</image:loc>
 <image:title><![CDATA[algebra essentials]]></image:title>
@@ -90,7 +90,7 @@
 </url>
 <url>
 <loc>https://ScienceByJason.com/astronomy-essentials.html</loc>
-<lastmod>2020-09-06T22:29:48-05:00</lastmod>
+<lastmod>2020-09-19T08:55:13-05:00</lastmod>
 <image:image>
 <image:loc>https://ScienceByJason.com/media\posts\35/Astronomy-Essentials-0.png</image:loc>
 <image:title><![CDATA[Astronomy Essentials 0]]></image:title>
@@ -362,7 +362,7 @@
 </url>
 <url>
 <loc>https://ScienceByJason.com/astronomy-for-beginners-the-stars.html</loc>
-<lastmod>2019-12-04T12:36:01-06:00</lastmod>
+<lastmod>2020-09-19T08:45:03-05:00</lastmod>
 <image:image>
 <image:loc>https://ScienceByJason.com/media\posts\29/stars0.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -582,7 +582,7 @@
 </url>
 <url>
 <loc>https://ScienceByJason.com/differentiating-inverse-trig-functions.html</loc>
-<lastmod>2020-05-14T17:32:34-05:00</lastmod>
+<lastmod>2020-09-19T08:46:18-05:00</lastmod>
 <image:image>
 <image:loc>https://ScienceByJason.com/media\posts\32/Differentiating-Inverse-Trig-Functions.png</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -590,7 +590,7 @@
 </url>
 <url>
 <loc>https://ScienceByJason.com/differentiating-trig-functions.html</loc>
-<lastmod>2019-12-14T13:31:40-06:00</lastmod>
+<lastmod>2020-09-19T08:45:32-05:00</lastmod>
 <image:image>
 <image:loc>https://ScienceByJason.com/media\posts\30/Differentiating-trig-functions-0.png</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -634,7 +634,7 @@
 </url>
 <url>
 <loc>https://ScienceByJason.com/how-stars-form.html</loc>
-<lastmod>2020-05-18T16:26:16-05:00</lastmod>
+<lastmod>2020-09-19T08:46:53-05:00</lastmod>
 <image:image>
 <image:loc>https://ScienceByJason.com/media\posts\33/star-formation-0.jpg</image:loc>
 <image:title><![CDATA[star formation 0]]></image:title>
@@ -766,7 +766,7 @@
 </url>
 <url>
 <loc>https://ScienceByJason.com/latex-essentials.html</loc>
-<lastmod>2020-08-14T09:50:47-05:00</lastmod>
+<lastmod>2020-09-19T08:51:24-05:00</lastmod>
 <image:image>
 <image:loc>https://ScienceByJason.com/media\posts\38/latex-essentials-0.png</image:loc>
 <image:title><![CDATA[latex essentials 0]]></image:title>
@@ -820,24 +820,12 @@
 <image:title><![CDATA[beginning latex : powers]]></image:title>
 </image:image>
 <image:image>
-<image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/7/Image(6).png</image:loc>
-<image:title><![CDATA[quick latex tutorial]]></image:title>
-</image:image>
-<image:image>
 <image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/7/latex6.png</image:loc>
 <image:title><![CDATA[beginning latex : powers]]></image:title>
 </image:image>
 <image:image>
-<image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/7/Image(7).png</image:loc>
-<image:title><![CDATA[quick latex tutorial]]></image:title>
-</image:image>
-<image:image>
 <image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/7/latex7.png</image:loc>
 <image:title><![CDATA[beginning latex : fractions]]></image:title>
-</image:image>
-<image:image>
-<image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/7/Image(8).png</image:loc>
-<image:title><![CDATA[quick latex tutorial]]></image:title>
 </image:image>
 <image:image>
 <image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/7/latex8.png</image:loc>
@@ -862,6 +850,14 @@
 <image:image>
 <image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/7/latex14.png</image:loc>
 <image:title><![CDATA[beginning latex : integrals]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://ScienceByJason.com/linear-functions-in-algebra.html</loc>
+<lastmod>2020-09-19T08:47:36-05:00</lastmod>
+<image:image>
+<image:loc>https://ScienceByJason.com/media\posts\42/linear-functions-0.png</image:loc>
+<image:title><![CDATA[linear functions ]]></image:title>
 </image:image>
 </url>
 <url>
@@ -917,7 +913,7 @@
 </url>
 <url>
 <loc>https://ScienceByJason.com/the-evolution-of-stars.html</loc>
-<lastmod>2020-08-09T10:19:41-05:00</lastmod>
+<lastmod>2020-09-19T08:46:35-05:00</lastmod>
 <image:image>
 <image:loc>https://ScienceByJason.com/media\posts\36/stellarevolution-0.jpg</image:loc>
 <image:title><![CDATA[evolution of stars]]></image:title>
@@ -981,7 +977,7 @@
 </url>
 <url>
 <loc>https://ScienceByJason.com/the-matter-in-interstellar-space.html</loc>
-<lastmod>2020-09-06T22:28:02-05:00</lastmod>
+<lastmod>2020-09-19T08:45:51-05:00</lastmod>
 <image:image>
 <image:loc>https://ScienceByJason.com/media\posts\31/Interstellar-Medium-0.jpg</image:loc>
 <image:title><![CDATA[matter in interstellar space]]></image:title>

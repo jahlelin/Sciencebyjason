@@ -3,12 +3,30 @@
     <title>Science By Jason</title>
     <link href="https://ScienceByJason.com/feed.xml" rel="self" />
     <link href="https://ScienceByJason.com" />
-    <updated>2020-09-06T22:35:36-05:00</updated>
+    <updated>2020-09-19T08:55:28-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://ScienceByJason.com</id>
 
+    <entry>
+        <title>Linear Functions In Algebra</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://ScienceByJason.com/linear-functions-in-algebra.html"/>
+        <id>https://ScienceByJason.com/linear-functions-in-algebra.html</id>
+
+        <updated>2020-09-19T08:47:36-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://ScienceByJason.com/media/posts/42/linear-functions-0.png" alt="linear functions " />
+                    <p>A function is often used to model data that is important to us. It is useful in the sense that it can allow us to somewhat predict what will happen in the future mathematically.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>When Stars Explode</title>
         <author>
@@ -36,7 +54,7 @@
         <link href="https://ScienceByJason.com/algebra-essentials.html"/>
         <id>https://ScienceByJason.com/algebra-essentials.html</id>
 
-        <updated>2020-08-15T12:16:41-05:00</updated>
+        <updated>2020-09-19T08:48:42-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://ScienceByJason.com/media/posts/40/Algebra-Essentials-0.png" alt="algebra essentials" />
@@ -72,7 +90,7 @@
         <link href="https://ScienceByJason.com/latex-essentials.html"/>
         <id>https://ScienceByJason.com/latex-essentials.html</id>
 
-        <updated>2020-08-14T09:50:47-05:00</updated>
+        <updated>2020-09-19T08:51:24-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://ScienceByJason.com/media/posts/38/latex-essentials-0.png" alt="latex essentials 0" />
@@ -108,7 +126,7 @@
         <link href="https://ScienceByJason.com/the-evolution-of-stars.html"/>
         <id>https://ScienceByJason.com/the-evolution-of-stars.html</id>
 
-        <updated>2020-08-09T10:19:41-05:00</updated>
+        <updated>2020-09-19T08:46:35-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://ScienceByJason.com/media/posts/36/stellarevolution-0.jpg" alt="evolution of stars" />
@@ -126,7 +144,7 @@
         <link href="https://ScienceByJason.com/astronomy-essentials.html"/>
         <id>https://ScienceByJason.com/astronomy-essentials.html</id>
 
-        <updated>2020-09-06T22:29:48-05:00</updated>
+        <updated>2020-09-19T08:55:13-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://ScienceByJason.com/media/posts/35/Astronomy-Essentials-0.png" alt="Astronomy Essentials 0" />
@@ -163,30 +181,11 @@
         <link href="https://ScienceByJason.com/how-stars-form.html"/>
         <id>https://ScienceByJason.com/how-stars-form.html</id>
 
-        <updated>2020-05-18T16:26:16-05:00</updated>
+        <updated>2020-09-19T08:46:53-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://ScienceByJason.com/media/posts/33/star-formation-0.jpg" alt="star formation 0" />
                     <div>This article is about star formation. It is an interesting subject because scientists, as a whole know so little. We do know a few things and that is just the start. Read on if you want to know more.</div>
-<div> </div>
-<div>
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Differentiating Inverse Trig Functions </title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://ScienceByJason.com/differentiating-inverse-trig-functions.html"/>
-        <id>https://ScienceByJason.com/differentiating-inverse-trig-functions.html</id>
-
-        <updated>2020-05-14T17:32:34-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://ScienceByJason.com/media/posts/32/Differentiating-Inverse-Trig-Functions.png" alt="" />
-                    <div>This article today will be about differentiating inverse trigonometric functions. They look weird and may take a bit to wrap your head around. Be patient and you will see results in learning these.</div>
 <div> </div>
 <div>
                 ]]>
