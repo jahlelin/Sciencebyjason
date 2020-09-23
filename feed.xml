@@ -3,12 +3,30 @@
     <title>Science By Jason</title>
     <link href="https://ScienceByJason.com/feed.xml" rel="self" />
     <link href="https://ScienceByJason.com" />
-    <updated>2020-09-19T08:55:28-05:00</updated>
+    <updated>2020-09-22T21:29:07-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://ScienceByJason.com</id>
 
+    <entry>
+        <title>Measurements and Uncertainty in Physics</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://ScienceByJason.com/measurements-and-uncertainty-in-physics.html"/>
+        <id>https://ScienceByJason.com/measurements-and-uncertainty-in-physics.html</id>
+
+        <updated>2020-09-22T21:02:29-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://ScienceByJason.com/media/posts/43/Measurements-and-Uncertainty-in-Physics-0.png" alt="Measurements and Uncertainty in Physics" />
+                    <p>Measurements and dealing with their uncertainties are some first skills you learn in a lab. In this article, I will go over what you need to know when dealing with data.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Linear Functions In Algebra</title>
         <author>
@@ -144,7 +162,7 @@
         <link href="https://ScienceByJason.com/astronomy-essentials.html"/>
         <id>https://ScienceByJason.com/astronomy-essentials.html</id>
 
-        <updated>2020-09-19T08:55:13-05:00</updated>
+        <updated>2020-09-22T21:27:59-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://ScienceByJason.com/media/posts/35/Astronomy-Essentials-0.png" alt="Astronomy Essentials 0" />
@@ -169,25 +187,6 @@
                         <img src="https://ScienceByJason.com/media/posts/34/a-first-look-at-algebra-0.png" alt="" />
                     <p data-pm-slice="0 0 []">This is the start of a new series involving Algebra and number sets. It will start out with basic Algebra but get more advanced in time.</p>
 
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>How Stars Form</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://ScienceByJason.com/how-stars-form.html"/>
-        <id>https://ScienceByJason.com/how-stars-form.html</id>
-
-        <updated>2020-09-19T08:46:53-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://ScienceByJason.com/media/posts/33/star-formation-0.jpg" alt="star formation 0" />
-                    <div>This article is about star formation. It is an interesting subject because scientists, as a whole know so little. We do know a few things and that is just the start. Read on if you want to know more.</div>
-<div> </div>
-<div>
                 ]]>
             </summary>
         <content></content>

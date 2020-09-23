@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://ScienceByJason.com/measurements-and-uncertainty-in-physics.html",
+            "url": "https://ScienceByJason.com/measurements-and-uncertainty-in-physics.html",
+            "title": "Measurements and Uncertainty in Physics",
+            "summary": "<p>Measurements and dealing with their uncertainties are some first skills you learn in a lab. In this article, I will go over what you need to know when dealing with data.</p>\n",
+            "image": "https://ScienceByJason.com/media/posts/43/Measurements-and-Uncertainty-in-Physics-0.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-09-22T20:56:28-05:00",
+            "date_modified": "2020-09-22T21:02:29-05:00"
+        },
+        {
             "id": "https://ScienceByJason.com/linear-functions-in-algebra.html",
             "url": "https://ScienceByJason.com/linear-functions-in-algebra.html",
             "title": "Linear Functions In Algebra",
@@ -119,7 +133,7 @@
             "tags": [
             ],
             "date_published": "2020-07-30T23:54:32-05:00",
-            "date_modified": "2020-09-19T08:55:13-05:00"
+            "date_modified": "2020-09-22T21:27:59-05:00"
         },
         {
             "id": "https://ScienceByJason.com/a-first-look-at-algebra-and-number-sets.html",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2020-07-30T23:49:21-05:00",
             "date_modified": "2020-08-14T09:00:15-05:00"
-        },
-        {
-            "id": "https://ScienceByJason.com/how-stars-form.html",
-            "url": "https://ScienceByJason.com/how-stars-form.html",
-            "title": "How Stars Form",
-            "summary": "<div>This article is about star formation. It is an interesting subject because scientists, as a whole know so little. We do know a few things and that is just the start. Read on if you want to know more.</div>\n<div> </div>\n<div>",
-            "image": "https://ScienceByJason.com/media/posts/33/star-formation-0.jpg",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-05-17T09:25:57-05:00",
-            "date_modified": "2020-09-19T08:46:53-05:00"
         }
     ]
 }
