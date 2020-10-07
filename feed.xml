@@ -3,12 +3,30 @@
     <title>Science By Jason</title>
     <link href="https://ScienceByJason.com/feed.xml" rel="self" />
     <link href="https://ScienceByJason.com" />
-    <updated>2020-09-22T21:29:07-05:00</updated>
+    <updated>2020-10-06T21:23:11-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://ScienceByJason.com</id>
 
+    <entry>
+        <title>Neutron Stars and Black Holes</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://ScienceByJason.com/neutron-stars-and-black-holes.html"/>
+        <id>https://ScienceByJason.com/neutron-stars-and-black-holes.html</id>
+
+        <updated>2020-10-06T21:12:29-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://ScienceByJason.com/media/posts/44/Neutron-Stars-0.jpg" alt="Neutron Stars 0" />
+                    <p data-pm-slice="0 0 []">Neutron stars have some of the most bizarre properties in the universe. A lot of massive stars will end up exploding and turning into these fascinating objects.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Measurements and Uncertainty in Physics</title>
         <author>
@@ -162,30 +180,12 @@
         <link href="https://ScienceByJason.com/astronomy-essentials.html"/>
         <id>https://ScienceByJason.com/astronomy-essentials.html</id>
 
-        <updated>2020-09-22T21:27:59-05:00</updated>
+        <updated>2020-10-06T21:22:24-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://ScienceByJason.com/media/posts/35/Astronomy-Essentials-0.png" alt="Astronomy Essentials 0" />
                     <div>Stargazing has always inspired people to wonder what was out there in the night sky. Some thought the stars were past relatives or ghosts. Others thought they were Gods. One thing for sure was that no one knew for sure. From the beginning of time this has been the case. We have always wondered. Even in modern times where we know many things, we still wonder how modern astronomy evolved. As science and technology evolved, our understanding of astronomy has increased steadily though. Stargazing will forever be popular and rightly so. How modern astronomy evolved will forever be a journey to people.</div>
 <div> </div>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>A First Look At Algebra and Number Sets</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://ScienceByJason.com/a-first-look-at-algebra-and-number-sets.html"/>
-        <id>https://ScienceByJason.com/a-first-look-at-algebra-and-number-sets.html</id>
-
-        <updated>2020-08-14T09:00:15-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://ScienceByJason.com/media/posts/34/a-first-look-at-algebra-0.png" alt="" />
-                    <p data-pm-slice="0 0 []">This is the start of a new series involving Algebra and number sets. It will start out with basic Algebra but get more advanced in time.</p>
 
                 ]]>
             </summary>

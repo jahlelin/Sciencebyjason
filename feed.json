@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://ScienceByJason.com/neutron-stars-and-black-holes.html",
+            "url": "https://ScienceByJason.com/neutron-stars-and-black-holes.html",
+            "title": "Neutron Stars and Black Holes",
+            "summary": "<p data-pm-slice=\"0 0 []\">Neutron stars have some of the most bizarre properties in the universe. A lot of massive stars will end up exploding and turning into these fascinating objects.</p>\n",
+            "image": "https://ScienceByJason.com/media/posts/44/Neutron-Stars-0.jpg",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-10-06T20:20:14-05:00",
+            "date_modified": "2020-10-06T21:12:29-05:00"
+        },
+        {
             "id": "https://ScienceByJason.com/measurements-and-uncertainty-in-physics.html",
             "url": "https://ScienceByJason.com/measurements-and-uncertainty-in-physics.html",
             "title": "Measurements and Uncertainty in Physics",
@@ -133,21 +147,7 @@
             "tags": [
             ],
             "date_published": "2020-07-30T23:54:32-05:00",
-            "date_modified": "2020-09-22T21:27:59-05:00"
-        },
-        {
-            "id": "https://ScienceByJason.com/a-first-look-at-algebra-and-number-sets.html",
-            "url": "https://ScienceByJason.com/a-first-look-at-algebra-and-number-sets.html",
-            "title": "A First Look At Algebra and Number Sets",
-            "summary": "<p data-pm-slice=\"0 0 []\">This is the start of a new series involving Algebra and number sets. It will start out with basic Algebra but get more advanced in time.</p>\n",
-            "image": "https://ScienceByJason.com/media/posts/34/a-first-look-at-algebra-0.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-07-30T23:49:21-05:00",
-            "date_modified": "2020-08-14T09:00:15-05:00"
+            "date_modified": "2020-10-06T21:22:24-05:00"
         }
     ]
 }
