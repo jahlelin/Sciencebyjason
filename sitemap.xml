@@ -62,7 +62,7 @@
 </url>
 <url>
 <loc>https://ScienceByJason.com/algebra-essentials.html</loc>
-<lastmod>2020-09-19T08:48:42-05:00</lastmod>
+<lastmod>2020-10-23T19:31:48-05:00</lastmod>
 <image:image>
 <image:loc>https://ScienceByJason.com/media\posts\40/Algebra-Essentials-0.png</image:loc>
 <image:title><![CDATA[algebra essentials]]></image:title>
@@ -900,6 +900,9 @@
 <loc>https://ScienceByJason.com/page/2/</loc>
 </url>
 <url>
+<loc>https://ScienceByJason.com/page/3/</loc>
+</url>
+<url>
 <loc>https://ScienceByJason.com/planets-of-our-solar-system.html</loc>
 <lastmod>2019-12-04T12:10:15-06:00</lastmod>
 <image:image>
@@ -933,6 +936,14 @@
 <image:image>
 <image:loc>https://ScienceByJason.com/media\posts\20/neptune.png</image:loc>
 <image:title><![CDATA[planets of our solar system - neptune]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://ScienceByJason.com/solving-linear-equations-in-algebra.html</loc>
+<lastmod>2020-10-23T19:30:26-05:00</lastmod>
+<image:image>
+<image:loc>https://ScienceByJason.com/media\posts\45/Linear-Equations-In-Algebra.png</image:loc>
+<image:title><![CDATA[Linear Equations In Algebra]]></image:title>
 </image:image>
 </url>
 <url>

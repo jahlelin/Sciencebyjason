@@ -3,12 +3,30 @@
     <title>Science By Jason</title>
     <link href="https://ScienceByJason.com/feed.xml" rel="self" />
     <link href="https://ScienceByJason.com" />
-    <updated>2020-10-06T21:23:11-05:00</updated>
+    <updated>2020-10-23T22:20:33-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://ScienceByJason.com</id>
 
+    <entry>
+        <title>Solving Linear Equations In Algebra</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://ScienceByJason.com/solving-linear-equations-in-algebra.html"/>
+        <id>https://ScienceByJason.com/solving-linear-equations-in-algebra.html</id>
+
+        <updated>2020-10-23T19:30:26-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://ScienceByJason.com/media/posts/45/Linear-Equations-In-Algebra.png" alt="Linear Equations In Algebra" />
+                    <p>One of the goals in mathematics is solving equations. The most fundamental of these is linear equations. In this chapter, I discuss how to solve them.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Neutron Stars and Black Holes</title>
         <author>
@@ -90,7 +108,7 @@
         <link href="https://ScienceByJason.com/algebra-essentials.html"/>
         <id>https://ScienceByJason.com/algebra-essentials.html</id>
 
-        <updated>2020-09-19T08:48:42-05:00</updated>
+        <updated>2020-10-23T19:31:48-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://ScienceByJason.com/media/posts/40/Algebra-Essentials-0.png" alt="algebra essentials" />
@@ -167,25 +185,6 @@
                 <![CDATA[
                         <img src="https://ScienceByJason.com/media/posts/36/stellarevolution-0.jpg" alt="evolution of stars" />
                     <p>Stars live and die in time frames longer than mortals can imagine. In this article, I am going to talk about what happens during the life of a star. From its early beginnings until it runs out of fuel, it will be an interesting journey.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Astronomy Essentials</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://ScienceByJason.com/astronomy-essentials.html"/>
-        <id>https://ScienceByJason.com/astronomy-essentials.html</id>
-
-        <updated>2020-10-06T21:22:24-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://ScienceByJason.com/media/posts/35/Astronomy-Essentials-0.png" alt="Astronomy Essentials 0" />
-                    <div>Stargazing has always inspired people to wonder what was out there in the night sky. Some thought the stars were past relatives or ghosts. Others thought they were Gods. One thing for sure was that no one knew for sure. From the beginning of time this has been the case. We have always wondered. Even in modern times where we know many things, we still wonder how modern astronomy evolved. As science and technology evolved, our understanding of astronomy has increased steadily though. Stargazing will forever be popular and rightly so. How modern astronomy evolved will forever be a journey to people.</div>
-<div> </div>
 
                 ]]>
             </summary>
