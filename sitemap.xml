@@ -62,29 +62,29 @@
 </url>
 <url>
 <loc>https://ScienceByJason.com/algebra-essentials.html</loc>
-<lastmod>2020-10-23T19:31:48-05:00</lastmod>
+<lastmod>2021-02-01T15:40:36-06:00</lastmod>
 <image:image>
 <image:loc>https://ScienceByJason.com/media\posts\40/Algebra-Essentials-0.png</image:loc>
 <image:title><![CDATA[algebra essentials]]></image:title>
 </image:image>
 <image:image>
-<image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/34//first-look-at-algebra-1.png</image:loc>
+<image:loc>file:///C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/34//first-look-at-algebra-1.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/34//a-first-look-at-algebra-2.png</image:loc>
+<image:loc>file:///C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/34//a-first-look-at-algebra-2.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/34//a-first-look-at-algebra-3.png</image:loc>
+<image:loc>file:///C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/34//a-first-look-at-algebra-3.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/34//a-first-look-at-algebra-4.png</image:loc>
+<image:loc>file:///C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/34//a-first-look-at-algebra-4.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>file://C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/34//a-first-look-at-algebra-5.png</image:loc>
+<image:loc>file:///C:/Users/Owner/Documents/Publii/sites/science-by-jason/input/media/posts/34//a-first-look-at-algebra-5.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -550,7 +550,7 @@
 </url>
 <url>
 <loc>https://ScienceByJason.com/calculus-essentials.html</loc>
-<lastmod>2021-01-26T19:47:54-06:00</lastmod>
+<lastmod>2020-10-23T23:48:31-05:00</lastmod>
 <image:image>
 <image:loc>https://ScienceByJason.com/media\posts\37/calculus-essentials-0.png</image:loc>
 <image:title><![CDATA[calculus essentials 0]]></image:title>
@@ -791,6 +791,10 @@
 <image:loc>https://ScienceByJason.com/media\posts\25/Latex-Typesetting.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
+</url>
+<url>
+<loc>https://ScienceByJason.com/inequalities-of-the-linear-kind.html</loc>
+<lastmod>2021-02-01T15:42:51-06:00</lastmod>
 </url>
 <url>
 <loc>https://ScienceByJason.com/latex-essentials.html</loc>
