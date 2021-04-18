@@ -3,12 +3,31 @@
     <title>Science By Jason</title>
     <link href="https://ScienceByJason.com/feed.xml" rel="self" />
     <link href="https://ScienceByJason.com" />
-    <updated>2021-03-29T22:54:13-05:00</updated>
+    <updated>2021-04-17T21:11:14-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://ScienceByJason.com</id>
 
+    <entry>
+        <title>Classification Of Galaxies</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://ScienceByJason.com/classification-of-galaxies.html"/>
+        <id>https://ScienceByJason.com/classification-of-galaxies.html</id>
+            <category term="Astronomy"/>
+
+        <updated>2021-04-17T21:11:14-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://ScienceByJason.com/media/posts/48/classification-of-galaxies-0.jpg" alt="classification of galaxies 0" />
+                    <p>Galaxies are the foundations of the universe and we have identified millions<br>of them. In this chapter I want to mention and talk about the most defining<br>features.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Introduction To Galaxies</title>
         <author>
@@ -178,25 +197,6 @@
                 <![CDATA[
                         <img src="https://ScienceByJason.com/media/posts/39/algebra-functions-0.png" alt="algebra functions 0" />
                     <p data-pm-slice="0 0 []">In this article I discuss the history and uses of functions. Algebraic functions are some of the most important concepts in math. Since this is a series on Algebra, I use specific examples that are related.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Latex Essentials</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://ScienceByJason.com/latex-essentials.html"/>
-        <id>https://ScienceByJason.com/latex-essentials.html</id>
-            <category term="Latex"/>
-
-        <updated>2020-09-19T08:51:24-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://ScienceByJason.com/media/posts/38/latex-essentials-0.png" alt="latex essentials 0" />
-                    <p>You may be trying to display physics equations, biology genes, or chemical formulas.Whichever it is, you realize you have to be super creative to even approach the accuracy that you want. At this point you will probably start asking around or researching the best way to do this. Well let me tell you folks, there is a better way.  This is when most people find out about the wonderful Latex typesetting environment. Read on and I will explain as simply as I can about Latex.</p>
 
                 ]]>
             </summary>
