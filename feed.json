@@ -10,6 +10,36 @@
     },
     "items": [
         {
+            "id": "https://ScienceByJason.com/beginning-atomic-theory.html",
+            "url": "https://ScienceByJason.com/beginning-atomic-theory.html",
+            "title": "Beginning Atomic Theory",
+            "summary": "<p>This chapter is about atomic theory and how we got there.</p>\n",
+            "image": "https://ScienceByJason.com/media/posts/50/pattern_herringbone-7_4_3_0-0_65_1__2ec4b5_ffffff.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Chemistry"
+            ],
+            "date_published": "2021-05-02T16:21:17-05:00",
+            "date_modified": "2021-05-02T17:05:16-05:00"
+        },
+        {
+            "id": "https://ScienceByJason.com/chemistry-essentials.html",
+            "url": "https://ScienceByJason.com/chemistry-essentials.html",
+            "title": "Chemistry Essentials",
+            "summary": "<div>This is an introduction to the fundamental concepts of chemistry. This is ideally for those students just beginning with chemistry whether in high school or college. I am including basic concepts as well as some example problems.</div>\n<div> </div>\n<div> </div>\n",
+            "image": "https://ScienceByJason.com/media/posts/49/cool-background.svg",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Chemistry"
+            ],
+            "date_published": "2021-04-30T23:00:53-05:00",
+            "date_modified": "2021-05-02T17:57:47-05:00"
+        },
+        {
             "id": "https://ScienceByJason.com/classification-of-galaxies.html",
             "url": "https://ScienceByJason.com/classification-of-galaxies.html",
             "title": "Classification Of Galaxies",
@@ -28,7 +58,7 @@
             "id": "https://ScienceByJason.com/introduction-to-galaxies.html",
             "url": "https://ScienceByJason.com/introduction-to-galaxies.html",
             "title": "Introduction To Galaxies",
-            "summary": "<p> </p>\n<h3><strong>Introduction</strong></h3>\n<p>When we look up at a night sky, what do we see? With just our eyes we probably<br>see a few thousand objects of varying intensity. They are mostly stars but there<br>are a few planets , comets, and meteors occasionally too. This is just our<br>galaxy. Our galaxy is a very small portion of the universe. </p>\n",
+            "summary": "<h3> </h3>\n<p>When we look up at a night sky, what do we see? With just our eyes we probably<br>see a few thousand objects of varying intensity. They are mostly stars but there<br>are a few planets , comets, and meteors occasionally too. This is just our<br>galaxy. Our galaxy is a very small portion of the universe. </p>\n",
             "image": "https://ScienceByJason.com/media/posts/47/Introduction-to-Galaxies-0.png",
             "author": {
                 "name": "Jason Moore"
@@ -37,7 +67,7 @@
                    "Astronomy"
             ],
             "date_published": "2021-02-10T14:32:15-06:00",
-            "date_modified": "2021-03-29T22:54:13-05:00"
+            "date_modified": "2021-05-02T17:31:39-05:00"
         },
         {
             "id": "https://ScienceByJason.com/inequalities-of-the-linear-kind.html",
@@ -128,36 +158,6 @@
             ],
             "date_published": "2020-09-06T22:05:58-05:00",
             "date_modified": "2020-09-06T22:28:49-05:00"
-        },
-        {
-            "id": "https://ScienceByJason.com/algebra-essentials.html",
-            "url": "https://ScienceByJason.com/algebra-essentials.html",
-            "title": "Algebra Essentials",
-            "summary": "<p data-pm-slice=\"0 0 []\">This is the start of a new series involving Algebra and number sets. It will start out with basic Algebra but get more advanced in time.</p>\n",
-            "image": "https://ScienceByJason.com/media/posts/40/Algebra-Essentials-0.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Algebra"
-            ],
-            "date_published": "2020-08-14T08:59:38-05:00",
-            "date_modified": "2021-02-01T15:40:36-06:00"
-        },
-        {
-            "id": "https://ScienceByJason.com/understanding-functions-in-algebra.html",
-            "url": "https://ScienceByJason.com/understanding-functions-in-algebra.html",
-            "title": "Understanding Functions In Algebra",
-            "summary": "<p data-pm-slice=\"0 0 []\">In this article I discuss the history and uses of functions. Algebraic functions are some of the most important concepts in math. Since this is a series on Algebra, I use specific examples that are related.</p>\n",
-            "image": "https://ScienceByJason.com/media/posts/39/algebra-functions-0.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Algebra"
-            ],
-            "date_published": "2020-08-13T19:55:30-05:00",
-            "date_modified": "2020-08-14T09:49:09-05:00"
         }
     ]
 }

@@ -3,12 +3,52 @@
     <title>Science By Jason</title>
     <link href="https://ScienceByJason.com/feed.xml" rel="self" />
     <link href="https://ScienceByJason.com" />
-    <updated>2021-04-17T21:11:14-05:00</updated>
+    <updated>2021-05-02T17:57:47-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://ScienceByJason.com</id>
 
+    <entry>
+        <title>Beginning Atomic Theory</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://ScienceByJason.com/beginning-atomic-theory.html"/>
+        <id>https://ScienceByJason.com/beginning-atomic-theory.html</id>
+            <category term="Chemistry"/>
+
+        <updated>2021-05-02T17:05:16-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://ScienceByJason.com/media/posts/50/pattern_herringbone-7_4_3_0-0_65_1__2ec4b5_ffffff.png" alt="" />
+                    <p>This chapter is about atomic theory and how we got there.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Chemistry Essentials</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://ScienceByJason.com/chemistry-essentials.html"/>
+        <id>https://ScienceByJason.com/chemistry-essentials.html</id>
+            <category term="Chemistry"/>
+
+        <updated>2021-05-02T17:57:47-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://ScienceByJason.com/media/posts/49/cool-background.svg" alt="" />
+                    <div>This is an introduction to the fundamental concepts of chemistry. This is ideally for those students just beginning with chemistry whether in high school or college. I am including basic concepts as well as some example problems.</div>
+<div> </div>
+<div> </div>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Classification Of Galaxies</title>
         <author>
@@ -37,12 +77,11 @@
         <id>https://ScienceByJason.com/introduction-to-galaxies.html</id>
             <category term="Astronomy"/>
 
-        <updated>2021-03-29T22:54:13-05:00</updated>
+        <updated>2021-05-02T17:31:39-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://ScienceByJason.com/media/posts/47/Introduction-to-Galaxies-0.png" alt="Introduction to Galaxies 0" />
-                    <p> </p>
-<h3><strong>Introduction</strong></h3>
+                    <h3> </h3>
 <p>When we look up at a night sky, what do we see? With just our eyes we probably<br>see a few thousand objects of varying intensity. They are mostly stars but there<br>are a few planets , comets, and meteors occasionally too. This is just our<br>galaxy. Our galaxy is a very small portion of the universe. </p>
 
                 ]]>
@@ -159,44 +198,6 @@
                         <img src="https://ScienceByJason.com/media/posts/41/when-stars-explode-0.jpg" alt="when stars explode" />
                     <h3> </h3>
 <p><a href="https://sciencebyjason.com/the-evolution-of-stars.html">Stars</a> explode all the time. They do so for a few different reasons. The type of explosions and aftereffects depend on the characteristics of the original star. As you can imagine, there are multiple types of explosions. There are different types of explosions because there are so many different types of stars.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Algebra Essentials</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://ScienceByJason.com/algebra-essentials.html"/>
-        <id>https://ScienceByJason.com/algebra-essentials.html</id>
-            <category term="Algebra"/>
-
-        <updated>2021-02-01T15:40:36-06:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://ScienceByJason.com/media/posts/40/Algebra-Essentials-0.png" alt="algebra essentials" />
-                    <p data-pm-slice="0 0 []">This is the start of a new series involving Algebra and number sets. It will start out with basic Algebra but get more advanced in time.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Understanding Functions In Algebra</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://ScienceByJason.com/understanding-functions-in-algebra.html"/>
-        <id>https://ScienceByJason.com/understanding-functions-in-algebra.html</id>
-            <category term="Algebra"/>
-
-        <updated>2020-08-14T09:49:09-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://ScienceByJason.com/media/posts/39/algebra-functions-0.png" alt="algebra functions 0" />
-                    <p data-pm-slice="0 0 []">In this article I discuss the history and uses of functions. Algebraic functions are some of the most important concepts in math. Since this is a series on Algebra, I use specific examples that are related.</p>
 
                 ]]>
             </summary>
