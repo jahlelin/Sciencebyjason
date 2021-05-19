@@ -3,7 +3,7 @@
     <title>Science By Jason</title>
     <link href="https://ScienceByJason.com/feed.xml" rel="self" />
     <link href="https://ScienceByJason.com" />
-    <updated>2021-05-18T22:31:36-05:00</updated>
+    <updated>2021-05-18T22:54:37-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
@@ -18,10 +18,10 @@
         <id>https://ScienceByJason.com/quadratic-equations.html</id>
             <category term="Algebra"/>
 
-        <updated>2021-05-18T22:31:36-05:00</updated>
+        <updated>2021-05-18T22:54:37-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://ScienceByJason.com/media/posts/52/trianglify-lowres.png" alt="" />
+                        <img src="https://ScienceByJason.com/media/posts/52/quadratic_equations.png" alt="" />
                     <p>This chapter I discuss quadratic equations and how they are useful to model nonlinear data.</p>
 
                 ]]>
@@ -36,9 +36,10 @@
         <link href="https://ScienceByJason.com/piecewise-functions.html"/>
         <id>https://ScienceByJason.com/piecewise-functions.html</id>
 
-        <updated>2021-05-06T16:16:09-05:00</updated>
+        <updated>2021-05-18T22:52:34-05:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://ScienceByJason.com/media/posts/51/cool-background1.svg" alt="" />
                     <p>Piecewise functions describe our every day life and are everywhere. In this chapter I will explain them and show some examples.</p>
 
                 ]]>
