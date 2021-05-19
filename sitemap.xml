@@ -62,7 +62,7 @@
 </url>
 <url>
 <loc>https://ScienceByJason.com/algebra-essentials.html</loc>
-<lastmod>2021-02-01T15:40:36-06:00</lastmod>
+<lastmod>2021-05-18T22:44:19-05:00</lastmod>
 <image:image>
 <image:loc>https://ScienceByJason.com/media\posts\40/Algebra-Essentials-0.png</image:loc>
 <image:title><![CDATA[algebra essentials]]></image:title>
@@ -270,7 +270,7 @@
 </url>
 <url>
 <loc>https://ScienceByJason.com/beginning-atomic-theory.html</loc>
-<lastmod>2021-05-02T17:05:16-05:00</lastmod>
+<lastmod>2021-05-03T16:07:24-05:00</lastmod>
 <image:image>
 <image:loc>https://ScienceByJason.com/media\posts\50/pattern_herringbone-7_4_3_0-0_65_1__2ec4b5_ffffff.png</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -450,7 +450,7 @@
 </url>
 <url>
 <loc>https://ScienceByJason.com/chemistry-essentials.html</loc>
-<lastmod>2021-05-02T17:57:47-05:00</lastmod>
+<lastmod>2021-05-03T16:08:46-05:00</lastmod>
 <image:image>
 <image:loc>https://ScienceByJason.com/media\posts\49/cool-background.svg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -727,6 +727,10 @@
 <loc>https://ScienceByJason.com/page/3/</loc>
 </url>
 <url>
+<loc>https://ScienceByJason.com/piecewise-functions.html</loc>
+<lastmod>2021-05-06T16:16:09-05:00</lastmod>
+</url>
+<url>
 <loc>https://ScienceByJason.com/planets-of-our-solar-system.html</loc>
 <lastmod>2019-12-04T12:10:15-06:00</lastmod>
 <image:image>
@@ -760,6 +764,14 @@
 <image:image>
 <image:loc>https://ScienceByJason.com/media\posts\20/neptune.png</image:loc>
 <image:title><![CDATA[planets of our solar system - neptune]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://ScienceByJason.com/quadratic-equations.html</loc>
+<lastmod>2021-05-18T22:31:36-05:00</lastmod>
+<image:image>
+<image:loc>https://ScienceByJason.com/media\posts\52/trianglify-lowres.png</image:loc>
+<image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>

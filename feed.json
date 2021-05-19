@@ -10,6 +10,34 @@
     },
     "items": [
         {
+            "id": "https://ScienceByJason.com/quadratic-equations.html",
+            "url": "https://ScienceByJason.com/quadratic-equations.html",
+            "title": "How To Solve Quadratic Equations",
+            "summary": "<p>This chapter I discuss quadratic equations and how they are useful to model nonlinear data.</p>\n",
+            "image": "https://ScienceByJason.com/media/posts/52/trianglify-lowres.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Algebra"
+            ],
+            "date_published": "2021-05-07T20:04:34-05:00",
+            "date_modified": "2021-05-18T22:31:36-05:00"
+        },
+        {
+            "id": "https://ScienceByJason.com/piecewise-functions.html",
+            "url": "https://ScienceByJason.com/piecewise-functions.html",
+            "title": "Piecewise Functions",
+            "summary": "<p>Piecewise functions describe our every day life and are everywhere. In this chapter I will explain them and show some examples.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-05-06T12:05:46-05:00",
+            "date_modified": "2021-05-06T16:16:09-05:00"
+        },
+        {
             "id": "https://ScienceByJason.com/beginning-atomic-theory.html",
             "url": "https://ScienceByJason.com/beginning-atomic-theory.html",
             "title": "Beginning Atomic Theory",
@@ -22,7 +50,7 @@
                    "Chemistry"
             ],
             "date_published": "2021-05-02T16:21:17-05:00",
-            "date_modified": "2021-05-02T17:05:16-05:00"
+            "date_modified": "2021-05-03T16:07:24-05:00"
         },
         {
             "id": "https://ScienceByJason.com/chemistry-essentials.html",
@@ -37,7 +65,7 @@
                    "Chemistry"
             ],
             "date_published": "2021-04-30T23:00:53-05:00",
-            "date_modified": "2021-05-02T17:57:47-05:00"
+            "date_modified": "2021-05-03T16:08:46-05:00"
         },
         {
             "id": "https://ScienceByJason.com/classification-of-galaxies.html",
@@ -128,36 +156,6 @@
             ],
             "date_published": "2020-09-22T20:56:28-05:00",
             "date_modified": "2020-09-22T21:02:29-05:00"
-        },
-        {
-            "id": "https://ScienceByJason.com/linear-functions-in-algebra.html",
-            "url": "https://ScienceByJason.com/linear-functions-in-algebra.html",
-            "title": "Linear Functions In Algebra",
-            "summary": "<p>A function is often used to model data that is important to us. It is useful in the sense that it can allow us to somewhat predict what will happen in the future mathematically.</p>\n",
-            "image": "https://ScienceByJason.com/media/posts/42/linear-functions-0.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Algebra"
-            ],
-            "date_published": "2020-09-19T08:41:20-05:00",
-            "date_modified": "2020-09-19T08:47:36-05:00"
-        },
-        {
-            "id": "https://ScienceByJason.com/when-stars-explode.html",
-            "url": "https://ScienceByJason.com/when-stars-explode.html",
-            "title": "When Stars Explode",
-            "summary": "<h3> </h3>\n<p><a href=\"https://sciencebyjason.com/the-evolution-of-stars.html\">Stars</a> explode all the time. They do so for a few different reasons. The type of explosions and aftereffects depend on the characteristics of the original star. As you can imagine, there are multiple types of explosions. There are different types of explosions because there are so many different types of stars.</p>\n",
-            "image": "https://ScienceByJason.com/media/posts/41/when-stars-explode-0.jpg",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Astronomy"
-            ],
-            "date_published": "2020-09-06T22:05:58-05:00",
-            "date_modified": "2020-09-06T22:28:49-05:00"
         }
     ]
 }

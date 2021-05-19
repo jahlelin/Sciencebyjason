@@ -3,12 +3,48 @@
     <title>Science By Jason</title>
     <link href="https://ScienceByJason.com/feed.xml" rel="self" />
     <link href="https://ScienceByJason.com" />
-    <updated>2021-05-02T17:57:47-05:00</updated>
+    <updated>2021-05-18T22:31:36-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://ScienceByJason.com</id>
 
+    <entry>
+        <title>How To Solve Quadratic Equations</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://ScienceByJason.com/quadratic-equations.html"/>
+        <id>https://ScienceByJason.com/quadratic-equations.html</id>
+            <category term="Algebra"/>
+
+        <updated>2021-05-18T22:31:36-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://ScienceByJason.com/media/posts/52/trianglify-lowres.png" alt="" />
+                    <p>This chapter I discuss quadratic equations and how they are useful to model nonlinear data.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Piecewise Functions</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://ScienceByJason.com/piecewise-functions.html"/>
+        <id>https://ScienceByJason.com/piecewise-functions.html</id>
+
+        <updated>2021-05-06T16:16:09-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>Piecewise functions describe our every day life and are everywhere. In this chapter I will explain them and show some examples.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Beginning Atomic Theory</title>
         <author>
@@ -18,7 +54,7 @@
         <id>https://ScienceByJason.com/beginning-atomic-theory.html</id>
             <category term="Chemistry"/>
 
-        <updated>2021-05-02T17:05:16-05:00</updated>
+        <updated>2021-05-03T16:07:24-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://ScienceByJason.com/media/posts/50/pattern_herringbone-7_4_3_0-0_65_1__2ec4b5_ffffff.png" alt="" />
@@ -37,7 +73,7 @@
         <id>https://ScienceByJason.com/chemistry-essentials.html</id>
             <category term="Chemistry"/>
 
-        <updated>2021-05-02T17:57:47-05:00</updated>
+        <updated>2021-05-03T16:08:46-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://ScienceByJason.com/media/posts/49/cool-background.svg" alt="" />
@@ -159,45 +195,6 @@
                 <![CDATA[
                         <img src="https://ScienceByJason.com/media/posts/43/Measurements-and-Uncertainty-in-Physics-0.png" alt="Measurements and Uncertainty in Physics" />
                     <p>Measurements and dealing with their uncertainties are some first skills you learn in a lab. In this article, I will go over what you need to know when dealing with data.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Linear Functions In Algebra</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://ScienceByJason.com/linear-functions-in-algebra.html"/>
-        <id>https://ScienceByJason.com/linear-functions-in-algebra.html</id>
-            <category term="Algebra"/>
-
-        <updated>2020-09-19T08:47:36-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://ScienceByJason.com/media/posts/42/linear-functions-0.png" alt="linear functions " />
-                    <p>A function is often used to model data that is important to us. It is useful in the sense that it can allow us to somewhat predict what will happen in the future mathematically.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>When Stars Explode</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://ScienceByJason.com/when-stars-explode.html"/>
-        <id>https://ScienceByJason.com/when-stars-explode.html</id>
-            <category term="Astronomy"/>
-
-        <updated>2020-09-06T22:28:49-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://ScienceByJason.com/media/posts/41/when-stars-explode-0.jpg" alt="when stars explode" />
-                    <h3> </h3>
-<p><a href="https://sciencebyjason.com/the-evolution-of-stars.html">Stars</a> explode all the time. They do so for a few different reasons. The type of explosions and aftereffects depend on the characteristics of the original star. As you can imagine, there are multiple types of explosions. There are different types of explosions because there are so many different types of stars.</p>
 
                 ]]>
             </summary>
