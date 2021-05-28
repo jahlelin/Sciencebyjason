@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://ScienceByJason.com/how-to-solve-quadratics-with-factoring.html",
+            "url": "https://ScienceByJason.com/how-to-solve-quadratics-with-factoring.html",
+            "title": "How To Solve Quadratics With Factoring",
+            "summary": "<p>In this chapter I show you how to solve quadratics with factoring and how to find the  corresponding intercepts.</p>\n",
+            "image": "https://ScienceByJason.com/media/posts/53/Solve-Quadratics-With-Factoring.svg",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Algebra"
+            ],
+            "date_published": "2021-05-28T14:22:29-05:00",
+            "date_modified": "2021-05-28T16:58:40-05:00"
+        },
+        {
             "id": "https://ScienceByJason.com/quadratic-equations.html",
             "url": "https://ScienceByJason.com/quadratic-equations.html",
             "title": "How To Solve Quadratic Equations",
@@ -142,21 +157,6 @@
             ],
             "date_published": "2020-10-06T20:20:14-05:00",
             "date_modified": "2020-10-06T21:12:29-05:00"
-        },
-        {
-            "id": "https://ScienceByJason.com/measurements-and-uncertainty-in-physics.html",
-            "url": "https://ScienceByJason.com/measurements-and-uncertainty-in-physics.html",
-            "title": "Measurements and Uncertainty in Physics",
-            "summary": "<p>Measurements and dealing with their uncertainties are some first skills you learn in a lab. In this article, I will go over what you need to know when dealing with data.</p>\n",
-            "image": "https://ScienceByJason.com/media/posts/43/Measurements-and-Uncertainty-in-Physics-0.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Physics"
-            ],
-            "date_published": "2020-09-22T20:56:28-05:00",
-            "date_modified": "2020-09-22T21:02:29-05:00"
         }
     ]
 }

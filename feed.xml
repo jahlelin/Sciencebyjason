@@ -3,12 +3,31 @@
     <title>Science By Jason</title>
     <link href="https://ScienceByJason.com/feed.xml" rel="self" />
     <link href="https://ScienceByJason.com" />
-    <updated>2021-05-18T22:54:37-05:00</updated>
+    <updated>2021-05-28T16:58:40-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://ScienceByJason.com</id>
 
+    <entry>
+        <title>How To Solve Quadratics With Factoring</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://ScienceByJason.com/how-to-solve-quadratics-with-factoring.html"/>
+        <id>https://ScienceByJason.com/how-to-solve-quadratics-with-factoring.html</id>
+            <category term="Algebra"/>
+
+        <updated>2021-05-28T16:58:40-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://ScienceByJason.com/media/posts/53/Solve-Quadratics-With-Factoring.svg" alt="Solve Quadratics With Factoring" />
+                    <p>In this chapter I show you how to solve quadratics with factoring and how to find the  corresponding intercepts.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>How To Solve Quadratic Equations</title>
         <author>
@@ -177,25 +196,6 @@
                 <![CDATA[
                         <img src="https://ScienceByJason.com/media/posts/44/Neutron-Stars-0.jpg" alt="Neutron Stars 0" />
                     <p data-pm-slice="0 0 []">Neutron stars have some of the most bizarre properties in the universe. A lot of massive stars will end up exploding and turning into these fascinating objects.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Measurements and Uncertainty in Physics</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://ScienceByJason.com/measurements-and-uncertainty-in-physics.html"/>
-        <id>https://ScienceByJason.com/measurements-and-uncertainty-in-physics.html</id>
-            <category term="Physics"/>
-
-        <updated>2020-09-22T21:02:29-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://ScienceByJason.com/media/posts/43/Measurements-and-Uncertainty-in-Physics-0.png" alt="Measurements and Uncertainty in Physics" />
-                    <p>Measurements and dealing with their uncertainties are some first skills you learn in a lab. In this article, I will go over what you need to know when dealing with data.</p>
 
                 ]]>
             </summary>
