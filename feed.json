@@ -2,19 +2,34 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Science By Jason",
     "description": "",
-    "home_page_url": "https://ScienceByJason.com",
-    "feed_url": "https://ScienceByJason.com/feed.json",
+    "home_page_url": "https://aindien.com",
+    "feed_url": "https://aindien.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "Jason Moore"
     },
     "items": [
         {
-            "id": "https://ScienceByJason.com/how-to-solve-quadratics-with-factoring.html",
-            "url": "https://ScienceByJason.com/how-to-solve-quadratics-with-factoring.html",
+            "id": "https://aindien.com/getting-started-with-astronomy-2.html",
+            "url": "https://aindien.com/getting-started-with-astronomy-2.html",
+            "title": "Getting Started With Astronomy",
+            "summary": "<p id=\"1746\" class=\"id ie gi if b ig ih ii ij ik il im in io ip iq ir is it iu iv iw do ef\" data-selectable-paragraph=\"\">This is going to be an article about how to get started in Astronomy. I know there are multiple ways, but this will be from my experience.</p>\n",
+            "image": "https://aindien.com/media/posts/55/getting-started-with-astronomy-0.jpg",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Astronomy"
+            ],
+            "date_published": "2021-06-11T10:18:57-05:00",
+            "date_modified": "2021-06-11T10:20:51-05:00"
+        },
+        {
+            "id": "https://aindien.com/how-to-solve-quadratics-with-factoring.html",
+            "url": "https://aindien.com/how-to-solve-quadratics-with-factoring.html",
             "title": "How To Factor Quadratics ",
             "summary": "<p>In this chapter I show you how to solve quadratics with factoring and how to find the  corresponding intercepts.</p>\n",
-            "image": "https://ScienceByJason.com/media/posts/53/Solve-Quadratics-With-Factoring.svg",
+            "image": "https://aindien.com/media/posts/53/Solve-Quadratics-With-Factoring.svg",
             "author": {
                 "name": "Jason Moore"
             },
@@ -25,11 +40,11 @@
             "date_modified": "2021-05-28T17:03:50-05:00"
         },
         {
-            "id": "https://ScienceByJason.com/quadratic-equations.html",
-            "url": "https://ScienceByJason.com/quadratic-equations.html",
+            "id": "https://aindien.com/quadratic-equations.html",
+            "url": "https://aindien.com/quadratic-equations.html",
             "title": "How To Solve Quadratic Equations",
             "summary": "<p>This chapter I discuss quadratic equations and how they are useful to model nonlinear data.</p>\n",
-            "image": "https://ScienceByJason.com/media/posts/52/quadratic_equations.png",
+            "image": "https://aindien.com/media/posts/52/quadratic_equations.png",
             "author": {
                 "name": "Jason Moore"
             },
@@ -40,25 +55,26 @@
             "date_modified": "2021-05-18T22:54:37-05:00"
         },
         {
-            "id": "https://ScienceByJason.com/piecewise-functions.html",
-            "url": "https://ScienceByJason.com/piecewise-functions.html",
+            "id": "https://aindien.com/piecewise-functions.html",
+            "url": "https://aindien.com/piecewise-functions.html",
             "title": "Piecewise Functions",
             "summary": "<p>Piecewise functions describe our every day life and are everywhere. In this chapter I will explain them and show some examples.</p>\n",
-            "image": "https://ScienceByJason.com/media/posts/51/cool-background1.svg",
+            "image": "https://aindien.com/media/posts/51/cool-background1.svg",
             "author": {
                 "name": "Jason Moore"
             },
             "tags": [
+                   "Algebra"
             ],
             "date_published": "2021-05-06T12:05:46-05:00",
-            "date_modified": "2021-05-18T22:52:34-05:00"
+            "date_modified": "2021-06-11T10:21:13-05:00"
         },
         {
-            "id": "https://ScienceByJason.com/beginning-atomic-theory.html",
-            "url": "https://ScienceByJason.com/beginning-atomic-theory.html",
+            "id": "https://aindien.com/beginning-atomic-theory.html",
+            "url": "https://aindien.com/beginning-atomic-theory.html",
             "title": "Beginning Atomic Theory",
             "summary": "<p>This chapter is about atomic theory and how we got there.</p>\n",
-            "image": "https://ScienceByJason.com/media/posts/50/pattern_herringbone-7_4_3_0-0_65_1__2ec4b5_ffffff.png",
+            "image": "https://aindien.com/media/posts/50/pattern_herringbone-7_4_3_0-0_65_1__2ec4b5_ffffff.png",
             "author": {
                 "name": "Jason Moore"
             },
@@ -69,11 +85,11 @@
             "date_modified": "2021-05-03T16:07:24-05:00"
         },
         {
-            "id": "https://ScienceByJason.com/chemistry-essentials.html",
-            "url": "https://ScienceByJason.com/chemistry-essentials.html",
+            "id": "https://aindien.com/chemistry-essentials.html",
+            "url": "https://aindien.com/chemistry-essentials.html",
             "title": "Chemistry Essentials",
             "summary": "<div>This is an introduction to the fundamental concepts of chemistry. This is ideally for those students just beginning with chemistry whether in high school or college. I am including basic concepts as well as some example problems.</div>\n<div> </div>\n<div> </div>\n",
-            "image": "https://ScienceByJason.com/media/posts/49/cool-background.svg",
+            "image": "https://aindien.com/media/posts/49/cool-background.svg",
             "author": {
                 "name": "Jason Moore"
             },
@@ -84,11 +100,11 @@
             "date_modified": "2021-05-03T16:08:46-05:00"
         },
         {
-            "id": "https://ScienceByJason.com/classification-of-galaxies.html",
-            "url": "https://ScienceByJason.com/classification-of-galaxies.html",
+            "id": "https://aindien.com/classification-of-galaxies.html",
+            "url": "https://aindien.com/classification-of-galaxies.html",
             "title": "Classification Of Galaxies",
             "summary": "<p>Galaxies are the foundations of the universe and we have identified millions<br>of them. In this chapter I want to mention and talk about the most defining<br>features.</p>\n",
-            "image": "https://ScienceByJason.com/media/posts/48/classification-of-galaxies-0.jpg",
+            "image": "https://aindien.com/media/posts/48/classification-of-galaxies-0.jpg",
             "author": {
                 "name": "Jason Moore"
             },
@@ -99,11 +115,11 @@
             "date_modified": "2021-04-17T21:11:14-05:00"
         },
         {
-            "id": "https://ScienceByJason.com/introduction-to-galaxies.html",
-            "url": "https://ScienceByJason.com/introduction-to-galaxies.html",
+            "id": "https://aindien.com/introduction-to-galaxies.html",
+            "url": "https://aindien.com/introduction-to-galaxies.html",
             "title": "Introduction To Galaxies",
             "summary": "<h3> </h3>\n<p>When we look up at a night sky, what do we see? With just our eyes we probably<br>see a few thousand objects of varying intensity. They are mostly stars but there<br>are a few planets , comets, and meteors occasionally too. This is just our<br>galaxy. Our galaxy is a very small portion of the universe. </p>\n",
-            "image": "https://ScienceByJason.com/media/posts/47/Introduction-to-Galaxies-0.png",
+            "image": "https://aindien.com/media/posts/47/Introduction-to-Galaxies-0.png",
             "author": {
                 "name": "Jason Moore"
             },
@@ -114,11 +130,11 @@
             "date_modified": "2021-05-02T17:31:39-05:00"
         },
         {
-            "id": "https://ScienceByJason.com/inequalities-of-the-linear-kind.html",
-            "url": "https://ScienceByJason.com/inequalities-of-the-linear-kind.html",
+            "id": "https://aindien.com/inequalities-of-the-linear-kind.html",
+            "url": "https://aindien.com/inequalities-of-the-linear-kind.html",
             "title": "Inequalities of the Linear Kind",
             "summary": "<p data-pm-slice=\"1 1 []\">This next session is about Linear Inequalities. An inequality is similar to an equation. The difference is that it will not have an equal sign. It will be important to have a good understanding of inequalities because they pop up everywhere.</p>\n",
-            "image": "https://ScienceByJason.com/media/posts/46/Inequalities-of-the-Linear-Kind.png",
+            "image": "https://aindien.com/media/posts/46/Inequalities-of-the-Linear-Kind.png",
             "author": {
                 "name": "Jason Moore"
             },
@@ -129,11 +145,11 @@
             "date_modified": "2021-02-02T07:14:03-06:00"
         },
         {
-            "id": "https://ScienceByJason.com/solving-linear-equations-in-algebra.html",
-            "url": "https://ScienceByJason.com/solving-linear-equations-in-algebra.html",
+            "id": "https://aindien.com/solving-linear-equations-in-algebra.html",
+            "url": "https://aindien.com/solving-linear-equations-in-algebra.html",
             "title": "Solving Linear Equations In Algebra",
             "summary": "<p>One of the goals in mathematics is solving equations. The most fundamental of these is linear equations. In this chapter, I discuss how to solve them.</p>\n",
-            "image": "https://ScienceByJason.com/media/posts/45/Linear-Equations-In-Algebra.png",
+            "image": "https://aindien.com/media/posts/45/Linear-Equations-In-Algebra.png",
             "author": {
                 "name": "Jason Moore"
             },
@@ -142,21 +158,6 @@
             ],
             "date_published": "2020-10-23T19:17:48-05:00",
             "date_modified": "2020-10-23T19:30:26-05:00"
-        },
-        {
-            "id": "https://ScienceByJason.com/neutron-stars-and-black-holes.html",
-            "url": "https://ScienceByJason.com/neutron-stars-and-black-holes.html",
-            "title": "Neutron Stars and Black Holes",
-            "summary": "<p data-pm-slice=\"0 0 []\">Neutron stars have some of the most bizarre properties in the universe. A lot of massive stars will end up exploding and turning into these fascinating objects.</p>\n",
-            "image": "https://ScienceByJason.com/media/posts/44/Neutron-Stars-0.jpg",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Astronomy"
-            ],
-            "date_published": "2020-10-06T20:20:14-05:00",
-            "date_modified": "2020-10-06T21:12:29-05:00"
         }
     ]
 }
