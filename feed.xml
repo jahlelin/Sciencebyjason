@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Science By Jason</title>
-    <link href="https://aindien.com/feed.xml" rel="self" />
-    <link href="https://aindien.com" />
+    <link href="https://sciencebyjason.com/feed.xml" rel="self" />
+    <link href="https://sciencebyjason.com" />
     <updated>2021-06-11T10:21:13-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
-    <id>https://aindien.com</id>
+    <id>https://sciencebyjason.com</id>
 
     <entry>
         <title>Getting Started With Astronomy</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/getting-started-with-astronomy-2.html"/>
-        <id>https://aindien.com/getting-started-with-astronomy-2.html</id>
+        <link href="https://sciencebyjason.com/getting-started-with-astronomy-2.html"/>
+        <id>https://sciencebyjason.com/getting-started-with-astronomy-2.html</id>
             <category term="Astronomy"/>
 
         <updated>2021-06-11T10:20:51-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://aindien.com/media/posts/55/getting-started-with-astronomy-0.jpg" alt="" />
+                        <img src="https://sciencebyjason.com/media/posts/55/getting-started-with-astronomy-0.jpg" alt="" />
                     <p id="1746" class="id ie gi if b ig ih ii ij ik il im in io ip iq ir is it iu iv iw do ef" data-selectable-paragraph="">This is going to be an article about how to get started in Astronomy. I know there are multiple ways, but this will be from my experience.</p>
 
                 ]]>
@@ -33,14 +33,14 @@
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/how-to-solve-quadratics-with-factoring.html"/>
-        <id>https://aindien.com/how-to-solve-quadratics-with-factoring.html</id>
+        <link href="https://sciencebyjason.com/how-to-solve-quadratics-with-factoring.html"/>
+        <id>https://sciencebyjason.com/how-to-solve-quadratics-with-factoring.html</id>
             <category term="Algebra"/>
 
         <updated>2021-05-28T17:03:50-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://aindien.com/media/posts/53/Solve-Quadratics-With-Factoring.svg" alt="Solve Quadratics With Factoring" />
+                        <img src="https://sciencebyjason.com/media/posts/53/Solve-Quadratics-With-Factoring.svg" alt="Solve Quadratics With Factoring" />
                     <p>In this chapter I show you how to solve quadratics with factoring and how to find the  corresponding intercepts.</p>
 
                 ]]>
@@ -52,14 +52,14 @@
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/quadratic-equations.html"/>
-        <id>https://aindien.com/quadratic-equations.html</id>
+        <link href="https://sciencebyjason.com/quadratic-equations.html"/>
+        <id>https://sciencebyjason.com/quadratic-equations.html</id>
             <category term="Algebra"/>
 
         <updated>2021-05-18T22:54:37-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://aindien.com/media/posts/52/quadratic_equations.png" alt="" />
+                        <img src="https://sciencebyjason.com/media/posts/52/quadratic_equations.png" alt="" />
                     <p>This chapter I discuss quadratic equations and how they are useful to model nonlinear data.</p>
 
                 ]]>
@@ -71,14 +71,14 @@
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/piecewise-functions.html"/>
-        <id>https://aindien.com/piecewise-functions.html</id>
+        <link href="https://sciencebyjason.com/piecewise-functions.html"/>
+        <id>https://sciencebyjason.com/piecewise-functions.html</id>
             <category term="Algebra"/>
 
         <updated>2021-06-11T10:21:13-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://aindien.com/media/posts/51/cool-background1.svg" alt="" />
+                        <img src="https://sciencebyjason.com/media/posts/51/cool-background1.svg" alt="" />
                     <p>Piecewise functions describe our every day life and are everywhere. In this chapter I will explain them and show some examples.</p>
 
                 ]]>
@@ -90,14 +90,14 @@
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/beginning-atomic-theory.html"/>
-        <id>https://aindien.com/beginning-atomic-theory.html</id>
+        <link href="https://sciencebyjason.com/beginning-atomic-theory.html"/>
+        <id>https://sciencebyjason.com/beginning-atomic-theory.html</id>
             <category term="Chemistry"/>
 
         <updated>2021-05-03T16:07:24-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://aindien.com/media/posts/50/pattern_herringbone-7_4_3_0-0_65_1__2ec4b5_ffffff.png" alt="" />
+                        <img src="https://sciencebyjason.com/media/posts/50/pattern_herringbone-7_4_3_0-0_65_1__2ec4b5_ffffff.png" alt="" />
                     <p>This chapter is about atomic theory and how we got there.</p>
 
                 ]]>
@@ -109,14 +109,14 @@
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/chemistry-essentials.html"/>
-        <id>https://aindien.com/chemistry-essentials.html</id>
+        <link href="https://sciencebyjason.com/chemistry-essentials.html"/>
+        <id>https://sciencebyjason.com/chemistry-essentials.html</id>
             <category term="Chemistry"/>
 
         <updated>2021-05-03T16:08:46-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://aindien.com/media/posts/49/cool-background.svg" alt="" />
+                        <img src="https://sciencebyjason.com/media/posts/49/cool-background.svg" alt="" />
                     <div>This is an introduction to the fundamental concepts of chemistry. This is ideally for those students just beginning with chemistry whether in high school or college. I am including basic concepts as well as some example problems.</div>
 <div> </div>
 <div> </div>
@@ -130,14 +130,14 @@
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/classification-of-galaxies.html"/>
-        <id>https://aindien.com/classification-of-galaxies.html</id>
+        <link href="https://sciencebyjason.com/classification-of-galaxies.html"/>
+        <id>https://sciencebyjason.com/classification-of-galaxies.html</id>
             <category term="Astronomy"/>
 
         <updated>2021-04-17T21:11:14-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://aindien.com/media/posts/48/classification-of-galaxies-0.jpg" alt="classification of galaxies 0" />
+                        <img src="https://sciencebyjason.com/media/posts/48/classification-of-galaxies-0.jpg" alt="classification of galaxies 0" />
                     <p>Galaxies are the foundations of the universe and we have identified millions<br>of them. In this chapter I want to mention and talk about the most defining<br>features.</p>
 
                 ]]>
@@ -149,14 +149,14 @@
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/introduction-to-galaxies.html"/>
-        <id>https://aindien.com/introduction-to-galaxies.html</id>
+        <link href="https://sciencebyjason.com/introduction-to-galaxies.html"/>
+        <id>https://sciencebyjason.com/introduction-to-galaxies.html</id>
             <category term="Astronomy"/>
 
         <updated>2021-05-02T17:31:39-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://aindien.com/media/posts/47/Introduction-to-Galaxies-0.png" alt="Introduction to Galaxies 0" />
+                        <img src="https://sciencebyjason.com/media/posts/47/Introduction-to-Galaxies-0.png" alt="Introduction to Galaxies 0" />
                     <h3> </h3>
 <p>When we look up at a night sky, what do we see? With just our eyes we probably<br>see a few thousand objects of varying intensity. They are mostly stars but there<br>are a few planets , comets, and meteors occasionally too. This is just our<br>galaxy. Our galaxy is a very small portion of the universe. </p>
 
@@ -169,14 +169,14 @@
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/inequalities-of-the-linear-kind.html"/>
-        <id>https://aindien.com/inequalities-of-the-linear-kind.html</id>
+        <link href="https://sciencebyjason.com/inequalities-of-the-linear-kind.html"/>
+        <id>https://sciencebyjason.com/inequalities-of-the-linear-kind.html</id>
             <category term="Algebra"/>
 
         <updated>2021-02-02T07:14:03-06:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://aindien.com/media/posts/46/Inequalities-of-the-Linear-Kind.png" alt="" />
+                        <img src="https://sciencebyjason.com/media/posts/46/Inequalities-of-the-Linear-Kind.png" alt="" />
                     <p data-pm-slice="1 1 []">This next session is about Linear Inequalities. An inequality is similar to an equation. The difference is that it will not have an equal sign. It will be important to have a good understanding of inequalities because they pop up everywhere.</p>
 
                 ]]>
@@ -188,14 +188,14 @@
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://aindien.com/solving-linear-equations-in-algebra.html"/>
-        <id>https://aindien.com/solving-linear-equations-in-algebra.html</id>
+        <link href="https://sciencebyjason.com/solving-linear-equations-in-algebra.html"/>
+        <id>https://sciencebyjason.com/solving-linear-equations-in-algebra.html</id>
             <category term="Algebra"/>
 
         <updated>2020-10-23T19:30:26-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://aindien.com/media/posts/45/Linear-Equations-In-Algebra.png" alt="Linear Equations In Algebra" />
+                        <img src="https://sciencebyjason.com/media/posts/45/Linear-Equations-In-Algebra.png" alt="Linear Equations In Algebra" />
                     <p>One of the goals in mathematics is solving equations. The most fundamental of these is linear equations. In this chapter, I discuss how to solve them.</p>
 
                 ]]>
