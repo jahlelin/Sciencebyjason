@@ -3,12 +3,31 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2021-06-11T10:21:13-05:00</updated>
+    <updated>2021-06-16T17:58:33-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Orbital Motion In The Solar System</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/orbital-motion-in-the-solar-system.html"/>
+        <id>https://sciencebyjason.com/orbital-motion-in-the-solar-system.html</id>
+            <category term="Astronomy"/>
+
+        <updated>2021-06-16T17:58:33-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sciencebyjason.com/media/posts/56/orbital-motion-in-the-solar-system-0.jpg" alt="waves in a pattern" />
+                    <p>In this article I wanted to talk about how and why celestial bodies move in our solar system.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Getting Started With Astronomy</title>
         <author>
@@ -178,25 +197,6 @@
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/46/Inequalities-of-the-Linear-Kind.png" alt="" />
                     <p data-pm-slice="1 1 []">This next session is about Linear Inequalities. An inequality is similar to an equation. The difference is that it will not have an equal sign. It will be important to have a good understanding of inequalities because they pop up everywhere.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Solving Linear Equations In Algebra</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/solving-linear-equations-in-algebra.html"/>
-        <id>https://sciencebyjason.com/solving-linear-equations-in-algebra.html</id>
-            <category term="Algebra"/>
-
-        <updated>2020-10-23T19:30:26-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sciencebyjason.com/media/posts/45/Linear-Equations-In-Algebra.png" alt="Linear Equations In Algebra" />
-                    <p>One of the goals in mathematics is solving equations. The most fundamental of these is linear equations. In this chapter, I discuss how to solve them.</p>
 
                 ]]>
             </summary>

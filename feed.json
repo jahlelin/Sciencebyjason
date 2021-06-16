@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/orbital-motion-in-the-solar-system.html",
+            "url": "https://sciencebyjason.com/orbital-motion-in-the-solar-system.html",
+            "title": "Orbital Motion In The Solar System",
+            "summary": "<p>In this article I wanted to talk about how and why celestial bodies move in our solar system.</p>\n",
+            "image": "https://sciencebyjason.com/media/posts/56/orbital-motion-in-the-solar-system-0.jpg",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Astronomy"
+            ],
+            "date_published": "2021-06-16T17:18:25-05:00",
+            "date_modified": "2021-06-16T17:58:33-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/getting-started-with-astronomy-2.html",
             "url": "https://sciencebyjason.com/getting-started-with-astronomy-2.html",
             "title": "Getting Started With Astronomy",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2021-01-29T14:17:00-06:00",
             "date_modified": "2021-02-02T07:14:03-06:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/solving-linear-equations-in-algebra.html",
-            "url": "https://sciencebyjason.com/solving-linear-equations-in-algebra.html",
-            "title": "Solving Linear Equations In Algebra",
-            "summary": "<p>One of the goals in mathematics is solving equations. The most fundamental of these is linear equations. In this chapter, I discuss how to solve them.</p>\n",
-            "image": "https://sciencebyjason.com/media/posts/45/Linear-Equations-In-Algebra.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Algebra"
-            ],
-            "date_published": "2020-10-23T19:17:48-05:00",
-            "date_modified": "2020-10-23T19:30:26-05:00"
         }
     ]
 }
