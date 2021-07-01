@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/how-to-solve-algebraic-functions.html",
+            "url": "https://sciencebyjason.com/how-to-solve-algebraic-functions.html",
+            "title": "What are Algebraic Functions",
+            "summary": "<p data-pm-slice=\"0 0 []\">Algebraic functions are some of the most important concepts in math. In this article I discuss the history and uses of functions. </p>\n",
+            "image": "https://sciencebyjason.com/media/posts/57/algebraic_functions-0.jpg",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Algebra"
+            ],
+            "date_published": "2021-06-30T17:46:23-05:00",
+            "date_modified": "2021-06-30T19:53:20-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/orbital-motion-in-the-solar-system.html",
             "url": "https://sciencebyjason.com/orbital-motion-in-the-solar-system.html",
             "title": "Orbital Motion In The Solar System",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2021-02-10T14:32:15-06:00",
             "date_modified": "2021-05-02T17:31:39-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/inequalities-of-the-linear-kind.html",
-            "url": "https://sciencebyjason.com/inequalities-of-the-linear-kind.html",
-            "title": "Inequalities of the Linear Kind",
-            "summary": "<p data-pm-slice=\"1 1 []\">This next session is about Linear Inequalities. An inequality is similar to an equation. The difference is that it will not have an equal sign. It will be important to have a good understanding of inequalities because they pop up everywhere.</p>\n",
-            "image": "https://sciencebyjason.com/media/posts/46/Inequalities-of-the-Linear-Kind.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Algebra"
-            ],
-            "date_published": "2021-01-29T14:17:00-06:00",
-            "date_modified": "2021-02-02T07:14:03-06:00"
         }
     ]
 }
