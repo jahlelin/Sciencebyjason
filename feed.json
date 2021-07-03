@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/transforming-graphs-in-algebra.html",
+            "url": "https://sciencebyjason.com/transforming-graphs-in-algebra.html",
+            "title": "Transforming Graphs In Algebra",
+            "summary": "<p>Graphs are useful tools. We use them to show a lot of information visually. In this article, I want to show how functions are transformed in graphs.</p>\n",
+            "image": "https://sciencebyjason.com/media/posts/58/algebraic_transformations-0.jpg",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Algebra"
+            ],
+            "date_published": "2021-07-02T20:59:09-05:00",
+            "date_modified": "2021-07-02T22:56:51-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/how-to-solve-algebraic-functions.html",
             "url": "https://sciencebyjason.com/how-to-solve-algebraic-functions.html",
             "title": "What are Algebraic Functions",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2021-04-17T20:20:50-05:00",
             "date_modified": "2021-04-17T21:11:14-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/introduction-to-galaxies.html",
-            "url": "https://sciencebyjason.com/introduction-to-galaxies.html",
-            "title": "Introduction To Galaxies",
-            "summary": "<h3> </h3>\n<p>When we look up at a night sky, what do we see? With just our eyes we probably<br>see a few thousand objects of varying intensity. They are mostly stars but there<br>are a few planets , comets, and meteors occasionally too. This is just our<br>galaxy. Our galaxy is a very small portion of the universe. </p>\n",
-            "image": "https://sciencebyjason.com/media/posts/47/Introduction-to-Galaxies-0.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Astronomy"
-            ],
-            "date_published": "2021-02-10T14:32:15-06:00",
-            "date_modified": "2021-05-02T17:31:39-05:00"
         }
     ]
 }

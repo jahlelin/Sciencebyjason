@@ -3,12 +3,31 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2021-06-30T19:53:20-05:00</updated>
+    <updated>2021-07-02T22:56:51-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Transforming Graphs In Algebra</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/transforming-graphs-in-algebra.html"/>
+        <id>https://sciencebyjason.com/transforming-graphs-in-algebra.html</id>
+            <category term="Algebra"/>
+
+        <updated>2021-07-02T22:56:51-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sciencebyjason.com/media/posts/58/algebraic_transformations-0.jpg" alt="" />
+                    <p>Graphs are useful tools. We use them to show a lot of information visually. In this article, I want to show how functions are transformed in graphs.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>What are Algebraic Functions</title>
         <author>
@@ -177,26 +196,6 @@
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/48/classification-of-galaxies-0.jpg" alt="classification of galaxies 0" />
                     <p>Galaxies are the foundations of the universe and we have identified millions<br>of them. In this chapter I want to mention and talk about the most defining<br>features.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Introduction To Galaxies</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/introduction-to-galaxies.html"/>
-        <id>https://sciencebyjason.com/introduction-to-galaxies.html</id>
-            <category term="Astronomy"/>
-
-        <updated>2021-05-02T17:31:39-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sciencebyjason.com/media/posts/47/Introduction-to-Galaxies-0.png" alt="Introduction to Galaxies 0" />
-                    <h3> </h3>
-<p>When we look up at a night sky, what do we see? With just our eyes we probably<br>see a few thousand objects of varying intensity. They are mostly stars but there<br>are a few planets , comets, and meteors occasionally too. This is just our<br>galaxy. Our galaxy is a very small portion of the universe. </p>
 
                 ]]>
             </summary>
