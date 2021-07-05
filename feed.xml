@@ -3,12 +3,31 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2021-07-02T23:06:34-05:00</updated>
+    <updated>2021-07-05T11:45:55-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Introduction To The Solar System</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/introduction-to-the-solar-system.html"/>
+        <id>https://sciencebyjason.com/introduction-to-the-solar-system.html</id>
+            <category term="Astronomy"/>
+
+        <updated>2021-07-05T11:45:55-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sciencebyjason.com/media/posts/59/solar-system-0.jpg" alt="" />
+                    <p>Learning Astronomy is a constant process. That is what makes it so interesting. In this article, Introduction to the solar system, I talk about why it is interesting and how many parts of it were formed.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Transforming Graphs In Algebra</title>
         <author>
@@ -177,25 +196,6 @@
                     <div>This is an introduction to the fundamental concepts of chemistry. This is ideally for those students just beginning with chemistry whether in high school or college. I am including basic concepts as well as some example problems.</div>
 <div> </div>
 <div> </div>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Classification Of Galaxies</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/classification-of-galaxies.html"/>
-        <id>https://sciencebyjason.com/classification-of-galaxies.html</id>
-            <category term="Astronomy"/>
-
-        <updated>2021-04-17T21:11:14-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sciencebyjason.com/media/posts/48/classification-of-galaxies-0.jpg" alt="classification of galaxies 0" />
-                    <p>Galaxies are the foundations of the universe and we have identified millions<br>of them. In this chapter I want to mention and talk about the most defining<br>features.</p>
 
                 ]]>
             </summary>
