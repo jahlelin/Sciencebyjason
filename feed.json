@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/nonlinear-functions-in-algebra.html",
+            "url": "https://sciencebyjason.com/nonlinear-functions-in-algebra.html",
+            "title": "Nonlinear Functions in Algebra",
+            "summary": "<p data-pm-slice=\"0 0 []\">Functions are a way to understand how one quantity grows or decreases compared to another quantity.  Nonlinear functions, which we will discuss here, are functions that have different growth rates.</p>\n",
+            "image": "https://sciencebyjason.com/media/posts/60/Nonlinear-Functions-In-Algebra-0.jpg",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Algebra"
+            ],
+            "date_published": "2021-07-08T20:21:56-05:00",
+            "date_modified": "2021-07-08T21:14:58-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/introduction-to-the-solar-system.html",
             "url": "https://sciencebyjason.com/introduction-to-the-solar-system.html",
             "title": "Introduction To The Solar System",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2021-05-02T16:21:17-05:00",
             "date_modified": "2021-05-03T16:07:24-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/chemistry-essentials.html",
-            "url": "https://sciencebyjason.com/chemistry-essentials.html",
-            "title": "Chemistry Essentials",
-            "summary": "<div>This is an introduction to the fundamental concepts of chemistry. This is ideally for those students just beginning with chemistry whether in high school or college. I am including basic concepts as well as some example problems.</div>\n<div> </div>\n<div> </div>\n",
-            "image": "https://sciencebyjason.com/media/posts/49/cool-background.svg",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Chemistry"
-            ],
-            "date_published": "2021-04-30T23:00:53-05:00",
-            "date_modified": "2021-05-03T16:08:46-05:00"
         }
     ]
 }

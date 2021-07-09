@@ -3,12 +3,31 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2021-07-05T11:45:55-05:00</updated>
+    <updated>2021-07-08T21:14:58-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Nonlinear Functions in Algebra</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/nonlinear-functions-in-algebra.html"/>
+        <id>https://sciencebyjason.com/nonlinear-functions-in-algebra.html</id>
+            <category term="Algebra"/>
+
+        <updated>2021-07-08T21:14:58-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sciencebyjason.com/media/posts/60/Nonlinear-Functions-In-Algebra-0.jpg" alt="" />
+                    <p data-pm-slice="0 0 []">Functions are a way to understand how one quantity grows or decreases compared to another quantity.  Nonlinear functions, which we will discuss here, are functions that have different growth rates.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Introduction To The Solar System</title>
         <author>
@@ -175,27 +194,6 @@
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/50/pattern_herringbone-7_4_3_0-0_65_1__2ec4b5_ffffff.png" alt="" />
                     <p>This chapter is about atomic theory and how we got there.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Chemistry Essentials</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/chemistry-essentials.html"/>
-        <id>https://sciencebyjason.com/chemistry-essentials.html</id>
-            <category term="Chemistry"/>
-
-        <updated>2021-05-03T16:08:46-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sciencebyjason.com/media/posts/49/cool-background.svg" alt="" />
-                    <div>This is an introduction to the fundamental concepts of chemistry. This is ideally for those students just beginning with chemistry whether in high school or college. I am including basic concepts as well as some example problems.</div>
-<div> </div>
-<div> </div>
 
                 ]]>
             </summary>
