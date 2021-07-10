@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/how-telescopes-are-used.html",
+            "url": "https://sciencebyjason.com/how-telescopes-are-used.html",
+            "title": "How Do Telescopes Work",
+            "summary": "<p data-pm-slice=\"0 0 []\">The telescope is our most important tool in Astronomy and is used to observe faraway celestial objects and electromagnetic radiation.</p>\n",
+            "image": "https://sciencebyjason.com/media/posts/61/how-telescopes-are-used-0.jpg",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Astronomy"
+            ],
+            "date_published": "2021-07-09T16:41:48-05:00",
+            "date_modified": "2021-07-09T22:59:22-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/nonlinear-functions-in-algebra.html",
             "url": "https://sciencebyjason.com/nonlinear-functions-in-algebra.html",
             "title": "Nonlinear Functions in Algebra",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2021-05-06T12:05:46-05:00",
             "date_modified": "2021-06-11T10:21:13-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/beginning-atomic-theory.html",
-            "url": "https://sciencebyjason.com/beginning-atomic-theory.html",
-            "title": "Beginning Atomic Theory",
-            "summary": "<p>This chapter is about atomic theory and how we got there.</p>\n",
-            "image": "https://sciencebyjason.com/media/posts/50/pattern_herringbone-7_4_3_0-0_65_1__2ec4b5_ffffff.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Chemistry"
-            ],
-            "date_published": "2021-05-02T16:21:17-05:00",
-            "date_modified": "2021-05-03T16:07:24-05:00"
         }
     ]
 }
