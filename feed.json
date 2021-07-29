@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/why-do-we-factor-polynomials.html",
+            "url": "https://sciencebyjason.com/why-do-we-factor-polynomials.html",
+            "title": "Why Do We Factor Polynomials",
+            "summary": "<p data-pm-slice=\"0 0 []\">We factor polynomials because they give us points on their curve. These points allow us to analyze functions and solve equations for the values we need.</p>\n",
+            "image": "https://sciencebyjason.com/media/posts/62/why-do-we-factor-polynomials-0.jpg",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Algebra"
+            ],
+            "date_published": "2021-07-29T11:13:16-05:00",
+            "date_modified": "2021-07-29T11:24:09-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/how-telescopes-are-used.html",
             "url": "https://sciencebyjason.com/how-telescopes-are-used.html",
             "title": "How Do Telescopes Work",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2021-05-07T20:04:34-05:00",
             "date_modified": "2021-05-18T22:54:37-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/piecewise-functions.html",
-            "url": "https://sciencebyjason.com/piecewise-functions.html",
-            "title": "Piecewise Functions",
-            "summary": "<p>Piecewise functions describe our every day life and are everywhere. In this chapter I will explain them and show some examples.</p>\n",
-            "image": "https://sciencebyjason.com/media/posts/51/cool-background1.svg",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Algebra"
-            ],
-            "date_published": "2021-05-06T12:05:46-05:00",
-            "date_modified": "2021-06-11T10:21:13-05:00"
         }
     ]
 }
