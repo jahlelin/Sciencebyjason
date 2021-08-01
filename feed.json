@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/why-the-earth-supports-life.html",
+            "url": "https://sciencebyjason.com/why-the-earth-supports-life.html",
+            "title": "Why Does The Earth Support Life",
+            "summary": "<p data-pm-slice=\"0 0 []\">The Earth supports life because it is the right distance from the Sun and has several processes that are perfectly balanced so that life thrives.</p>\n",
+            "image": "https://sciencebyjason.com/media/posts/63/why-does-the-earth-support-life-0.jpg",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Astronomy"
+            ],
+            "date_published": "2021-07-31T14:58:23-05:00",
+            "date_modified": "2021-08-01T16:15:45-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/why-do-we-factor-polynomials.html",
             "url": "https://sciencebyjason.com/why-do-we-factor-polynomials.html",
             "title": "Why Do We Factor Polynomials",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2021-05-28T14:22:29-05:00",
             "date_modified": "2021-05-28T17:03:50-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/quadratic-equations.html",
-            "url": "https://sciencebyjason.com/quadratic-equations.html",
-            "title": "How To Solve Quadratic Equations",
-            "summary": "<p>This chapter I discuss quadratic equations and how they are useful to model nonlinear data.</p>\n",
-            "image": "https://sciencebyjason.com/media/posts/52/quadratic_equations.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Algebra"
-            ],
-            "date_published": "2021-05-07T20:04:34-05:00",
-            "date_modified": "2021-05-18T22:54:37-05:00"
         }
     ]
 }
