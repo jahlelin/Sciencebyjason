@@ -3,12 +3,31 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2021-08-01T16:15:45-05:00</updated>
+    <updated>2021-09-20T14:30:31-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>The Fundamental Theorem of Algebra</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/the-fundamental-theorem-of-algebra.html"/>
+        <id>https://sciencebyjason.com/the-fundamental-theorem-of-algebra.html</id>
+            <category term="Algebra"/>
+
+        <updated>2021-09-20T14:30:31-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sciencebyjason.com/media/posts/64/fundamental-theorem-of-algebra-0.jpg" alt="" />
+                    <p>The fundamental theorem of algebra says that every polynomial has at least one complex number as a solution.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Why Does The Earth Support Life</title>
         <author>
@@ -18,7 +37,7 @@
         <id>https://sciencebyjason.com/why-the-earth-supports-life.html</id>
             <category term="Astronomy"/>
 
-        <updated>2021-08-01T16:15:45-05:00</updated>
+        <updated>2021-08-02T16:10:21-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/63/why-does-the-earth-support-life-0.jpg" alt="" />
@@ -175,25 +194,6 @@
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/55/getting-started-with-astronomy-0.jpg" alt="" />
                     <p id="1746" class="id ie gi if b ig ih ii ij ik il im in io ip iq ir is it iu iv iw do ef" data-selectable-paragraph="">This is going to be an article about how to get started in Astronomy. I know there are multiple ways, but this will be from my experience.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>How To Factor Quadratics </title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/how-to-solve-quadratics-with-factoring.html"/>
-        <id>https://sciencebyjason.com/how-to-solve-quadratics-with-factoring.html</id>
-            <category term="Algebra"/>
-
-        <updated>2021-05-28T17:03:50-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sciencebyjason.com/media/posts/53/Solve-Quadratics-With-Factoring.svg" alt="Solve Quadratics With Factoring" />
-                    <p>In this chapter I show you how to solve quadratics with factoring and how to find the  corresponding intercepts.</p>
 
                 ]]>
             </summary>

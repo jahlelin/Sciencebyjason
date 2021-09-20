@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/the-fundamental-theorem-of-algebra.html",
+            "url": "https://sciencebyjason.com/the-fundamental-theorem-of-algebra.html",
+            "title": "The Fundamental Theorem of Algebra",
+            "summary": "<p>The fundamental theorem of algebra says that every polynomial has at least one complex number as a solution.</p>\n",
+            "image": "https://sciencebyjason.com/media/posts/64/fundamental-theorem-of-algebra-0.jpg",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Algebra"
+            ],
+            "date_published": "2021-09-20T14:04:55-05:00",
+            "date_modified": "2021-09-20T14:30:31-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/why-the-earth-supports-life.html",
             "url": "https://sciencebyjason.com/why-the-earth-supports-life.html",
             "title": "Why Does The Earth Support Life",
@@ -22,7 +37,7 @@
                    "Astronomy"
             ],
             "date_published": "2021-07-31T14:58:23-05:00",
-            "date_modified": "2021-08-01T16:15:45-05:00"
+            "date_modified": "2021-08-02T16:10:21-05:00"
         },
         {
             "id": "https://sciencebyjason.com/why-do-we-factor-polynomials.html",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2021-06-11T10:18:57-05:00",
             "date_modified": "2021-06-11T10:20:51-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/how-to-solve-quadratics-with-factoring.html",
-            "url": "https://sciencebyjason.com/how-to-solve-quadratics-with-factoring.html",
-            "title": "How To Factor Quadratics ",
-            "summary": "<p>In this chapter I show you how to solve quadratics with factoring and how to find the  corresponding intercepts.</p>\n",
-            "image": "https://sciencebyjason.com/media/posts/53/Solve-Quadratics-With-Factoring.svg",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Algebra"
-            ],
-            "date_published": "2021-05-28T14:22:29-05:00",
-            "date_modified": "2021-05-28T17:03:50-05:00"
         }
     ]
 }
