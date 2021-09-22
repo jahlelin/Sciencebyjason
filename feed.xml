@@ -3,12 +3,31 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2021-09-20T14:30:31-05:00</updated>
+    <updated>2021-09-22T13:56:10-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Why Is There Debris In The Galaxy</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/why-is-there-debris-in-the-galaxy.html"/>
+        <id>https://sciencebyjason.com/why-is-there-debris-in-the-galaxy.html</id>
+            <category term="Astronomy"/>
+
+        <updated>2021-09-22T13:56:10-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sciencebyjason.com/media/posts/65/debris-in-the-galaxy-0.jpg" alt="" />
+                    <p data-pm-slice="0 0 []">Space debris results from the various asteroid belts in our galaxy and the collisions within that send large objects in all different directions.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>The Fundamental Theorem of Algebra</title>
         <author>
@@ -175,25 +194,6 @@
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/56/orbital-motion-in-the-solar-system-0.jpg" alt="waves in a pattern" />
                     <p>In this article I wanted to talk about how and why celestial bodies move in our solar system.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Getting Started With Astronomy</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/getting-started-with-astronomy-2.html"/>
-        <id>https://sciencebyjason.com/getting-started-with-astronomy-2.html</id>
-            <category term="Astronomy"/>
-
-        <updated>2021-06-11T10:20:51-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sciencebyjason.com/media/posts/55/getting-started-with-astronomy-0.jpg" alt="" />
-                    <p id="1746" class="id ie gi if b ig ih ii ij ik il im in io ip iq ir is it iu iv iw do ef" data-selectable-paragraph="">This is going to be an article about how to get started in Astronomy. I know there are multiple ways, but this will be from my experience.</p>
 
                 ]]>
             </summary>
