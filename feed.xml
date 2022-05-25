@@ -3,12 +3,30 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2021-09-22T13:56:10-05:00</updated>
+    <updated>2022-05-24T22:43:41-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Dark Matter In The Universe</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/dark-matter-in-the-universe.html"/>
+        <id>https://sciencebyjason.com/dark-matter-in-the-universe.html</id>
+            <category term="Astronomy"/>
+
+        <updated>2022-05-24T22:43:41-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p data-pm-slice="0 0 []">This brief document will be over dark matter in the universe and why there are issues with the calculated mass of galaxies.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Why Is There Debris In The Galaxy</title>
         <author>
@@ -175,25 +193,6 @@
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/57/algebraic_functions-0.jpg" alt="" />
                     <p data-pm-slice="0 0 []">Algebraic functions are some of the most important concepts in math. In this article I discuss the history and uses of functions. </p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Orbital Motion In The Solar System</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/orbital-motion-in-the-solar-system.html"/>
-        <id>https://sciencebyjason.com/orbital-motion-in-the-solar-system.html</id>
-            <category term="Astronomy"/>
-
-        <updated>2021-06-16T17:58:33-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sciencebyjason.com/media/posts/56/orbital-motion-in-the-solar-system-0.jpg" alt="waves in a pattern" />
-                    <p>In this article I wanted to talk about how and why celestial bodies move in our solar system.</p>
 
                 ]]>
             </summary>
