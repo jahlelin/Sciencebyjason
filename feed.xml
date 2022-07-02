@@ -3,12 +3,30 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2022-05-24T22:43:41-05:00</updated>
+    <updated>2022-07-02T00:37:05-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>How To Solve Algebraic Inequalities</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/how-to-solve-algebraic-inequalities.html"/>
+        <id>https://sciencebyjason.com/how-to-solve-algebraic-inequalities.html</id>
+            <category term="Algebra"/>
+
+        <updated>2022-07-02T00:37:05-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>Polynomial and rational inequalities are all about finding boundary numbers. In this document, let me show you how to do that with some examples.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Dark Matter In The Universe</title>
         <author>
@@ -174,25 +192,6 @@
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/58/algebraic_transformations-0.jpg" alt="" />
                     <p>Graphs are useful tools. We use them to show a lot of information visually. In this article, I want to show how functions are transformed in graphs.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>What are Algebraic Functions</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/how-to-solve-algebraic-functions.html"/>
-        <id>https://sciencebyjason.com/how-to-solve-algebraic-functions.html</id>
-            <category term="Algebra"/>
-
-        <updated>2021-06-30T19:53:20-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sciencebyjason.com/media/posts/57/algebraic_functions-0.jpg" alt="" />
-                    <p data-pm-slice="0 0 []">Algebraic functions are some of the most important concepts in math. In this article I discuss the history and uses of functions. </p>
 
                 ]]>
             </summary>

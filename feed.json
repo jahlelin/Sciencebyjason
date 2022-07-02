@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/how-to-solve-algebraic-inequalities.html",
+            "url": "https://sciencebyjason.com/how-to-solve-algebraic-inequalities.html",
+            "title": "How To Solve Algebraic Inequalities",
+            "summary": "<p>Polynomial and rational inequalities are all about finding boundary numbers. In this document, let me show you how to do that with some examples.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Algebra"
+            ],
+            "date_published": "2022-07-02T00:00:40-05:00",
+            "date_modified": "2022-07-02T00:37:05-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/dark-matter-in-the-universe.html",
             "url": "https://sciencebyjason.com/dark-matter-in-the-universe.html",
             "title": "Dark Matter In The Universe",
@@ -142,21 +156,6 @@
             ],
             "date_published": "2021-07-02T20:59:09-05:00",
             "date_modified": "2021-07-02T23:06:34-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/how-to-solve-algebraic-functions.html",
-            "url": "https://sciencebyjason.com/how-to-solve-algebraic-functions.html",
-            "title": "What are Algebraic Functions",
-            "summary": "<p data-pm-slice=\"0 0 []\">Algebraic functions are some of the most important concepts in math. In this article I discuss the history and uses of functions. </p>\n",
-            "image": "https://sciencebyjason.com/media/posts/57/algebraic_functions-0.jpg",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Algebra"
-            ],
-            "date_published": "2021-06-30T17:46:23-05:00",
-            "date_modified": "2021-06-30T19:53:20-05:00"
         }
     ]
 }
