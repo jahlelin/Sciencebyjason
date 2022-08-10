@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/power-functions-and-exponents.html",
+            "url": "https://sciencebyjason.com/power-functions-and-exponents.html",
+            "title": "Power Functions and Exponents",
+            "summary": "In this document, we discuss power functions and how exponents affect them. Power functions use rational numbers as exponents. There are several properties that define their behavior. We will go over these properties in some example problems. Simplify \\( 16^3/4\\) \\[\\left( \\frac{1}{t}\\right)^{\\!3/2}\\] You can look&hellip;",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-07-19T13:48:21-05:00",
+            "date_modified": "2022-07-21T20:46:50-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/how-to-solve-algebraic-inequalities.html",
             "url": "https://sciencebyjason.com/how-to-solve-algebraic-inequalities.html",
             "title": "How To Solve Algebraic Inequalities",
@@ -141,21 +154,6 @@
             ],
             "date_published": "2021-07-05T11:22:59-05:00",
             "date_modified": "2021-07-05T11:45:55-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/transforming-graphs-in-algebra.html",
-            "url": "https://sciencebyjason.com/transforming-graphs-in-algebra.html",
-            "title": "Transforming Graphs In Algebra",
-            "summary": "<p>Graphs are useful tools. We use them to show a lot of information visually. In this article, I want to show how functions are transformed in graphs.</p>\n",
-            "image": "https://sciencebyjason.com/media/posts/58/algebraic_transformations-0.jpg",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Algebra"
-            ],
-            "date_published": "2021-07-02T20:59:09-05:00",
-            "date_modified": "2021-07-02T23:06:34-05:00"
         }
     ]
 }

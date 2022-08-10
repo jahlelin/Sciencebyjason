@@ -3,12 +3,28 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2022-07-02T00:37:05-05:00</updated>
+    <updated>2022-07-21T20:46:50-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Power Functions and Exponents</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/power-functions-and-exponents.html"/>
+        <id>https://sciencebyjason.com/power-functions-and-exponents.html</id>
+
+        <updated>2022-07-21T20:46:50-05:00</updated>
+            <summary>
+                <![CDATA[
+                    In this document, we discuss power functions and how exponents affect them. Power functions use rational numbers as exponents. There are several properties that define their behavior. We will go over these properties in some example problems. Simplify \( 16^3/4\) \[\left( \frac{1}{t}\right)^{\!3/2}\] You can look&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>How To Solve Algebraic Inequalities</title>
         <author>
@@ -173,25 +189,6 @@
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/59/solar-system-0.jpg" alt="" />
                     <p>Learning Astronomy is a constant process. That is what makes it so interesting. In this article, Introduction to the solar system, I talk about why it is interesting and how many parts of it were formed.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Transforming Graphs In Algebra</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/transforming-graphs-in-algebra.html"/>
-        <id>https://sciencebyjason.com/transforming-graphs-in-algebra.html</id>
-            <category term="Algebra"/>
-
-        <updated>2021-07-02T23:06:34-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sciencebyjason.com/media/posts/58/algebraic_transformations-0.jpg" alt="" />
-                    <p>Graphs are useful tools. We use them to show a lot of information visually. In this article, I want to show how functions are transformed in graphs.</p>
 
                 ]]>
             </summary>
