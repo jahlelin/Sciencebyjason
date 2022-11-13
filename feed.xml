@@ -3,7 +3,7 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2022-11-12T14:00:57-06:00</updated>
+    <updated>2022-11-12T19:27:02-06:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
@@ -16,8 +16,9 @@
         </author>
         <link href="https://sciencebyjason.com/power-functions-and-exponents.html"/>
         <id>https://sciencebyjason.com/power-functions-and-exponents.html</id>
+            <category term="Algebra"/>
 
-        <updated>2022-11-12T14:00:57-06:00</updated>
+        <updated>2022-11-12T19:26:05-06:00</updated>
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">In this document, we discuss power functions and how exponents affect them. </span></p>
@@ -35,7 +36,7 @@
         <id>https://sciencebyjason.com/how-to-solve-algebraic-inequalities.html</id>
             <category term="Algebra"/>
 
-        <updated>2022-07-02T00:37:05-05:00</updated>
+        <updated>2022-11-12T19:26:24-06:00</updated>
             <summary>
                 <![CDATA[
                     <p>Polynomial and rational inequalities are all about finding boundary numbers. In this document, let me show you how to do that with some examples.</p>
@@ -53,7 +54,7 @@
         <id>https://sciencebyjason.com/dark-matter-in-the-universe.html</id>
             <category term="Astronomy"/>
 
-        <updated>2022-05-24T22:43:41-05:00</updated>
+        <updated>2022-11-12T19:26:36-06:00</updated>
             <summary>
                 <![CDATA[
                     <p data-pm-slice="0 0 []">This brief document will be over dark matter in the universe and why there are issues with the calculated mass of galaxies.</p>
@@ -71,7 +72,7 @@
         <id>https://sciencebyjason.com/why-is-there-debris-in-the-galaxy.html</id>
             <category term="Astronomy"/>
 
-        <updated>2021-09-22T13:56:10-05:00</updated>
+        <updated>2022-11-12T19:26:47-06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/65/debris-in-the-galaxy-0.jpg" alt="" />
@@ -90,7 +91,7 @@
         <id>https://sciencebyjason.com/the-fundamental-theorem-of-algebra.html</id>
             <category term="Algebra"/>
 
-        <updated>2021-09-20T14:30:31-05:00</updated>
+        <updated>2022-11-12T19:27:02-06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/64/fundamental-theorem-of-algebra-0.jpg" alt="" />
@@ -128,7 +129,7 @@
         <id>https://sciencebyjason.com/why-do-we-factor-polynomials.html</id>
             <category term="Algebra"/>
 
-        <updated>2021-07-29T11:31:38-05:00</updated>
+        <updated>2022-11-12T18:50:03-06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/62/why-do-we-factor-polynomials-0-2.jpg" alt="" />
@@ -166,7 +167,7 @@
         <id>https://sciencebyjason.com/nonlinear-functions-in-algebra.html</id>
             <category term="Algebra"/>
 
-        <updated>2021-07-08T22:26:09-05:00</updated>
+        <updated>2022-11-12T14:22:01-06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/60/nonlinear-functions-in-algebra-0-2.jpg" alt="" />
