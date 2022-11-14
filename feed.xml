@@ -3,12 +3,30 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2022-11-12T20:28:29-06:00</updated>
+    <updated>2022-11-14T12:54:39-06:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>The Cratered World Of Mercury</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/the-cratered-world-of-mercury.html"/>
+        <id>https://sciencebyjason.com/the-cratered-world-of-mercury.html</id>
+            <category term="Astronomy"/>
+
+        <updated>2022-11-14T12:54:39-06:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is my short guide to Mercury. In it, I discuss its major attributes and origin.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Power Functions and Exponents</title>
         <author>
@@ -172,25 +190,6 @@
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/60/nonlinear-functions-in-algebra-0-2.jpg" alt="" />
                     <p data-pm-slice="0 0 []">Functions are a way to understand how one quantity grows or decreases compared to another quantity.  Nonlinear functions, which we will discuss here, are functions that have different growth rates.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Introduction To The Solar System</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/introduction-to-the-solar-system.html"/>
-        <id>https://sciencebyjason.com/introduction-to-the-solar-system.html</id>
-            <category term="Astronomy"/>
-
-        <updated>2022-11-12T20:28:29-06:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sciencebyjason.com/media/posts/59/solar-system-0.jpg" alt="" />
-                    <p>Learning Astronomy is a constant process. That is what makes it so interesting. In this article, Introduction to the solar system, I talk about why it is interesting and how many parts of it were formed.</p>
 
                 ]]>
             </summary>
