@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/composition-of-functions.html",
+            "url": "https://sciencebyjason.com/composition-of-functions.html",
+            "title": "Composition Of Functions",
+            "summary": "<p>The composition of functions is a way to build functions from separate parts. If you are unsure how they work, here is my guide explaining the process.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Algebra"
+            ],
+            "date_published": "2022-11-15T13:33:00-06:00",
+            "date_modified": "2022-11-15T13:34:22-06:00"
+        },
+        {
             "id": "https://sciencebyjason.com/the-cratered-world-of-mercury.html",
             "url": "https://sciencebyjason.com/the-cratered-world-of-mercury.html",
             "title": "The Cratered World Of Mercury",
@@ -139,21 +153,6 @@
             ],
             "date_published": "2021-07-09T16:41:48-05:00",
             "date_modified": "2022-11-12T20:25:19-06:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/nonlinear-functions-in-algebra.html",
-            "url": "https://sciencebyjason.com/nonlinear-functions-in-algebra.html",
-            "title": "Nonlinear Functions in Algebra",
-            "summary": "<p data-pm-slice=\"0 0 []\">Functions are a way to understand how one quantity grows or decreases compared to another quantity.  Nonlinear functions, which we will discuss here, are functions that have different growth rates.</p>\n",
-            "image": "https://sciencebyjason.com/media/posts/60/nonlinear-functions-in-algebra-0-2.jpg",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Algebra"
-            ],
-            "date_published": "2021-07-08T20:21:56-05:00",
-            "date_modified": "2022-11-12T20:25:43-06:00"
         }
     ]
 }
