@@ -3,12 +3,30 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2022-11-15T14:31:59-06:00</updated>
+    <updated>2022-11-16T16:49:13-06:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>The Rocky Planet Venus</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/the-rocky-planet-venus.html"/>
+        <id>https://sciencebyjason.com/the-rocky-planet-venus.html</id>
+            <category term="Astronomy"/>
+
+        <updated>2022-11-16T16:49:13-06:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">To continue my planet series, this guide is on Venus, the Rocky Planet!</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Composition Of Functions</title>
         <author>
@@ -170,25 +188,6 @@
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/62/why-do-we-factor-polynomials-0-2.jpg" alt="" />
                     <p data-pm-slice="0 0 []">We factor polynomials because they give us points on their curve. These points allow us to analyze functions and solve equations for the values we need.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>How Do Telescopes Work</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/how-telescopes-are-used.html"/>
-        <id>https://sciencebyjason.com/how-telescopes-are-used.html</id>
-            <category term="Astronomy"/>
-
-        <updated>2022-11-12T20:25:19-06:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sciencebyjason.com/media/posts/61/how-telescopes-are-used-0.jpg" alt="" />
-                    <p data-pm-slice="0 0 []">The telescope is our most important tool in Astronomy and is used to observe faraway celestial objects and electromagnetic radiation.</p>
 
                 ]]>
             </summary>
