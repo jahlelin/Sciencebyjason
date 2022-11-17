@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/inverse-functions-in-algebra.html",
+            "url": "https://sciencebyjason.com/inverse-functions-in-algebra.html",
+            "title": "Inverse Functions In Algebra",
+            "summary": "<p><span style=\"font-weight: 400;\">If you need some help understanding inverse functions in Algebra, this guide I wrote explains them with several examples.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Algebra"
+            ],
+            "date_published": "2022-11-17T14:24:30-06:00",
+            "date_modified": "2022-11-17T14:25:11-06:00"
+        },
+        {
             "id": "https://sciencebyjason.com/the-rocky-planet-venus.html",
             "url": "https://sciencebyjason.com/the-rocky-planet-venus.html",
             "title": "The Rocky Planet Venus",
@@ -137,21 +151,6 @@
             ],
             "date_published": "2021-07-31T14:58:23-05:00",
             "date_modified": "2022-11-12T20:16:56-06:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/why-do-we-factor-polynomials.html",
-            "url": "https://sciencebyjason.com/why-do-we-factor-polynomials.html",
-            "title": "Why Do We Factor Polynomials",
-            "summary": "<p data-pm-slice=\"0 0 []\">We factor polynomials because they give us points on their curve. These points allow us to analyze functions and solve equations for the values we need.</p>\n",
-            "image": "https://sciencebyjason.com/media/posts/62/why-do-we-factor-polynomials-0-2.jpg",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Algebra"
-            ],
-            "date_published": "2021-07-29T11:13:16-05:00",
-            "date_modified": "2022-11-12T20:19:04-06:00"
         }
     ]
 }
