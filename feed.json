@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/mars-the-red-planet.html",
+            "url": "https://sciencebyjason.com/mars-the-red-planet.html",
+            "title": "Mars, The Red Planet",
+            "summary": "<p><span style=\"font-weight: 400;\">If you have ever wondered about Mars, we talk a lot about its properties and what makes it wonderful in this section.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Astronomy"
+            ],
+            "date_published": "2022-11-18T16:05:03-06:00",
+            "date_modified": "2022-11-18T16:06:11-06:00"
+        },
+        {
             "id": "https://sciencebyjason.com/inverse-functions-in-algebra.html",
             "url": "https://sciencebyjason.com/inverse-functions-in-algebra.html",
             "title": "Inverse Functions In Algebra",
@@ -136,21 +150,6 @@
             ],
             "date_published": "2021-09-20T14:04:55-05:00",
             "date_modified": "2022-11-12T20:16:30-06:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/why-the-earth-supports-life.html",
-            "url": "https://sciencebyjason.com/why-the-earth-supports-life.html",
-            "title": "Why Does The Earth Support Life",
-            "summary": "<p data-pm-slice=\"0 0 []\">The Earth supports life because it is the right distance from the Sun and has several processes that are perfectly balanced so that life thrives.</p>\n",
-            "image": "https://sciencebyjason.com/media/posts/63/why-does-the-earth-support-life-0.jpg",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Astronomy"
-            ],
-            "date_published": "2021-07-31T14:58:23-05:00",
-            "date_modified": "2022-11-12T20:16:56-06:00"
         }
     ]
 }

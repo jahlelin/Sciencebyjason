@@ -3,12 +3,30 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2022-11-17T14:25:11-06:00</updated>
+    <updated>2022-11-18T16:06:11-06:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Mars, The Red Planet</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/mars-the-red-planet.html"/>
+        <id>https://sciencebyjason.com/mars-the-red-planet.html</id>
+            <category term="Astronomy"/>
+
+        <updated>2022-11-18T16:06:11-06:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">If you have ever wondered about Mars, we talk a lot about its properties and what makes it wonderful in this section.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Inverse Functions In Algebra</title>
         <author>
@@ -168,25 +186,6 @@
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/64/fundamental-theorem-of-algebra-0.jpg" alt="" />
                     <p>The fundamental theorem of algebra says that every polynomial has at least one complex number as a solution.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Why Does The Earth Support Life</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/why-the-earth-supports-life.html"/>
-        <id>https://sciencebyjason.com/why-the-earth-supports-life.html</id>
-            <category term="Astronomy"/>
-
-        <updated>2022-11-12T20:16:56-06:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sciencebyjason.com/media/posts/63/why-does-the-earth-support-life-0.jpg" alt="" />
-                    <p data-pm-slice="0 0 []">The Earth supports life because it is the right distance from the Sun and has several processes that are perfectly balanced so that life thrives.</p>
 
                 ]]>
             </summary>
