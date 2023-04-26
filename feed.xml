@@ -3,12 +3,30 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2023-04-23T23:04:05-05:00</updated>
+    <updated>2023-04-26T17:12:09-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Exponential Functions</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/exponential-functions.html"/>
+        <id>https://sciencebyjason.com/exponential-functions.html</id>
+            <category term="Algebra"/>
+
+        <updated>2023-04-26T17:12:09-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>These are my notes and how to work on exponential functions in Algebra.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Mars, The Red Planet</title>
         <author>
@@ -167,25 +185,6 @@
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/65/debris-in-the-galaxy-0.jpg" alt="" />
                     <p data-pm-slice="0 0 []">Space debris results from the various asteroid belts in our galaxy and the collisions within that send large objects in all different directions.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>The Fundamental Theorem of Algebra</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/the-fundamental-theorem-of-algebra.html"/>
-        <id>https://sciencebyjason.com/the-fundamental-theorem-of-algebra.html</id>
-            <category term="Algebra"/>
-
-        <updated>2023-04-23T23:04:05-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sciencebyjason.com/media/posts/64/fundamental-theorem-of-algebra-0.jpg" alt="" />
-                    <p>The fundamental theorem of algebra says that every polynomial has at least one complex number as a solution.</p>
 
                 ]]>
             </summary>
