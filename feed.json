@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/logarithmic-functions-in-algebra.html",
+            "url": "https://sciencebyjason.com/logarithmic-functions-in-algebra.html",
+            "title": "Logarithmic Functions In Algebra ",
+            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on logarithmic functions in Algebra.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Algebra"
+            ],
+            "date_published": "2023-05-09T19:26:50-05:00",
+            "date_modified": "2023-05-09T23:14:58-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/exponential-functions.html",
             "url": "https://sciencebyjason.com/exponential-functions.html",
             "title": "Exponential Functions",
@@ -134,21 +148,6 @@
             ],
             "date_published": "2022-05-24T22:43:15-05:00",
             "date_modified": "2023-04-23T23:03:29-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/why-is-there-debris-in-the-galaxy.html",
-            "url": "https://sciencebyjason.com/why-is-there-debris-in-the-galaxy.html",
-            "title": "Why Is There Debris In The Galaxy",
-            "summary": "<p data-pm-slice=\"0 0 []\">Space debris results from the various asteroid belts in our galaxy and the collisions within that send large objects in all different directions.</p>\n",
-            "image": "https://sciencebyjason.com/media/posts/65/debris-in-the-galaxy-0.jpg",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Astronomy"
-            ],
-            "date_published": "2021-09-22T13:47:08-05:00",
-            "date_modified": "2023-04-23T23:03:50-05:00"
         }
     ]
 }

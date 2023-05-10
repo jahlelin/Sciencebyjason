@@ -3,12 +3,30 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2023-04-26T17:12:09-05:00</updated>
+    <updated>2023-05-09T23:14:58-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Logarithmic Functions In Algebra </title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/logarithmic-functions-in-algebra.html"/>
+        <id>https://sciencebyjason.com/logarithmic-functions-in-algebra.html</id>
+            <category term="Algebra"/>
+
+        <updated>2023-05-09T23:14:58-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">These are my notes on logarithmic functions in Algebra.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Exponential Functions</title>
         <author>
@@ -166,25 +184,6 @@
             <summary>
                 <![CDATA[
                     <p data-pm-slice="0 0 []">This brief document will be over dark matter in the universe and why there are issues with the calculated mass of galaxies.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Why Is There Debris In The Galaxy</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/why-is-there-debris-in-the-galaxy.html"/>
-        <id>https://sciencebyjason.com/why-is-there-debris-in-the-galaxy.html</id>
-            <category term="Astronomy"/>
-
-        <updated>2023-04-23T23:03:50-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sciencebyjason.com/media/posts/65/debris-in-the-galaxy-0.jpg" alt="" />
-                    <p data-pm-slice="0 0 []">Space debris results from the various asteroid belts in our galaxy and the collisions within that send large objects in all different directions.</p>
 
                 ]]>
             </summary>
