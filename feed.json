@@ -10,6 +10,34 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/statistics-and-problem-solving.html",
+            "url": "https://sciencebyjason.com/statistics-and-problem-solving.html",
+            "title": "Statistics and Problem Solving",
+            "summary": "<p>These are my notes on statistics and problem solving.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Statistics"
+            ],
+            "date_published": "2023-05-12T16:21:28-05:00",
+            "date_modified": "2023-05-12T16:26:32-05:00"
+        },
+        {
+            "id": "https://sciencebyjason.com/statistics-essentials.html",
+            "url": "https://sciencebyjason.com/statistics-essentials.html",
+            "title": "Statistics Essentials",
+            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on statistics essentials.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Statistics"
+            ],
+            "date_published": "2023-05-12T16:14:49-05:00",
+            "date_modified": "2023-05-12T16:26:08-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/logarithmic-functions-in-algebra.html",
             "url": "https://sciencebyjason.com/logarithmic-functions-in-algebra.html",
             "title": "Logarithmic Functions In Algebra ",
@@ -120,34 +148,6 @@
             ],
             "date_published": "2022-07-19T13:48:21-05:00",
             "date_modified": "2023-04-23T23:03:01-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/how-to-solve-algebraic-inequalities.html",
-            "url": "https://sciencebyjason.com/how-to-solve-algebraic-inequalities.html",
-            "title": "How To Solve Algebraic Inequalities",
-            "summary": "<p>Polynomial and rational inequalities are all about finding boundary numbers. In this document, let me show you how to do that with some examples.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Algebra"
-            ],
-            "date_published": "2022-07-02T00:00:40-05:00",
-            "date_modified": "2023-04-23T23:03:16-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/dark-matter-in-the-universe.html",
-            "url": "https://sciencebyjason.com/dark-matter-in-the-universe.html",
-            "title": "Dark Matter In The Universe",
-            "summary": "<p data-pm-slice=\"0 0 []\">This brief document will be over dark matter in the universe and why there are issues with the calculated mass of galaxies.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Astronomy"
-            ],
-            "date_published": "2022-05-24T22:43:15-05:00",
-            "date_modified": "2023-04-23T23:03:29-05:00"
         }
     ]
 }
