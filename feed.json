@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/collecting-and-analyzing-data-in-statistics.html",
+            "url": "https://sciencebyjason.com/collecting-and-analyzing-data-in-statistics.html",
+            "title": "Collecting and Analyzing Data in Statistics",
+            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on collecting and analyzing data in statistics.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Statistics"
+            ],
+            "date_published": "2023-05-14T15:55:07-05:00",
+            "date_modified": "2023-05-14T15:55:52-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/statistics-and-problem-solving.html",
             "url": "https://sciencebyjason.com/statistics-and-problem-solving.html",
             "title": "Statistics and Problem Solving",
@@ -35,7 +49,7 @@
                    "Statistics"
             ],
             "date_published": "2023-05-12T16:14:49-05:00",
-            "date_modified": "2023-05-12T16:26:08-05:00"
+            "date_modified": "2023-05-14T15:56:54-05:00"
         },
         {
             "id": "https://sciencebyjason.com/logarithmic-functions-in-algebra.html",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2022-11-14T12:12:26-06:00",
             "date_modified": "2023-04-23T23:02:47-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/power-functions-and-exponents.html",
-            "url": "https://sciencebyjason.com/power-functions-and-exponents.html",
-            "title": "Power Functions and Exponents",
-            "summary": "<p><span style=\"font-weight: 400;\">In this document, we discuss power functions and how exponents affect them. </span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Algebra"
-            ],
-            "date_published": "2022-07-19T13:48:21-05:00",
-            "date_modified": "2023-04-23T23:03:01-05:00"
         }
     ]
 }
