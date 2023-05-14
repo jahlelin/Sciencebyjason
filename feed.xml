@@ -3,12 +3,30 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2023-05-14T15:56:54-05:00</updated>
+    <updated>2023-05-14T18:18:30-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Properties of Logarithms</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/properties-of-logarithms.html"/>
+        <id>https://sciencebyjason.com/properties-of-logarithms.html</id>
+            <category term="Algebra"/>
+
+        <updated>2023-05-14T18:18:17-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">These are my notes on properties of logarithms.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Collecting and Analyzing Data in Statistics</title>
         <author>
@@ -18,7 +36,7 @@
         <id>https://sciencebyjason.com/collecting-and-analyzing-data-in-statistics.html</id>
             <category term="Statistics"/>
 
-        <updated>2023-05-14T15:55:52-05:00</updated>
+        <updated>2023-05-14T18:18:30-05:00</updated>
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">These are my notes on collecting and analyzing data in statistics.</span></p>
@@ -166,24 +184,6 @@
             <summary>
                 <![CDATA[
                     <p>The composition of functions is a way to build functions from separate parts. If you are unsure how they work, here is my guide explaining the process.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>The Cratered World Of Mercury</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/the-cratered-world-of-mercury.html"/>
-        <id>https://sciencebyjason.com/the-cratered-world-of-mercury.html</id>
-            <category term="Astronomy"/>
-
-        <updated>2023-04-23T23:02:47-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is my short guide to Mercury. In it, I discuss its major attributes and origin.</p>
 
                 ]]>
             </summary>
