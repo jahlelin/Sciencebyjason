@@ -3,12 +3,30 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2023-05-14T18:18:30-05:00</updated>
+    <updated>2023-05-16T16:23:32-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Logarithmic Equations</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/logarithmic-equations.html"/>
+        <id>https://sciencebyjason.com/logarithmic-equations.html</id>
+            <category term="Algebra"/>
+
+        <updated>2023-05-16T16:23:32-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">These are my notes on logarithmic equations in Algebra.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Properties of Logarithms</title>
         <author>
@@ -166,24 +184,6 @@
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">To continue my planet series, this guide is on Venus, the Rocky Planet!</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Composition Of Functions</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/composition-of-functions.html"/>
-        <id>https://sciencebyjason.com/composition-of-functions.html</id>
-            <category term="Algebra"/>
-
-        <updated>2023-04-23T23:02:15-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>The composition of functions is a way to build functions from separate parts. If you are unsure how they work, here is my guide explaining the process.</p>
 
                 ]]>
             </summary>

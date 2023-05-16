@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/logarithmic-equations.html",
+            "url": "https://sciencebyjason.com/logarithmic-equations.html",
+            "title": "Logarithmic Equations",
+            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on logarithmic equations in Algebra.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Algebra"
+            ],
+            "date_published": "2023-05-16T16:13:44-05:00",
+            "date_modified": "2023-05-16T16:23:32-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/properties-of-logarithms.html",
             "url": "https://sciencebyjason.com/properties-of-logarithms.html",
             "title": "Properties of Logarithms",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2022-11-16T16:48:08-06:00",
             "date_modified": "2023-04-23T23:02:02-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/composition-of-functions.html",
-            "url": "https://sciencebyjason.com/composition-of-functions.html",
-            "title": "Composition Of Functions",
-            "summary": "<p>The composition of functions is a way to build functions from separate parts. If you are unsure how they work, here is my guide explaining the process.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Algebra"
-            ],
-            "date_published": "2022-11-15T13:33:00-06:00",
-            "date_modified": "2023-04-23T23:02:15-05:00"
         }
     ]
 }
