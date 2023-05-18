@@ -3,12 +3,30 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2023-05-16T16:23:32-05:00</updated>
+    <updated>2023-05-17T20:01:32-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Equations With Two Variables In Algebra</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/equations-with-two-variables-in-algebra.html"/>
+        <id>https://sciencebyjason.com/equations-with-two-variables-in-algebra.html</id>
+            <category term="Algebra"/>
+
+        <updated>2023-05-17T20:01:32-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">These are my notes on equations with two variables in Algebra.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Logarithmic Equations</title>
         <author>
@@ -166,24 +184,6 @@
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">If you need some help understanding inverse functions in Algebra, this guide I wrote explains them with several examples.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>The Rocky Planet Venus</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/the-rocky-planet-venus.html"/>
-        <id>https://sciencebyjason.com/the-rocky-planet-venus.html</id>
-            <category term="Astronomy"/>
-
-        <updated>2023-04-23T23:02:02-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">To continue my planet series, this guide is on Venus, the Rocky Planet!</span></p>
 
                 ]]>
             </summary>

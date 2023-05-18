@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/equations-with-two-variables-in-algebra.html",
+            "url": "https://sciencebyjason.com/equations-with-two-variables-in-algebra.html",
+            "title": "Equations With Two Variables In Algebra",
+            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on equations with two variables in Algebra.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Algebra"
+            ],
+            "date_published": "2023-05-17T19:46:55-05:00",
+            "date_modified": "2023-05-17T20:01:32-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/logarithmic-equations.html",
             "url": "https://sciencebyjason.com/logarithmic-equations.html",
             "title": "Logarithmic Equations",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2022-11-17T14:24:30-06:00",
             "date_modified": "2023-04-23T23:01:44-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/the-rocky-planet-venus.html",
-            "url": "https://sciencebyjason.com/the-rocky-planet-venus.html",
-            "title": "The Rocky Planet Venus",
-            "summary": "<p><span style=\"font-weight: 400;\">To continue my planet series, this guide is on Venus, the Rocky Planet!</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Astronomy"
-            ],
-            "date_published": "2022-11-16T16:48:08-06:00",
-            "date_modified": "2023-04-23T23:02:02-05:00"
         }
     ]
 }
