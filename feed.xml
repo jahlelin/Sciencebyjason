@@ -3,12 +3,30 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2023-05-17T20:01:32-05:00</updated>
+    <updated>2023-06-16T21:44:15-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Vectors in Physics</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/vectors-in-physics.html"/>
+        <id>https://sciencebyjason.com/vectors-in-physics.html</id>
+            <category term="Physics"/>
+
+        <updated>2023-06-16T21:44:15-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">These are my notes and thoughts on vectors in physics.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Equations With Two Variables In Algebra</title>
         <author>
@@ -166,24 +184,6 @@
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">If you have ever wondered about Mars, we talk a lot about its properties and what makes it wonderful in this section.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Inverse Functions In Algebra</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/inverse-functions-in-algebra.html"/>
-        <id>https://sciencebyjason.com/inverse-functions-in-algebra.html</id>
-            <category term="Algebra"/>
-
-        <updated>2023-04-23T23:01:44-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">If you need some help understanding inverse functions in Algebra, this guide I wrote explains them with several examples.</span></p>
 
                 ]]>
             </summary>
