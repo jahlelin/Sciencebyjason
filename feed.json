@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/organization-of-data-in-statistics.html",
+            "url": "https://sciencebyjason.com/organization-of-data-in-statistics.html",
+            "title": "Organization of Data in Statistics",
+            "summary": "<p><span style=\"font-weight: 400;\">Statistics exist because of variations in data. It is our job to find meaning in this data. A frequency distribution is a good way to do this and one of the leys to organization of data in statistics. </span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Statistics"
+            ],
+            "date_published": "2023-07-11T21:28:07-05:00",
+            "date_modified": "2023-07-11T21:29:15-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/vectors-in-physics.html",
             "url": "https://sciencebyjason.com/vectors-in-physics.html",
             "title": "Vectors in Physics",
@@ -105,7 +119,7 @@
                    "Statistics"
             ],
             "date_published": "2023-05-12T16:14:49-05:00",
-            "date_modified": "2023-05-14T15:56:54-05:00"
+            "date_modified": "2023-07-11T21:30:36-05:00"
         },
         {
             "id": "https://sciencebyjason.com/logarithmic-functions-in-algebra.html",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2023-04-26T16:54:24-05:00",
             "date_modified": "2023-04-26T17:12:09-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/mars-the-red-planet.html",
-            "url": "https://sciencebyjason.com/mars-the-red-planet.html",
-            "title": "Mars, The Red Planet",
-            "summary": "<p><span style=\"font-weight: 400;\">If you have ever wondered about Mars, we talk a lot about its properties and what makes it wonderful in this section.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Astronomy"
-            ],
-            "date_published": "2022-11-18T16:05:03-06:00",
-            "date_modified": "2023-04-23T23:01:21-05:00"
         }
     ]
 }
