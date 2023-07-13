@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/atomic-structures-in-chemistry.html",
+            "url": "https://sciencebyjason.com/atomic-structures-in-chemistry.html",
+            "title": "Atomic Structures in Chemistry",
+            "summary": "<p>These are my notes on atomic structures.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Chemistry"
+            ],
+            "date_published": "2023-07-12T22:21:27-05:00",
+            "date_modified": "2023-07-12T22:34:56-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/organization-of-data-in-statistics.html",
             "url": "https://sciencebyjason.com/organization-of-data-in-statistics.html",
             "title": "Organization of Data in Statistics",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2023-05-09T19:26:50-05:00",
             "date_modified": "2023-05-09T23:14:58-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/exponential-functions.html",
-            "url": "https://sciencebyjason.com/exponential-functions.html",
-            "title": "Exponential Functions",
-            "summary": "<p>These are my notes and how to work on exponential functions in Algebra.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Algebra"
-            ],
-            "date_published": "2023-04-26T16:54:24-05:00",
-            "date_modified": "2023-04-26T17:12:09-05:00"
         }
     ]
 }
