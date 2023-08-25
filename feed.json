@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/statistical-and-critical-thinking-in-statistics.html",
+            "url": "https://sciencebyjason.com/statistical-and-critical-thinking-in-statistics.html",
+            "title": "Statistical and Critical Thinking in Statistics",
+            "summary": "<p>Here are my notes and thoughts regarding statistical and critical thinking in Statistics.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Statistics"
+            ],
+            "date_published": "2023-08-24T22:20:12-05:00",
+            "date_modified": "2023-08-24T23:12:46-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/atomic-structures-in-chemistry.html",
             "url": "https://sciencebyjason.com/atomic-structures-in-chemistry.html",
             "title": "Atomic Structures in Chemistry",
@@ -21,7 +35,7 @@
                    "Chemistry"
             ],
             "date_published": "2023-07-12T22:21:27-05:00",
-            "date_modified": "2023-07-12T22:34:56-05:00"
+            "date_modified": "2023-08-24T23:13:16-05:00"
         },
         {
             "id": "https://sciencebyjason.com/organization-of-data-in-statistics.html",
@@ -35,7 +49,7 @@
                    "Statistics"
             ],
             "date_published": "2023-07-11T21:28:07-05:00",
-            "date_modified": "2023-07-11T21:29:15-05:00"
+            "date_modified": "2023-08-24T23:13:32-05:00"
         },
         {
             "id": "https://sciencebyjason.com/vectors-in-physics.html",
@@ -49,7 +63,7 @@
                    "Physics"
             ],
             "date_published": "2023-06-16T20:40:26-05:00",
-            "date_modified": "2023-06-16T21:44:15-05:00"
+            "date_modified": "2023-08-24T23:13:49-05:00"
         },
         {
             "id": "https://sciencebyjason.com/equations-with-two-variables-in-algebra.html",
@@ -63,7 +77,7 @@
                    "Algebra"
             ],
             "date_published": "2023-05-17T19:46:55-05:00",
-            "date_modified": "2023-05-17T20:01:32-05:00"
+            "date_modified": "2023-08-24T23:14:14-05:00"
         },
         {
             "id": "https://sciencebyjason.com/logarithmic-equations.html",
@@ -77,7 +91,7 @@
                    "Algebra"
             ],
             "date_published": "2023-05-16T16:13:44-05:00",
-            "date_modified": "2023-05-16T16:23:32-05:00"
+            "date_modified": "2023-08-24T23:14:32-05:00"
         },
         {
             "id": "https://sciencebyjason.com/properties-of-logarithms.html",
@@ -133,21 +147,7 @@
                    "Statistics"
             ],
             "date_published": "2023-05-12T16:14:49-05:00",
-            "date_modified": "2023-07-11T21:30:36-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/logarithmic-functions-in-algebra.html",
-            "url": "https://sciencebyjason.com/logarithmic-functions-in-algebra.html",
-            "title": "Logarithmic Functions In Algebra ",
-            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on logarithmic functions in Algebra.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Algebra"
-            ],
-            "date_published": "2023-05-09T19:26:50-05:00",
-            "date_modified": "2023-05-09T23:14:58-05:00"
+            "date_modified": "2023-08-24T23:15:19-05:00"
         }
     ]
 }

@@ -3,12 +3,30 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2023-07-12T22:34:56-05:00</updated>
+    <updated>2023-08-24T23:15:19-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Statistical and Critical Thinking in Statistics</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/statistical-and-critical-thinking-in-statistics.html"/>
+        <id>https://sciencebyjason.com/statistical-and-critical-thinking-in-statistics.html</id>
+            <category term="Statistics"/>
+
+        <updated>2023-08-24T23:12:46-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>Here are my notes and thoughts regarding statistical and critical thinking in Statistics.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Atomic Structures in Chemistry</title>
         <author>
@@ -18,7 +36,7 @@
         <id>https://sciencebyjason.com/atomic-structures-in-chemistry.html</id>
             <category term="Chemistry"/>
 
-        <updated>2023-07-12T22:34:56-05:00</updated>
+        <updated>2023-08-24T23:13:16-05:00</updated>
             <summary>
                 <![CDATA[
                     <p>These are my notes on atomic structures.</p>
@@ -36,7 +54,7 @@
         <id>https://sciencebyjason.com/organization-of-data-in-statistics.html</id>
             <category term="Statistics"/>
 
-        <updated>2023-07-11T21:29:15-05:00</updated>
+        <updated>2023-08-24T23:13:32-05:00</updated>
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">Statistics exist because of variations in data. It is our job to find meaning in this data. A frequency distribution is a good way to do this and one of the leys to organization of data in statistics. </span></p>
@@ -54,7 +72,7 @@
         <id>https://sciencebyjason.com/vectors-in-physics.html</id>
             <category term="Physics"/>
 
-        <updated>2023-06-16T21:44:15-05:00</updated>
+        <updated>2023-08-24T23:13:49-05:00</updated>
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">These are my notes and thoughts on vectors in physics.</span></p>
@@ -72,7 +90,7 @@
         <id>https://sciencebyjason.com/equations-with-two-variables-in-algebra.html</id>
             <category term="Algebra"/>
 
-        <updated>2023-05-17T20:01:32-05:00</updated>
+        <updated>2023-08-24T23:14:14-05:00</updated>
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">These are my notes on equations with two variables in Algebra.</span></p>
@@ -90,7 +108,7 @@
         <id>https://sciencebyjason.com/logarithmic-equations.html</id>
             <category term="Algebra"/>
 
-        <updated>2023-05-16T16:23:32-05:00</updated>
+        <updated>2023-08-24T23:14:32-05:00</updated>
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">These are my notes on logarithmic equations in Algebra.</span></p>
@@ -162,28 +180,10 @@
         <id>https://sciencebyjason.com/statistics-essentials.html</id>
             <category term="Statistics"/>
 
-        <updated>2023-07-11T21:30:36-05:00</updated>
+        <updated>2023-08-24T23:15:19-05:00</updated>
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">These are my notes on statistics essentials.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Logarithmic Functions In Algebra </title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/logarithmic-functions-in-algebra.html"/>
-        <id>https://sciencebyjason.com/logarithmic-functions-in-algebra.html</id>
-            <category term="Algebra"/>
-
-        <updated>2023-05-09T23:14:58-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">These are my notes on logarithmic functions in Algebra.</span></p>
 
                 ]]>
             </summary>
