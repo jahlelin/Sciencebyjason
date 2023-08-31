@@ -3,12 +3,30 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2023-08-24T23:15:19-05:00</updated>
+    <updated>2023-08-30T22:22:51-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>What Statistics Is All About</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/what-statistics-is-all-about.html"/>
+        <id>https://sciencebyjason.com/what-statistics-is-all-about.html</id>
+            <category term="Statistics"/>
+
+        <updated>2023-08-30T22:22:51-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">These are my notes and thoughts on what statistics is all about.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Statistical and Critical Thinking in Statistics</title>
         <author>
@@ -166,24 +184,6 @@
             <summary>
                 <![CDATA[
                     <p>These are my notes on statistics and problem solving.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Statistics Essentials</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/statistics-essentials.html"/>
-        <id>https://sciencebyjason.com/statistics-essentials.html</id>
-            <category term="Statistics"/>
-
-        <updated>2023-08-24T23:15:19-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">These are my notes on statistics essentials.</span></p>
 
                 ]]>
             </summary>
