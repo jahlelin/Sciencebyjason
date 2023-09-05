@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/working-with-tables-and-graphs-in-statistics.html",
+            "url": "https://sciencebyjason.com/working-with-tables-and-graphs-in-statistics.html",
+            "title": "Working with Tables and Graphs in Statistics",
+            "summary": "<p><span style=\"font-weight: 400;\">These are my notes and thoughts on working with tables and graphs in statistics.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Statistics"
+            ],
+            "date_published": "2023-09-05T12:56:28-05:00",
+            "date_modified": "2023-09-05T12:57:20-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/what-statistics-is-all-about.html",
             "url": "https://sciencebyjason.com/what-statistics-is-all-about.html",
             "title": "What Statistics Is All About",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2023-05-14T15:55:07-05:00",
             "date_modified": "2023-05-14T18:18:30-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/statistics-and-problem-solving.html",
-            "url": "https://sciencebyjason.com/statistics-and-problem-solving.html",
-            "title": "Statistics and Problem Solving",
-            "summary": "<p>These are my notes on statistics and problem solving.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Statistics"
-            ],
-            "date_published": "2023-05-12T16:21:28-05:00",
-            "date_modified": "2023-05-12T16:26:32-05:00"
         }
     ]
 }
