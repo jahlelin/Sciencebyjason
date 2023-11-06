@@ -3,12 +3,48 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2023-09-05T12:57:20-05:00</updated>
+    <updated>2023-11-05T21:11:24-06:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Measures of Variation in Statistics</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/measures-of-variation-in-statistics.html"/>
+        <id>https://sciencebyjason.com/measures-of-variation-in-statistics.html</id>
+            <category term="Statistics"/>
+
+        <updated>2023-11-05T21:11:24-06:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">These are my thoughts on measures of variation in statistics.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Measures of Center In Statistics</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/measures-of-center-in-statistics.html"/>
+        <id>https://sciencebyjason.com/measures-of-center-in-statistics.html</id>
+            <category term="Statistics"/>
+
+        <updated>2023-11-05T21:04:33-06:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>These are my thoughts about measures of center in statistics.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Working with Tables and Graphs in Statistics</title>
         <author>
@@ -148,42 +184,6 @@
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">These are my notes on logarithmic equations in Algebra.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Properties of Logarithms</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/properties-of-logarithms.html"/>
-        <id>https://sciencebyjason.com/properties-of-logarithms.html</id>
-            <category term="Algebra"/>
-
-        <updated>2023-05-14T18:18:17-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">These are my notes on properties of logarithms.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Collecting and Analyzing Data in Statistics</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/collecting-and-analyzing-data-in-statistics.html"/>
-        <id>https://sciencebyjason.com/collecting-and-analyzing-data-in-statistics.html</id>
-            <category term="Statistics"/>
-
-        <updated>2023-05-14T18:18:30-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">These are my notes on collecting and analyzing data in statistics.</span></p>
 
                 ]]>
             </summary>

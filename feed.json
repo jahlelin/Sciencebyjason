@@ -10,6 +10,34 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/measures-of-variation-in-statistics.html",
+            "url": "https://sciencebyjason.com/measures-of-variation-in-statistics.html",
+            "title": "Measures of Variation in Statistics",
+            "summary": "<p><span style=\"font-weight: 400;\">These are my thoughts on measures of variation in statistics.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Statistics"
+            ],
+            "date_published": "2023-11-05T21:01:33-06:00",
+            "date_modified": "2023-11-05T21:11:24-06:00"
+        },
+        {
+            "id": "https://sciencebyjason.com/measures-of-center-in-statistics.html",
+            "url": "https://sciencebyjason.com/measures-of-center-in-statistics.html",
+            "title": "Measures of Center In Statistics",
+            "summary": "<p>These are my thoughts about measures of center in statistics.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Statistics"
+            ],
+            "date_published": "2023-11-05T20:59:24-06:00",
+            "date_modified": "2023-11-05T21:04:33-06:00"
+        },
+        {
             "id": "https://sciencebyjason.com/working-with-tables-and-graphs-in-statistics.html",
             "url": "https://sciencebyjason.com/working-with-tables-and-graphs-in-statistics.html",
             "title": "Working with Tables and Graphs in Statistics",
@@ -120,34 +148,6 @@
             ],
             "date_published": "2023-05-16T16:13:44-05:00",
             "date_modified": "2023-08-24T23:14:32-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/properties-of-logarithms.html",
-            "url": "https://sciencebyjason.com/properties-of-logarithms.html",
-            "title": "Properties of Logarithms",
-            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on properties of logarithms.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Algebra"
-            ],
-            "date_published": "2023-05-14T17:36:42-05:00",
-            "date_modified": "2023-05-14T18:18:17-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/collecting-and-analyzing-data-in-statistics.html",
-            "url": "https://sciencebyjason.com/collecting-and-analyzing-data-in-statistics.html",
-            "title": "Collecting and Analyzing Data in Statistics",
-            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on collecting and analyzing data in statistics.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Statistics"
-            ],
-            "date_published": "2023-05-14T15:55:07-05:00",
-            "date_modified": "2023-05-14T18:18:30-05:00"
         }
     ]
 }
