@@ -10,6 +10,34 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/basics-of-probability.html",
+            "url": "https://sciencebyjason.com/basics-of-probability.html",
+            "title": "Basics of Probability",
+            "summary": "<p>Here are my thoughts on the basics of probability.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Statistics"
+            ],
+            "date_published": "2023-11-08T23:40:32-06:00",
+            "date_modified": "2023-11-08T23:43:04-06:00"
+        },
+        {
+            "id": "https://sciencebyjason.com/measure-of-relative-standing-in-statistics.html",
+            "url": "https://sciencebyjason.com/measure-of-relative-standing-in-statistics.html",
+            "title": "Measure of Relative Standing in Statistics",
+            "summary": "<p><span style=\"font-weight: 400;\">These are my thoughts on the measure of relative standing in statistics.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Statistics"
+            ],
+            "date_published": "2023-11-08T18:29:47-06:00",
+            "date_modified": "2023-11-08T23:42:34-06:00"
+        },
+        {
             "id": "https://sciencebyjason.com/measures-of-variation-in-statistics.html",
             "url": "https://sciencebyjason.com/measures-of-variation-in-statistics.html",
             "title": "Measures of Variation in Statistics",
@@ -120,34 +148,6 @@
             ],
             "date_published": "2023-06-16T20:40:26-05:00",
             "date_modified": "2023-08-24T23:13:49-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/equations-with-two-variables-in-algebra.html",
-            "url": "https://sciencebyjason.com/equations-with-two-variables-in-algebra.html",
-            "title": "Equations With Two Variables In Algebra",
-            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on equations with two variables in Algebra.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Algebra"
-            ],
-            "date_published": "2023-05-17T19:46:55-05:00",
-            "date_modified": "2023-08-24T23:14:14-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/logarithmic-equations.html",
-            "url": "https://sciencebyjason.com/logarithmic-equations.html",
-            "title": "Logarithmic Equations",
-            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on logarithmic equations in Algebra.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Algebra"
-            ],
-            "date_published": "2023-05-16T16:13:44-05:00",
-            "date_modified": "2023-08-24T23:14:32-05:00"
         }
     ]
 }
