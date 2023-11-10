@@ -3,12 +3,30 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2023-11-08T23:43:04-06:00</updated>
+    <updated>2023-11-09T23:06:01-06:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Useful Functions In R For Statistics Class</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/useful-functions-in-r-for-statistics-class.html"/>
+        <id>https://sciencebyjason.com/useful-functions-in-r-for-statistics-class.html</id>
+            <category term="Statistics"/>
+
+        <updated>2023-11-09T23:06:01-06:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">These are some useful functions in R for Statistics class as I needed them.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Basics of Probability</title>
         <author>
@@ -166,24 +184,6 @@
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">Statistics exist because of variations in data. It is our job to find meaning in this data. A frequency distribution is a good way to do this and one of the leys to organization of data in statistics. </span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Vectors in Physics</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/vectors-in-physics.html"/>
-        <id>https://sciencebyjason.com/vectors-in-physics.html</id>
-            <category term="Physics"/>
-
-        <updated>2023-08-24T23:13:49-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">These are my notes and thoughts on vectors in physics.</span></p>
 
                 ]]>
             </summary>
