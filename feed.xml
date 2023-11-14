@@ -3,25 +3,25 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2023-11-12T15:01:02-06:00</updated>
+    <updated>2023-11-13T20:14:34-06:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
     <entry>
-        <title>Useful Functions In R For Statistics Class</title>
+        <title>Addition and Multiplication of Probabilities</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://sciencebyjason.com/useful-functions-in-r-for-statistics-class.html"/>
-        <id>https://sciencebyjason.com/useful-functions-in-r-for-statistics-class.html</id>
+        <link href="https://sciencebyjason.com/addition-and-multiplication-of-probabilities.html"/>
+        <id>https://sciencebyjason.com/addition-and-multiplication-of-probabilities.html</id>
             <category term="Statistics"/>
 
-        <updated>2023-11-09T23:06:01-06:00</updated>
+        <updated>2023-11-13T20:14:34-06:00</updated>
             <summary>
                 <![CDATA[
-                    <p><span style="font-weight: 400;">These are some useful functions in R for Statistics class as I needed them.</span></p>
+                    <p><span style="font-weight: 400;">These are my notes on the addition and multiplication of probabilities.</span></p>
 
                 ]]>
             </summary>
