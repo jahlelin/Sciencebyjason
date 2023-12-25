@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/biology-essentials.html",
+            "url": "https://sciencebyjason.com/biology-essentials.html",
+            "title": "Biology Essentials",
+            "summary": "<p>These are my notes and guides on Biology essentials.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Biology"
+            ],
+            "date_published": "2023-12-24T20:55:28-06:00",
+            "date_modified": "2023-12-24T21:01:02-06:00"
+        },
+        {
             "id": "https://sciencebyjason.com/exploring-data-in-statistics.html",
             "url": "https://sciencebyjason.com/exploring-data-in-statistics.html",
             "title": "Exploring Data in Statistics",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2023-09-05T12:56:28-05:00",
             "date_modified": "2023-09-05T12:57:20-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/what-statistics-is-all-about.html",
-            "url": "https://sciencebyjason.com/what-statistics-is-all-about.html",
-            "title": "What Statistics Is All About",
-            "summary": "<p><span style=\"font-weight: 400;\">These are my notes and thoughts on what statistics is all about.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Statistics"
-            ],
-            "date_published": "2023-08-30T22:13:44-05:00",
-            "date_modified": "2023-08-30T22:22:51-05:00"
         }
     ]
 }
