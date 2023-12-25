@@ -46,7 +46,7 @@
 </url>
 <url>
 <loc>https://sciencebyjason.com/algebra-essentials.html</loc>
-<lastmod>2023-09-01T12:58:02-05:00</lastmod>
+<lastmod>2023-12-24T17:58:59-06:00</lastmod>
 <image:image>
 <image:loc>https://sciencebyjason.com/media\posts\40/Algebra-Essentials-0.png</image:loc>
 <image:title><![CDATA[algebra essentials]]></image:title>
@@ -54,7 +54,7 @@
 </url>
 <url>
 <loc>https://sciencebyjason.com/astronomy-essentials.html</loc>
-<lastmod>2023-09-01T12:59:02-05:00</lastmod>
+<lastmod>2023-12-24T18:00:42-06:00</lastmod>
 <image:image>
 <image:loc>https://sciencebyjason.com/media\posts\35/Astronomy-Essentials-0.png</image:loc>
 <image:title><![CDATA[Astronomy Essentials 0]]></image:title>
@@ -462,7 +462,7 @@
 </url>
 <url>
 <loc>https://sciencebyjason.com/calculus-essentials.html</loc>
-<lastmod>2023-09-01T12:58:43-05:00</lastmod>
+<lastmod>2023-12-24T18:00:10-06:00</lastmod>
 <image:image>
 <image:loc>https://sciencebyjason.com/media\posts\37/calculus-essentials-0.png</image:loc>
 <image:title><![CDATA[calculus essentials 0]]></image:title>
@@ -494,7 +494,7 @@
 </url>
 <url>
 <loc>https://sciencebyjason.com/chemistry-essentials.html</loc>
-<lastmod>2023-09-01T12:57:38-05:00</lastmod>
+<lastmod>2023-12-24T17:58:27-06:00</lastmod>
 <image:image>
 <image:loc>https://sciencebyjason.com/media\posts\49/cool-background.svg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -543,6 +543,10 @@
 <url>
 <loc>https://sciencebyjason.com/equations-with-two-variables-in-algebra.html</loc>
 <lastmod>2023-08-24T23:14:14-05:00</lastmod>
+</url>
+<url>
+<loc>https://sciencebyjason.com/exploring-data-in-statistics.html</loc>
+<lastmod>2023-12-24T17:20:10-06:00</lastmod>
 </url>
 <url>
 <loc>https://sciencebyjason.com/exponential-functions.html</loc>
@@ -797,10 +801,6 @@
 </image:image>
 </url>
 <url>
-<loc>https://sciencebyjason.com/introduction-to-statistics.html</loc>
-<lastmod>2023-12-08T20:20:20-06:00</lastmod>
-</url>
-<url>
 <loc>https://sciencebyjason.com/introduction-to-the-solar-system.html</loc>
 <lastmod>2023-04-23T23:05:45-05:00</lastmod>
 <image:image>
@@ -834,7 +834,7 @@
 </url>
 <url>
 <loc>https://sciencebyjason.com/latex-essentials.html</loc>
-<lastmod>2023-09-01T12:58:24-05:00</lastmod>
+<lastmod>2023-12-24T17:59:36-06:00</lastmod>
 <image:image>
 <image:loc>https://sciencebyjason.com/media\posts\38/latex-essentials-0.png</image:loc>
 <image:title><![CDATA[latex essentials 0]]></image:title>
@@ -1043,6 +1043,10 @@
 <url>
 <loc>https://sciencebyjason.com/statistics-and-problem-solving.html</loc>
 <lastmod>2023-05-12T16:26:32-05:00</lastmod>
+</url>
+<url>
+<loc>https://sciencebyjason.com/statistics-essentials.html</loc>
+<lastmod>2023-12-24T17:45:37-06:00</lastmod>
 </url>
 <url>
 <loc>https://sciencebyjason.com/the-cratered-world-of-mercury.html</loc>
