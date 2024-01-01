@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/systems-of-equations-in-two-variables.html",
+            "url": "https://sciencebyjason.com/systems-of-equations-in-two-variables.html",
+            "title": "Systems of Equations in Two Variables",
+            "summary": "<p><span style=\"font-weight: 400;\">This is my study guide where I work problems on systems of equations in two variables.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-01-01T16:31:09-06:00",
+            "date_modified": "2024-01-01T16:33:06-06:00"
+        },
+        {
             "id": "https://sciencebyjason.com/biology-essentials.html",
             "url": "https://sciencebyjason.com/biology-essentials.html",
             "title": "Biology Essentials",
@@ -134,20 +147,6 @@
             ],
             "date_published": "2023-11-05T20:59:24-06:00",
             "date_modified": "2023-11-05T21:04:33-06:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/working-with-tables-and-graphs-in-statistics.html",
-            "url": "https://sciencebyjason.com/working-with-tables-and-graphs-in-statistics.html",
-            "title": "Working with Tables and Graphs in Statistics",
-            "summary": "<p><span style=\"font-weight: 400;\">These are my notes and thoughts on working with tables and graphs in statistics.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Statistics"
-            ],
-            "date_published": "2023-09-05T12:56:28-05:00",
-            "date_modified": "2023-09-05T12:57:20-05:00"
         }
     ]
 }

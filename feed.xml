@@ -3,12 +3,29 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2023-12-24T21:01:02-06:00</updated>
+    <updated>2024-01-01T16:33:06-06:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Systems of Equations in Two Variables</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/systems-of-equations-in-two-variables.html"/>
+        <id>https://sciencebyjason.com/systems-of-equations-in-two-variables.html</id>
+
+        <updated>2024-01-01T16:33:06-06:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">This is my study guide where I work problems on systems of equations in two variables.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Biology Essentials</title>
         <author>
@@ -166,24 +183,6 @@
             <summary>
                 <![CDATA[
                     <p>These are my thoughts about measures of center in statistics.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Working with Tables and Graphs in Statistics</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/working-with-tables-and-graphs-in-statistics.html"/>
-        <id>https://sciencebyjason.com/working-with-tables-and-graphs-in-statistics.html</id>
-            <category term="Statistics"/>
-
-        <updated>2023-09-05T12:57:20-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">These are my notes and thoughts on working with tables and graphs in statistics.</span></p>
 
                 ]]>
             </summary>
