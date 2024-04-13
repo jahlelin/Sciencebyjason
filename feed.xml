@@ -3,12 +3,30 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2024-01-01T16:33:06-06:00</updated>
+    <updated>2024-04-12T19:14:03-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Kinematics in Physics</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/kinematics-in-physics.html"/>
+        <id>https://sciencebyjason.com/kinematics-in-physics.html</id>
+            <category term="Physics"/>
+
+        <updated>2024-04-12T19:14:03-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">These are my notes and worked examples of kinematics in physics.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Systems of Equations in Two Variables</title>
         <author>
@@ -165,24 +183,6 @@
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">These are my thoughts on measures of variation in statistics.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Measures of Center In Statistics</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/measures-of-center-in-statistics.html"/>
-        <id>https://sciencebyjason.com/measures-of-center-in-statistics.html</id>
-            <category term="Statistics"/>
-
-        <updated>2023-11-05T21:04:33-06:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>These are my thoughts about measures of center in statistics.</p>
 
                 ]]>
             </summary>

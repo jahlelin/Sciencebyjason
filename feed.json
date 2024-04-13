@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/kinematics-in-physics.html",
+            "url": "https://sciencebyjason.com/kinematics-in-physics.html",
+            "title": "Kinematics in Physics",
+            "summary": "<p><span style=\"font-weight: 400;\">These are my notes and worked examples of kinematics in physics.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Physics"
+            ],
+            "date_published": "2024-04-12T18:20:48-05:00",
+            "date_modified": "2024-04-12T19:14:03-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/systems-of-equations-in-two-variables.html",
             "url": "https://sciencebyjason.com/systems-of-equations-in-two-variables.html",
             "title": "Systems of Equations in Two Variables",
@@ -133,20 +147,6 @@
             ],
             "date_published": "2023-11-05T21:01:33-06:00",
             "date_modified": "2023-11-05T21:11:24-06:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/measures-of-center-in-statistics.html",
-            "url": "https://sciencebyjason.com/measures-of-center-in-statistics.html",
-            "title": "Measures of Center In Statistics",
-            "summary": "<p>These are my thoughts about measures of center in statistics.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Statistics"
-            ],
-            "date_published": "2023-11-05T20:59:24-06:00",
-            "date_modified": "2023-11-05T21:04:33-06:00"
         }
     ]
 }
