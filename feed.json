@@ -10,6 +10,33 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/an-introduction-to-french.html",
+            "url": "https://sciencebyjason.com/an-introduction-to-french.html",
+            "title": "An Introduction to French",
+            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on an introduction to French.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-05-03T16:42:42-05:00",
+            "date_modified": "2024-05-03T16:43:02-05:00"
+        },
+        {
+            "id": "https://sciencebyjason.com/properties-of-logarithms-2.html",
+            "url": "https://sciencebyjason.com/properties-of-logarithms-2.html",
+            "title": "Properties of Logarithms",
+            "summary": "<p> </p>\n<p><span style=\"font-weight: 400;\">These are my notes and worked examples of properties of logarithms.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Algebra"
+            ],
+            "date_published": "2024-05-03T14:39:26-05:00",
+            "date_modified": "2024-05-03T16:11:22-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/kinematics-in-physics.html",
             "url": "https://sciencebyjason.com/kinematics-in-physics.html",
             "title": "Kinematics in Physics",
@@ -119,34 +146,6 @@
             ],
             "date_published": "2023-11-08T23:40:32-06:00",
             "date_modified": "2023-11-12T15:01:02-06:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/measure-of-relative-standing-in-statistics.html",
-            "url": "https://sciencebyjason.com/measure-of-relative-standing-in-statistics.html",
-            "title": "Measure of Relative Standing in Statistics",
-            "summary": "<p><span style=\"font-weight: 400;\">These are my thoughts on the measure of relative standing in statistics.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Statistics"
-            ],
-            "date_published": "2023-11-08T18:29:47-06:00",
-            "date_modified": "2023-11-08T23:42:34-06:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/measures-of-variation-in-statistics.html",
-            "url": "https://sciencebyjason.com/measures-of-variation-in-statistics.html",
-            "title": "Measures of Variation in Statistics",
-            "summary": "<p><span style=\"font-weight: 400;\">These are my thoughts on measures of variation in statistics.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Statistics"
-            ],
-            "date_published": "2023-11-05T21:01:33-06:00",
-            "date_modified": "2023-11-05T21:11:24-06:00"
         }
     ]
 }
