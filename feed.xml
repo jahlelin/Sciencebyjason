@@ -3,12 +3,31 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2024-05-03T16:43:02-05:00</updated>
+    <updated>2024-05-13T18:48:29-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Falling Body Problems in Physics</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/falling-body-problems-in-physics.html"/>
+        <id>https://sciencebyjason.com/falling-body-problems-in-physics.html</id>
+            <category term="Physics"/>
+
+        <updated>2024-05-13T18:48:29-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p> </p>
+<p><span style="font-weight: 400;">These are my notes on falling body problems in physics.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>An Introduction to French</title>
         <author>
@@ -165,24 +184,6 @@
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">These are my notes on the addition and multiplication of probabilities.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Basics of Probability</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/basics-of-probability.html"/>
-        <id>https://sciencebyjason.com/basics-of-probability.html</id>
-            <category term="Statistics"/>
-
-        <updated>2023-11-12T15:01:02-06:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>Here are my thoughts on the basics of probability.</p>
 
                 ]]>
             </summary>
