@@ -3,12 +3,30 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2024-05-17T13:34:27-05:00</updated>
+    <updated>2024-06-04T23:10:48-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>What Is Statistics</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/what-is-statistics.html"/>
+        <id>https://sciencebyjason.com/what-is-statistics.html</id>
+            <category term="Statistics"/>
+
+        <updated>2024-06-04T23:10:48-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>These are my notes on what is statistics.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Falling Body Problems in Physics</title>
         <author>
@@ -166,24 +184,6 @@
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">These are my notes on complements and conditional probability.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Addition and Multiplication of Probabilities</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/addition-and-multiplication-of-probabilities.html"/>
-        <id>https://sciencebyjason.com/addition-and-multiplication-of-probabilities.html</id>
-            <category term="Statistics"/>
-
-        <updated>2023-11-13T20:14:34-06:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">These are my notes on the addition and multiplication of probabilities.</span></p>
 
                 ]]>
             </summary>

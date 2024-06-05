@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/what-is-statistics.html",
+            "url": "https://sciencebyjason.com/what-is-statistics.html",
+            "title": "What Is Statistics",
+            "summary": "<p>These are my notes on what is statistics.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Statistics"
+            ],
+            "date_published": "2024-06-04T23:10:09-05:00",
+            "date_modified": "2024-06-04T23:10:48-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/falling-body-problems-in-physics.html",
             "url": "https://sciencebyjason.com/falling-body-problems-in-physics.html",
             "title": "Falling Body Problems in Physics",
@@ -132,20 +146,6 @@
             ],
             "date_published": "2023-11-14T19:43:57-06:00",
             "date_modified": "2023-11-14T20:53:29-06:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/addition-and-multiplication-of-probabilities.html",
-            "url": "https://sciencebyjason.com/addition-and-multiplication-of-probabilities.html",
-            "title": "Addition and Multiplication of Probabilities",
-            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on the addition and multiplication of probabilities.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Statistics"
-            ],
-            "date_published": "2023-11-13T20:11:54-06:00",
-            "date_modified": "2023-11-13T20:14:34-06:00"
         }
     ]
 }
