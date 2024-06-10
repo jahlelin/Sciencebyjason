@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/displaying-and-describing-data-in-statistics.html",
+            "url": "https://sciencebyjason.com/displaying-and-describing-data-in-statistics.html",
+            "title": "Displaying and Describing Data in Statistics",
+            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on displaying and describing data in Statistics.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Statistics"
+            ],
+            "date_published": "2024-06-10T14:14:57-05:00",
+            "date_modified": "2024-06-10T14:15:44-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/what-is-statistics.html",
             "url": "https://sciencebyjason.com/what-is-statistics.html",
             "title": "What Is Statistics",
@@ -132,20 +146,6 @@
             ],
             "date_published": "2023-12-08T20:17:39-06:00",
             "date_modified": "2023-12-08T20:19:51-06:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/complements-and-conditional-probability-in-statistics.html",
-            "url": "https://sciencebyjason.com/complements-and-conditional-probability-in-statistics.html",
-            "title": "Complements and Conditional Probability in Statistics",
-            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on complements and conditional probability.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Statistics"
-            ],
-            "date_published": "2023-11-14T19:43:57-06:00",
-            "date_modified": "2023-11-14T20:53:29-06:00"
         }
     ]
 }
