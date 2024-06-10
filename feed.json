@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/relationships-between-categorical-variables-in-statistics.html",
+            "url": "https://sciencebyjason.com/relationships-between-categorical-variables-in-statistics.html",
+            "title": "Relationships Between Categorical Variables in Statistics",
+            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on relationships between categorical variables in statistics.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Statistics"
+            ],
+            "date_published": "2024-06-10T18:36:54-05:00",
+            "date_modified": "2024-06-10T18:37:12-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/displaying-and-describing-data-in-statistics.html",
             "url": "https://sciencebyjason.com/displaying-and-describing-data-in-statistics.html",
             "title": "Displaying and Describing Data in Statistics",
@@ -132,20 +146,6 @@
             ],
             "date_published": "2023-12-24T17:19:35-06:00",
             "date_modified": "2023-12-24T17:20:10-06:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/probability-distributions-in-statistics.html",
-            "url": "https://sciencebyjason.com/probability-distributions-in-statistics.html",
-            "title": "Probability Distributions in Statistics",
-            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on discrete probability distributions in statistics.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Statistics"
-            ],
-            "date_published": "2023-12-08T20:17:39-06:00",
-            "date_modified": "2023-12-08T20:19:51-06:00"
         }
     ]
 }
