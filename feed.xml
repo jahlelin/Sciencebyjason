@@ -3,12 +3,30 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2024-06-10T18:37:12-05:00</updated>
+    <updated>2024-06-11T18:35:41-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Comparing Distributions in Statistics</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/comparing-distributions-in-statistics.html"/>
+        <id>https://sciencebyjason.com/comparing-distributions-in-statistics.html</id>
+            <category term="Statistics"/>
+
+        <updated>2024-06-11T18:35:41-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">These are my notes on comparing distributions in Statistics.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Relationships Between Categorical Variables in Statistics</title>
         <author>
@@ -166,24 +184,6 @@
             <summary>
                 <![CDATA[
                     <p>These are my notes and guides on Biology essentials.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Exploring Data in Statistics</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/exploring-data-in-statistics.html"/>
-        <id>https://sciencebyjason.com/exploring-data-in-statistics.html</id>
-            <category term="Statistics"/>
-
-        <updated>2023-12-24T17:20:10-06:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">These are my notes on exploring data in statistics.</span></p>
 
                 ]]>
             </summary>

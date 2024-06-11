@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/comparing-distributions-in-statistics.html",
+            "url": "https://sciencebyjason.com/comparing-distributions-in-statistics.html",
+            "title": "Comparing Distributions in Statistics",
+            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on comparing distributions in Statistics.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Statistics"
+            ],
+            "date_published": "2024-06-11T18:34:11-05:00",
+            "date_modified": "2024-06-11T18:35:41-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/relationships-between-categorical-variables-in-statistics.html",
             "url": "https://sciencebyjason.com/relationships-between-categorical-variables-in-statistics.html",
             "title": "Relationships Between Categorical Variables in Statistics",
@@ -132,20 +146,6 @@
             ],
             "date_published": "2023-12-24T20:55:28-06:00",
             "date_modified": "2024-05-17T13:34:27-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/exploring-data-in-statistics.html",
-            "url": "https://sciencebyjason.com/exploring-data-in-statistics.html",
-            "title": "Exploring Data in Statistics",
-            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on exploring data in statistics.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Statistics"
-            ],
-            "date_published": "2023-12-24T17:19:35-06:00",
-            "date_modified": "2023-12-24T17:20:10-06:00"
         }
     ]
 }
