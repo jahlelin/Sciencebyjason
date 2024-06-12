@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/standard-deviation-in-statistics.html",
+            "url": "https://sciencebyjason.com/standard-deviation-in-statistics.html",
+            "title": "Standard Deviation in Statistics",
+            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on standard deviation in Statistics. </span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Statistics"
+            ],
+            "date_published": "2024-06-12T14:02:41-05:00",
+            "date_modified": "2024-06-12T14:04:47-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/comparing-distributions-in-statistics.html",
             "url": "https://sciencebyjason.com/comparing-distributions-in-statistics.html",
             "title": "Comparing Distributions in Statistics",
@@ -132,20 +146,6 @@
             ],
             "date_published": "2024-01-01T16:31:09-06:00",
             "date_modified": "2024-01-01T16:33:06-06:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/biology-essentials.html",
-            "url": "https://sciencebyjason.com/biology-essentials.html",
-            "title": "Biology Essentials",
-            "summary": "<p>These are my notes and guides on Biology essentials.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Biology"
-            ],
-            "date_published": "2023-12-24T20:55:28-06:00",
-            "date_modified": "2024-05-17T13:34:27-05:00"
         }
     ]
 }

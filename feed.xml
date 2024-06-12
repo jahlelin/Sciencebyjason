@@ -3,12 +3,30 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2024-06-11T18:35:41-05:00</updated>
+    <updated>2024-06-12T14:04:47-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Standard Deviation in Statistics</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/standard-deviation-in-statistics.html"/>
+        <id>https://sciencebyjason.com/standard-deviation-in-statistics.html</id>
+            <category term="Statistics"/>
+
+        <updated>2024-06-12T14:04:47-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">These are my notes on standard deviation in Statistics. </span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Comparing Distributions in Statistics</title>
         <author>
@@ -166,24 +184,6 @@
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">This is my study guide where I work problems on systems of equations in two variables.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Biology Essentials</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/biology-essentials.html"/>
-        <id>https://sciencebyjason.com/biology-essentials.html</id>
-            <category term="Biology"/>
-
-        <updated>2024-05-17T13:34:27-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>These are my notes and guides on Biology essentials.</p>
 
                 ]]>
             </summary>
