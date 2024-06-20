@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/univariate-data-in-statistics.html",
+            "url": "https://sciencebyjason.com/univariate-data-in-statistics.html",
+            "title": "Univariate Data in Statistics",
+            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on univariate data in Statistics.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Statistics"
+            ],
+            "date_published": "2024-06-20T17:53:23-05:00",
+            "date_modified": "2024-06-20T17:53:41-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/beginning-probability-in-statistics.html",
             "url": "https://sciencebyjason.com/beginning-probability-in-statistics.html",
             "title": "Beginning Probability in Statistics",
@@ -133,20 +147,6 @@
             ],
             "date_published": "2024-05-03T14:39:26-05:00",
             "date_modified": "2024-05-03T16:11:22-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/kinematics-in-physics.html",
-            "url": "https://sciencebyjason.com/kinematics-in-physics.html",
-            "title": "Kinematics in Physics",
-            "summary": "<p><span style=\"font-weight: 400;\">These are my notes and worked examples of kinematics in physics.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Physics"
-            ],
-            "date_published": "2024-04-12T18:20:48-05:00",
-            "date_modified": "2024-04-12T19:16:33-05:00"
         }
     ]
 }
