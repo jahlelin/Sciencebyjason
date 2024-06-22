@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/graphing-univariate-data.html",
+            "url": "https://sciencebyjason.com/graphing-univariate-data.html",
+            "title": "Graphing Univariate Data",
+            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on graphing univariate data.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Statistics"
+            ],
+            "date_published": "2024-06-21T21:50:45-05:00",
+            "date_modified": "2024-06-21T21:51:12-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/univariate-data-in-statistics.html",
             "url": "https://sciencebyjason.com/univariate-data-in-statistics.html",
             "title": "Univariate Data in Statistics",
@@ -133,20 +147,6 @@
             ],
             "date_published": "2024-05-03T16:42:42-05:00",
             "date_modified": "2024-05-16T13:18:17-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/properties-of-logarithms-2.html",
-            "url": "https://sciencebyjason.com/properties-of-logarithms-2.html",
-            "title": "Properties of Logarithms",
-            "summary": "<p> </p>\n<p><span style=\"font-weight: 400;\">These are my notes and worked examples of properties of logarithms.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Algebra"
-            ],
-            "date_published": "2024-05-03T14:39:26-05:00",
-            "date_modified": "2024-05-03T16:11:22-05:00"
         }
     ]
 }
