@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/numerical-methods-for-continuous-data-in-statistics.html",
+            "url": "https://sciencebyjason.com/numerical-methods-for-continuous-data-in-statistics.html",
+            "title": "Numerical Methods For Continuous Data in Statistics",
+            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on numerical methods for continuous data. </span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Statistics"
+            ],
+            "date_published": "2024-06-22T22:59:23-05:00",
+            "date_modified": "2024-06-22T23:00:14-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/graphing-univariate-data.html",
             "url": "https://sciencebyjason.com/graphing-univariate-data.html",
             "title": "Graphing Univariate Data",
@@ -134,19 +148,6 @@
             ],
             "date_published": "2024-05-13T18:47:51-05:00",
             "date_modified": "2024-05-13T18:48:29-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/an-introduction-to-french.html",
-            "url": "https://sciencebyjason.com/an-introduction-to-french.html",
-            "title": "An Introduction to French",
-            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on an introduction to French.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-05-03T16:42:42-05:00",
-            "date_modified": "2024-05-16T13:18:17-05:00"
         }
     ]
 }

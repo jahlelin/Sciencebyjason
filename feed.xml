@@ -3,12 +3,30 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2024-06-21T21:51:12-05:00</updated>
+    <updated>2024-06-22T23:00:14-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Numerical Methods For Continuous Data in Statistics</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/numerical-methods-for-continuous-data-in-statistics.html"/>
+        <id>https://sciencebyjason.com/numerical-methods-for-continuous-data-in-statistics.html</id>
+            <category term="Statistics"/>
+
+        <updated>2024-06-22T23:00:14-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">These are my notes on numerical methods for continuous data. </span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Graphing Univariate Data</title>
         <author>
@@ -167,23 +185,6 @@
                 <![CDATA[
                     <p> </p>
 <p><span style="font-weight: 400;">These are my notes on falling body problems in physics.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>An Introduction to French</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/an-introduction-to-french.html"/>
-        <id>https://sciencebyjason.com/an-introduction-to-french.html</id>
-
-        <updated>2024-05-16T13:18:17-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">These are my notes on an introduction to French.</span></p>
 
                 ]]>
             </summary>
