@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/joint-frequencies-of-two-way-tables.html",
+            "url": "https://sciencebyjason.com/joint-frequencies-of-two-way-tables.html",
+            "title": "Joint Frequencies of Two-Way Tables",
+            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on joint frequencies of two-way tables.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Statistics"
+            ],
+            "date_published": "2024-06-24T14:03:47-05:00",
+            "date_modified": "2024-06-24T14:04:36-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/numerical-methods-for-continuous-data-in-statistics.html",
             "url": "https://sciencebyjason.com/numerical-methods-for-continuous-data-in-statistics.html",
             "title": "Numerical Methods For Continuous Data in Statistics",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2024-06-04T23:10:09-05:00",
             "date_modified": "2024-06-04T23:10:48-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/falling-body-problems-in-physics.html",
-            "url": "https://sciencebyjason.com/falling-body-problems-in-physics.html",
-            "title": "Falling Body Problems in Physics",
-            "summary": "<p> </p>\n<p><span style=\"font-weight: 400;\">These are my notes on falling body problems in physics.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Physics"
-            ],
-            "date_published": "2024-05-13T18:47:51-05:00",
-            "date_modified": "2024-05-13T18:48:29-05:00"
         }
     ]
 }

@@ -3,12 +3,30 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2024-06-22T23:00:14-05:00</updated>
+    <updated>2024-06-24T14:04:36-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Joint Frequencies of Two-Way Tables</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/joint-frequencies-of-two-way-tables.html"/>
+        <id>https://sciencebyjason.com/joint-frequencies-of-two-way-tables.html</id>
+            <category term="Statistics"/>
+
+        <updated>2024-06-24T14:04:36-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">These are my notes on joint frequencies of two-way tables.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Numerical Methods For Continuous Data in Statistics</title>
         <author>
@@ -166,25 +184,6 @@
             <summary>
                 <![CDATA[
                     <p>These are my notes on what is statistics.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Falling Body Problems in Physics</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/falling-body-problems-in-physics.html"/>
-        <id>https://sciencebyjason.com/falling-body-problems-in-physics.html</id>
-            <category term="Physics"/>
-
-        <updated>2024-05-13T18:48:29-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p> </p>
-<p><span style="font-weight: 400;">These are my notes on falling body problems in physics.</span></p>
 
                 ]]>
             </summary>
