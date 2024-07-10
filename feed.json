@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/projectile-motion-in-physics.html",
+            "url": "https://sciencebyjason.com/projectile-motion-in-physics.html",
+            "title": "Projectile Motion In Physics",
+            "summary": "<p>These are my notes on projectile motion in physics.</p>\n",
+            "image": "https://sciencebyjason.com/media/posts/114/trianglify-lowres.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Physics"
+            ],
+            "date_published": "2024-07-10T18:03:41-05:00",
+            "date_modified": "2024-07-10T18:06:30-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/joint-frequencies-of-two-way-tables.html",
             "url": "https://sciencebyjason.com/joint-frequencies-of-two-way-tables.html",
             "title": "Joint Frequencies of Two-Way Tables",
@@ -134,20 +149,6 @@
             ],
             "date_published": "2024-06-10T14:14:57-05:00",
             "date_modified": "2024-06-10T14:15:44-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/what-is-statistics.html",
-            "url": "https://sciencebyjason.com/what-is-statistics.html",
-            "title": "What Is Statistics",
-            "summary": "<p>These are my notes on what is statistics.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Statistics"
-            ],
-            "date_published": "2024-06-04T23:10:09-05:00",
-            "date_modified": "2024-06-04T23:10:48-05:00"
         }
     ]
 }

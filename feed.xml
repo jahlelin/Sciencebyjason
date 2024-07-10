@@ -3,12 +3,31 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2024-06-24T14:04:36-05:00</updated>
+    <updated>2024-07-10T18:06:30-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Projectile Motion In Physics</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/projectile-motion-in-physics.html"/>
+        <id>https://sciencebyjason.com/projectile-motion-in-physics.html</id>
+            <category term="Physics"/>
+
+        <updated>2024-07-10T18:06:30-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sciencebyjason.com/media/posts/114/trianglify-lowres.png" alt="" />
+                    <p>These are my notes on projectile motion in physics.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Joint Frequencies of Two-Way Tables</title>
         <author>
@@ -166,24 +185,6 @@
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">These are my notes on displaying and describing data in Statistics.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>What Is Statistics</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/what-is-statistics.html"/>
-        <id>https://sciencebyjason.com/what-is-statistics.html</id>
-            <category term="Statistics"/>
-
-        <updated>2024-06-04T23:10:48-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>These are my notes on what is statistics.</p>
 
                 ]]>
             </summary>
