@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/methods-of-data-collection-in-statistics.html",
+            "url": "https://sciencebyjason.com/methods-of-data-collection-in-statistics.html",
+            "title": "Methods Of Data Collection In Statistics",
+            "summary": "<p>These are my notes on methods of data collection in statistics.</p>\n",
+            "image": "https://sciencebyjason.com/media/posts/115/trianglify-lowres5.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Statistics"
+            ],
+            "date_published": "2024-07-12T18:07:27-05:00",
+            "date_modified": "2024-07-12T18:09:08-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/projectile-motion-in-physics.html",
             "url": "https://sciencebyjason.com/projectile-motion-in-physics.html",
             "title": "Projectile Motion In Physics",
@@ -135,20 +150,6 @@
             ],
             "date_published": "2024-06-10T18:36:54-05:00",
             "date_modified": "2024-06-10T18:37:12-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/displaying-and-describing-data-in-statistics.html",
-            "url": "https://sciencebyjason.com/displaying-and-describing-data-in-statistics.html",
-            "title": "Displaying and Describing Data in Statistics",
-            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on displaying and describing data in Statistics.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Statistics"
-            ],
-            "date_published": "2024-06-10T14:14:57-05:00",
-            "date_modified": "2024-06-10T14:15:44-05:00"
         }
     ]
 }

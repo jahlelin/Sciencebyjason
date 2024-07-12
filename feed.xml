@@ -3,12 +3,31 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2024-07-10T21:54:51-05:00</updated>
+    <updated>2024-07-12T18:09:08-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Methods Of Data Collection In Statistics</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/methods-of-data-collection-in-statistics.html"/>
+        <id>https://sciencebyjason.com/methods-of-data-collection-in-statistics.html</id>
+            <category term="Statistics"/>
+
+        <updated>2024-07-12T18:09:08-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sciencebyjason.com/media/posts/115/trianglify-lowres5.png" alt="" />
+                    <p>These are my notes on methods of data collection in statistics.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Projectile Motion In Physics</title>
         <author>
@@ -167,24 +186,6 @@
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">These are my notes on relationships between categorical variables in statistics.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Displaying and Describing Data in Statistics</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/displaying-and-describing-data-in-statistics.html"/>
-        <id>https://sciencebyjason.com/displaying-and-describing-data-in-statistics.html</id>
-            <category term="Statistics"/>
-
-        <updated>2024-06-10T14:15:44-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">These are my notes on displaying and describing data in Statistics.</span></p>
 
                 ]]>
             </summary>
