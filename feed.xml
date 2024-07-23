@@ -3,12 +3,31 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2024-07-12T18:09:08-05:00</updated>
+    <updated>2024-07-22T22:52:55-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Probability In Statistics</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/probability-in-statistics.html"/>
+        <id>https://sciencebyjason.com/probability-in-statistics.html</id>
+            <category term="Statistics"/>
+
+        <updated>2024-07-22T22:52:55-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sciencebyjason.com/media/posts/116/trianglify-lowres8.png" alt="" />
+                    <p>These are my notes on probability in statistics.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Methods Of Data Collection In Statistics</title>
         <author>
@@ -168,24 +187,6 @@
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">These are my notes on comparing distributions in Statistics.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Relationships Between Categorical Variables in Statistics</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/relationships-between-categorical-variables-in-statistics.html"/>
-        <id>https://sciencebyjason.com/relationships-between-categorical-variables-in-statistics.html</id>
-            <category term="Statistics"/>
-
-        <updated>2024-06-10T18:37:12-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">These are my notes on relationships between categorical variables in statistics.</span></p>
 
                 ]]>
             </summary>
