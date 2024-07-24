@@ -3,12 +3,31 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2024-07-22T22:52:55-05:00</updated>
+    <updated>2024-07-23T22:08:03-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Linear Equations With Three Variables</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/linear-equations-with-three-variables.html"/>
+        <id>https://sciencebyjason.com/linear-equations-with-three-variables.html</id>
+            <category term="Algebra"/>
+
+        <updated>2024-07-23T22:08:03-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sciencebyjason.com/media/posts/117/trianglify-lowres9.png" alt="" />
+                    <p>These are my notes on linear equations with three variables.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Probability In Statistics</title>
         <author>
@@ -169,24 +188,6 @@
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">These are my notes on standard deviation in Statistics. </span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Comparing Distributions in Statistics</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/comparing-distributions-in-statistics.html"/>
-        <id>https://sciencebyjason.com/comparing-distributions-in-statistics.html</id>
-            <category term="Statistics"/>
-
-        <updated>2024-06-11T18:35:41-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">These are my notes on comparing distributions in Statistics.</span></p>
 
                 ]]>
             </summary>
