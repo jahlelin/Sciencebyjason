@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/functions-and-notation-in-precalculus.html",
+            "url": "https://sciencebyjason.com/functions-and-notation-in-precalculus.html",
+            "title": "Functions and Notation in Precalculus",
+            "summary": "<p>These are my notes on functions and notation in precalculus.</p>\n",
+            "image": "https://sciencebyjason.com/media/posts/118/trianglify-lowres11.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "precalculus"
+            ],
+            "date_published": "2024-07-26T13:36:45-05:00",
+            "date_modified": "2024-07-26T13:37:18-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/linear-equations-with-three-variables.html",
             "url": "https://sciencebyjason.com/linear-equations-with-three-variables.html",
             "title": "Linear Equations With Three Variables",
@@ -138,20 +153,6 @@
             ],
             "date_published": "2024-06-14T12:39:27-05:00",
             "date_modified": "2024-06-14T12:40:17-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/standard-deviation-in-statistics.html",
-            "url": "https://sciencebyjason.com/standard-deviation-in-statistics.html",
-            "title": "Standard Deviation in Statistics",
-            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on standard deviation in Statistics. </span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Statistics"
-            ],
-            "date_published": "2024-06-12T14:02:41-05:00",
-            "date_modified": "2024-06-12T14:04:47-05:00"
         }
     ]
 }
