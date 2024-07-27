@@ -3,12 +3,31 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2024-07-26T13:37:18-05:00</updated>
+    <updated>2024-07-26T19:43:09-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Forces In Physics</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/forces-in-physics.html"/>
+        <id>https://sciencebyjason.com/forces-in-physics.html</id>
+            <category term="Physics"/>
+
+        <updated>2024-07-26T19:43:09-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sciencebyjason.com/media/posts/119/trianglify-lowres12.png" alt="" />
+                    <p>These are my notes on forces in physics.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Functions and Notation in Precalculus</title>
         <author>
@@ -171,24 +190,6 @@
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">These are my notes on univariate data in Statistics.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Beginning Probability in Statistics</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/beginning-probability-in-statistics.html"/>
-        <id>https://sciencebyjason.com/beginning-probability-in-statistics.html</id>
-            <category term="Statistics"/>
-
-        <updated>2024-06-14T12:40:17-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">These are my notes on beginning probability in statistics.</span></p>
 
                 ]]>
             </summary>

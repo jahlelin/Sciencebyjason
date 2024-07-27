@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/forces-in-physics.html",
+            "url": "https://sciencebyjason.com/forces-in-physics.html",
+            "title": "Forces In Physics",
+            "summary": "<p>These are my notes on forces in physics.</p>\n",
+            "image": "https://sciencebyjason.com/media/posts/119/trianglify-lowres12.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Physics"
+            ],
+            "date_published": "2024-07-26T19:36:56-05:00",
+            "date_modified": "2024-07-26T19:43:09-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/functions-and-notation-in-precalculus.html",
             "url": "https://sciencebyjason.com/functions-and-notation-in-precalculus.html",
             "title": "Functions and Notation in Precalculus",
@@ -139,20 +154,6 @@
             ],
             "date_published": "2024-06-20T17:53:23-05:00",
             "date_modified": "2024-06-20T17:53:41-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/beginning-probability-in-statistics.html",
-            "url": "https://sciencebyjason.com/beginning-probability-in-statistics.html",
-            "title": "Beginning Probability in Statistics",
-            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on beginning probability in statistics.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Statistics"
-            ],
-            "date_published": "2024-06-14T12:39:27-05:00",
-            "date_modified": "2024-06-14T12:40:17-05:00"
         }
     ]
 }
