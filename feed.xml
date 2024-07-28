@@ -3,12 +3,31 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2024-07-26T19:43:09-05:00</updated>
+    <updated>2024-07-28T18:20:52-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Domain and Range in Precalculus</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/domain-and-range-in-precalculus.html"/>
+        <id>https://sciencebyjason.com/domain-and-range-in-precalculus.html</id>
+            <category term="precalculus"/>
+
+        <updated>2024-07-28T18:20:52-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sciencebyjason.com/media/posts/120/trianglify-lowres12.png" alt="" />
+                    <p>These are my notes on domain and range in precalculus.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Forces In Physics</title>
         <author>
@@ -172,24 +191,6 @@
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">These are my notes on graphing univariate data.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Univariate Data in Statistics</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/univariate-data-in-statistics.html"/>
-        <id>https://sciencebyjason.com/univariate-data-in-statistics.html</id>
-            <category term="Statistics"/>
-
-        <updated>2024-06-20T17:53:41-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">These are my notes on univariate data in Statistics.</span></p>
 
                 ]]>
             </summary>
