@@ -46,7 +46,7 @@
 </url>
 <url>
 <loc>https://sciencebyjason.com/algebra-essentials.html</loc>
-<lastmod>2024-07-23T22:09:58-05:00</lastmod>
+<lastmod>2024-07-29T13:47:46-05:00</lastmod>
 <image:image>
 <image:loc>https://sciencebyjason.com/media\posts\40/Algebra-Essentials-0.png</image:loc>
 <image:title><![CDATA[algebra essentials]]></image:title>
@@ -58,7 +58,7 @@
 </url>
 <url>
 <loc>https://sciencebyjason.com/astronomy-essentials.html</loc>
-<lastmod>2024-05-17T13:38:20-05:00</lastmod>
+<lastmod>2024-07-29T13:47:26-05:00</lastmod>
 <image:image>
 <image:loc>https://sciencebyjason.com/media\posts\35/Astronomy-Essentials-0.png</image:loc>
 <image:title><![CDATA[Astronomy Essentials 0]]></image:title>
@@ -506,7 +506,7 @@
 </url>
 <url>
 <loc>https://sciencebyjason.com/chemistry-essentials.html</loc>
-<lastmod>2024-05-17T13:41:57-05:00</lastmod>
+<lastmod>2024-07-29T13:48:49-05:00</lastmod>
 <image:image>
 <image:loc>https://sciencebyjason.com/media\posts\49/cool-background.svg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -1041,7 +1041,7 @@
 </url>
 <url>
 <loc>https://sciencebyjason.com/physics-essentials.html</loc>
-<lastmod>2024-07-26T19:39:36-05:00</lastmod>
+<lastmod>2024-07-29T13:48:07-05:00</lastmod>
 <image:image>
 <image:loc>https://sciencebyjason.com/media\posts\43/Measurements-and-Uncertainty-in-Physics-0.png</image:loc>
 <image:title><![CDATA[Measurements and Uncertainty in Physics]]></image:title>
@@ -1132,6 +1132,14 @@
 </image:image>
 </url>
 <url>
+<loc>https://sciencebyjason.com/rates-of-change-in-precalculus.html</loc>
+<lastmod>2024-07-29T13:21:14-05:00</lastmod>
+<image:image>
+<image:loc>https://sciencebyjason.com/media\posts\121/trianglify-lowres13.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://sciencebyjason.com/relationships-between-categorical-variables-in-statistics.html</loc>
 <lastmod>2024-06-10T18:37:12-05:00</lastmod>
 </url>
@@ -1157,7 +1165,7 @@
 </url>
 <url>
 <loc>https://sciencebyjason.com/statistics-essentials.html</loc>
-<lastmod>2024-07-22T22:53:48-05:00</lastmod>
+<lastmod>2024-07-29T13:49:08-05:00</lastmod>
 </url>
 <url>
 <loc>https://sciencebyjason.com/systems-of-equations-in-two-variables.html</loc>

@@ -3,12 +3,31 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2024-07-28T18:20:52-05:00</updated>
+    <updated>2024-07-29T13:21:14-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Rates of Change in Precalculus</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/rates-of-change-in-precalculus.html"/>
+        <id>https://sciencebyjason.com/rates-of-change-in-precalculus.html</id>
+            <category term="precalculus"/>
+
+        <updated>2024-07-29T13:21:14-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sciencebyjason.com/media/posts/121/trianglify-lowres13.png" alt="" />
+                    <p>These are my notes on rates of change in precalculus.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Domain and Range in Precalculus</title>
         <author>
@@ -173,24 +192,6 @@
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">These are my notes on numerical methods for continuous data. </span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Graphing Univariate Data</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/graphing-univariate-data.html"/>
-        <id>https://sciencebyjason.com/graphing-univariate-data.html</id>
-            <category term="Statistics"/>
-
-        <updated>2024-06-21T21:51:12-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">These are my notes on graphing univariate data.</span></p>
 
                 ]]>
             </summary>

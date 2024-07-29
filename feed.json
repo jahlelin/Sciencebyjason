@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/rates-of-change-in-precalculus.html",
+            "url": "https://sciencebyjason.com/rates-of-change-in-precalculus.html",
+            "title": "Rates of Change in Precalculus",
+            "summary": "<p>These are my notes on rates of change in precalculus.</p>\n",
+            "image": "https://sciencebyjason.com/media/posts/121/trianglify-lowres13.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "precalculus"
+            ],
+            "date_published": "2024-07-29T13:05:19-05:00",
+            "date_modified": "2024-07-29T13:21:14-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/domain-and-range-in-precalculus.html",
             "url": "https://sciencebyjason.com/domain-and-range-in-precalculus.html",
             "title": "Domain and Range in Precalculus",
@@ -141,20 +156,6 @@
             ],
             "date_published": "2024-06-22T22:59:23-05:00",
             "date_modified": "2024-06-22T23:00:14-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/graphing-univariate-data.html",
-            "url": "https://sciencebyjason.com/graphing-univariate-data.html",
-            "title": "Graphing Univariate Data",
-            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on graphing univariate data.</span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Statistics"
-            ],
-            "date_published": "2024-06-21T21:50:45-05:00",
-            "date_modified": "2024-06-21T21:51:12-05:00"
         }
     ]
 }
