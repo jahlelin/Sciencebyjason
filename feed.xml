@@ -3,12 +3,31 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2024-07-29T21:27:58-05:00</updated>
+    <updated>2024-07-31T14:00:57-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Composition of Functions in Precalculus</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/composition-of-functions-in-precalculus.html"/>
+        <id>https://sciencebyjason.com/composition-of-functions-in-precalculus.html</id>
+            <category term="precalculus"/>
+
+        <updated>2024-07-31T14:00:57-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sciencebyjason.com/media/posts/122/trianglify-lowres13.png" alt="" />
+                    <p>These are my notes on composition of functions in precalculus.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Rates of Change in Precalculus</title>
         <author>
@@ -174,24 +193,6 @@
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">These are my notes on joint frequencies of two-way tables.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Numerical Methods For Continuous Data in Statistics</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/numerical-methods-for-continuous-data-in-statistics.html"/>
-        <id>https://sciencebyjason.com/numerical-methods-for-continuous-data-in-statistics.html</id>
-            <category term="Statistics"/>
-
-        <updated>2024-07-29T21:27:58-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">These are my notes on numerical methods for continuous data. </span></p>
 
                 ]]>
             </summary>

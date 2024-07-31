@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/composition-of-functions-in-precalculus.html",
+            "url": "https://sciencebyjason.com/composition-of-functions-in-precalculus.html",
+            "title": "Composition of Functions in Precalculus",
+            "summary": "<p>These are my notes on composition of functions in precalculus.</p>\n",
+            "image": "https://sciencebyjason.com/media/posts/122/trianglify-lowres13.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "precalculus"
+            ],
+            "date_published": "2024-07-31T13:59:12-05:00",
+            "date_modified": "2024-07-31T14:00:57-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/rates-of-change-in-precalculus.html",
             "url": "https://sciencebyjason.com/rates-of-change-in-precalculus.html",
             "title": "Rates of Change in Precalculus",
@@ -142,20 +157,6 @@
             ],
             "date_published": "2024-06-24T14:03:47-05:00",
             "date_modified": "2024-07-29T21:27:32-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/numerical-methods-for-continuous-data-in-statistics.html",
-            "url": "https://sciencebyjason.com/numerical-methods-for-continuous-data-in-statistics.html",
-            "title": "Numerical Methods For Continuous Data in Statistics",
-            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on numerical methods for continuous data. </span></p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Statistics"
-            ],
-            "date_published": "2024-06-22T22:59:23-05:00",
-            "date_modified": "2024-07-29T21:27:58-05:00"
         }
     ]
 }
