@@ -3,12 +3,31 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2024-07-31T14:00:57-05:00</updated>
+    <updated>2024-08-02T13:59:07-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Transformation of Functions in Precalculus</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/transformation-of-functions-in-precalculus.html"/>
+        <id>https://sciencebyjason.com/transformation-of-functions-in-precalculus.html</id>
+            <category term="precalculus"/>
+
+        <updated>2024-08-02T13:59:07-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sciencebyjason.com/media/posts/123/trianglify-lowres1.png" alt="" />
+                    <p>These are my notes on transformation of functions in precalculus.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Composition of Functions in Precalculus</title>
         <author>
@@ -175,24 +194,6 @@
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/114/trianglify-lowres.png" alt="" />
                     <p>These are my notes on projectile motion in physics.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Joint Frequencies of Two-Way Tables</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/joint-frequencies-of-two-way-tables.html"/>
-        <id>https://sciencebyjason.com/joint-frequencies-of-two-way-tables.html</id>
-            <category term="Statistics"/>
-
-        <updated>2024-07-29T21:27:32-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">These are my notes on joint frequencies of two-way tables.</span></p>
 
                 ]]>
             </summary>
