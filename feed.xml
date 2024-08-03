@@ -3,12 +3,31 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2024-08-02T13:59:07-05:00</updated>
+    <updated>2024-08-02T22:12:35-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Atomic Weights in Chemistry</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/atomic-weights-in-chemistry.html"/>
+        <id>https://sciencebyjason.com/atomic-weights-in-chemistry.html</id>
+            <category term="Chemistry"/>
+
+        <updated>2024-08-02T22:12:35-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sciencebyjason.com/media/posts/124/trianglify-lowres1.png" alt="" />
+                    <p>These are my notes on atomic weights in chemistry.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Transformation of Functions in Precalculus</title>
         <author>
@@ -175,25 +194,6 @@
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/115/trianglify-lowres5.png" alt="" />
                     <p>These are my notes on methods of data collection in statistics.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Projectile Motion In Physics</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/projectile-motion-in-physics.html"/>
-        <id>https://sciencebyjason.com/projectile-motion-in-physics.html</id>
-            <category term="Physics"/>
-
-        <updated>2024-07-29T21:26:55-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sciencebyjason.com/media/posts/114/trianglify-lowres.png" alt="" />
-                    <p>These are my notes on projectile motion in physics.</p>
 
                 ]]>
             </summary>

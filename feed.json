@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/atomic-weights-in-chemistry.html",
+            "url": "https://sciencebyjason.com/atomic-weights-in-chemistry.html",
+            "title": "Atomic Weights in Chemistry",
+            "summary": "<p>These are my notes on atomic weights in chemistry.</p>\n",
+            "image": "https://sciencebyjason.com/media/posts/124/trianglify-lowres1.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Chemistry"
+            ],
+            "date_published": "2024-08-02T22:11:50-05:00",
+            "date_modified": "2024-08-02T22:12:35-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/transformation-of-functions-in-precalculus.html",
             "url": "https://sciencebyjason.com/transformation-of-functions-in-precalculus.html",
             "title": "Transformation of Functions in Precalculus",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2024-07-12T18:07:27-05:00",
             "date_modified": "2024-07-29T21:26:33-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/projectile-motion-in-physics.html",
-            "url": "https://sciencebyjason.com/projectile-motion-in-physics.html",
-            "title": "Projectile Motion In Physics",
-            "summary": "<p>These are my notes on projectile motion in physics.</p>\n",
-            "image": "https://sciencebyjason.com/media/posts/114/trianglify-lowres.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Physics"
-            ],
-            "date_published": "2024-07-10T18:03:41-05:00",
-            "date_modified": "2024-07-29T21:26:55-05:00"
         }
     ]
 }
