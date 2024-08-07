@@ -3,12 +3,50 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2024-08-02T22:12:35-05:00</updated>
+    <updated>2024-08-07T17:53:39-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Introduction to Precalculus</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/introduction-to-precalculus.html"/>
+        <id>https://sciencebyjason.com/introduction-to-precalculus.html</id>
+            <category term="precalculus"/>
+
+        <updated>2024-08-07T17:53:39-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sciencebyjason.com/media/posts/126/trianglify-lowres2.png" alt="" />
+                    <p>These are my notes on an Introduction to Precalculus.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Quadratic Models in Precalculus</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/quadratic-models-in-precalculus.html"/>
+        <id>https://sciencebyjason.com/quadratic-models-in-precalculus.html</id>
+            <category term="precalculus"/>
+
+        <updated>2024-08-07T17:51:11-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sciencebyjason.com/media/posts/125/trianglify-lowres2.png" alt="" />
+                    <p>These are my notes on quadratic models in precalculus.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Atomic Weights in Chemistry</title>
         <author>
@@ -37,7 +75,7 @@
         <id>https://sciencebyjason.com/transformation-of-functions-in-precalculus.html</id>
             <category term="precalculus"/>
 
-        <updated>2024-08-02T13:59:07-05:00</updated>
+        <updated>2024-08-07T17:48:19-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/123/trianglify-lowres1.png" alt="" />
@@ -56,7 +94,7 @@
         <id>https://sciencebyjason.com/composition-of-functions-in-precalculus.html</id>
             <category term="precalculus"/>
 
-        <updated>2024-07-31T14:00:57-05:00</updated>
+        <updated>2024-08-07T17:47:29-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/122/trianglify-lowres13.png" alt="" />
@@ -75,7 +113,7 @@
         <id>https://sciencebyjason.com/rates-of-change-in-precalculus.html</id>
             <category term="precalculus"/>
 
-        <updated>2024-07-29T21:24:17-05:00</updated>
+        <updated>2024-08-07T17:46:37-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/121/trianglify-lowres13.png" alt="" />
@@ -94,7 +132,7 @@
         <id>https://sciencebyjason.com/domain-and-range-in-precalculus.html</id>
             <category term="precalculus"/>
 
-        <updated>2024-07-29T21:24:38-05:00</updated>
+        <updated>2024-08-07T17:45:28-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/120/trianglify-lowres12.png" alt="" />
@@ -132,7 +170,7 @@
         <id>https://sciencebyjason.com/functions-and-notation-in-precalculus.html</id>
             <category term="precalculus"/>
 
-        <updated>2024-07-29T21:25:21-05:00</updated>
+        <updated>2024-08-07T17:44:28-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/118/trianglify-lowres11.png" alt="" />
@@ -156,44 +194,6 @@
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/117/trianglify-lowres9.png" alt="" />
                     <p>These are my notes on linear equations with three variables.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Probability In Statistics</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/probability-in-statistics.html"/>
-        <id>https://sciencebyjason.com/probability-in-statistics.html</id>
-            <category term="Statistics"/>
-
-        <updated>2024-07-29T21:26:10-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sciencebyjason.com/media/posts/116/trianglify-lowres8.png" alt="" />
-                    <p>These are my notes on probability in statistics.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Methods Of Data Collection In Statistics</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/methods-of-data-collection-in-statistics.html"/>
-        <id>https://sciencebyjason.com/methods-of-data-collection-in-statistics.html</id>
-            <category term="Statistics"/>
-
-        <updated>2024-07-29T21:26:33-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sciencebyjason.com/media/posts/115/trianglify-lowres5.png" alt="" />
-                    <p>These are my notes on methods of data collection in statistics.</p>
 
                 ]]>
             </summary>
