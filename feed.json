@@ -10,6 +10,36 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/what-is-electronics.html",
+            "url": "https://sciencebyjason.com/what-is-electronics.html",
+            "title": "What is Electronics",
+            "summary": "<p>These are my notes on what is electronics.</p>\n",
+            "image": "https://sciencebyjason.com/media/posts/128/trianglify-lowres3.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "electronics"
+            ],
+            "date_published": "2024-08-08T21:33:46-05:00",
+            "date_modified": "2024-08-08T21:34:58-05:00"
+        },
+        {
+            "id": "https://sciencebyjason.com/introduction-to-electronics.html",
+            "url": "https://sciencebyjason.com/introduction-to-electronics.html",
+            "title": "Introduction to Electronics",
+            "summary": "<p>These are my notes on an introduction to electronics.</p>\n",
+            "image": "https://sciencebyjason.com/media/posts/127/trianglify-lowres3.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "electronics"
+            ],
+            "date_published": "2024-08-07T18:07:07-05:00",
+            "date_modified": "2024-08-08T21:36:02-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/introduction-to-precalculus.html",
             "url": "https://sciencebyjason.com/introduction-to-precalculus.html",
             "title": "Introduction to Precalculus",
@@ -128,36 +158,6 @@
             ],
             "date_published": "2024-07-26T19:36:56-05:00",
             "date_modified": "2024-07-29T21:24:59-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/functions-and-notation-in-precalculus.html",
-            "url": "https://sciencebyjason.com/functions-and-notation-in-precalculus.html",
-            "title": "Functions and Notation in Precalculus",
-            "summary": "<p>These are my notes on functions and notation in precalculus.</p>\n",
-            "image": "https://sciencebyjason.com/media/posts/118/trianglify-lowres11.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "precalculus"
-            ],
-            "date_published": "2024-07-26T13:36:45-05:00",
-            "date_modified": "2024-08-07T17:44:28-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/linear-equations-with-three-variables.html",
-            "url": "https://sciencebyjason.com/linear-equations-with-three-variables.html",
-            "title": "Linear Equations With Three Variables",
-            "summary": "<p>These are my notes on linear equations with three variables.</p>\n",
-            "image": "https://sciencebyjason.com/media/posts/117/trianglify-lowres9.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Algebra"
-            ],
-            "date_published": "2024-07-23T22:06:50-05:00",
-            "date_modified": "2024-07-29T21:25:44-05:00"
         }
     ]
 }

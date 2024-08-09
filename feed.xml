@@ -3,12 +3,50 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2024-08-07T17:53:39-05:00</updated>
+    <updated>2024-08-08T21:36:02-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>What is Electronics</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/what-is-electronics.html"/>
+        <id>https://sciencebyjason.com/what-is-electronics.html</id>
+            <category term="electronics"/>
+
+        <updated>2024-08-08T21:34:58-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sciencebyjason.com/media/posts/128/trianglify-lowres3.png" alt="" />
+                    <p>These are my notes on what is electronics.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Introduction to Electronics</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/introduction-to-electronics.html"/>
+        <id>https://sciencebyjason.com/introduction-to-electronics.html</id>
+            <category term="electronics"/>
+
+        <updated>2024-08-08T21:36:02-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sciencebyjason.com/media/posts/127/trianglify-lowres3.png" alt="" />
+                    <p>These are my notes on an introduction to electronics.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Introduction to Precalculus</title>
         <author>
@@ -156,44 +194,6 @@
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/119/trianglify-lowres12.png" alt="" />
                     <p>These are my notes on forces in physics.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Functions and Notation in Precalculus</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/functions-and-notation-in-precalculus.html"/>
-        <id>https://sciencebyjason.com/functions-and-notation-in-precalculus.html</id>
-            <category term="precalculus"/>
-
-        <updated>2024-08-07T17:44:28-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sciencebyjason.com/media/posts/118/trianglify-lowres11.png" alt="" />
-                    <p>These are my notes on functions and notation in precalculus.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Linear Equations With Three Variables</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/linear-equations-with-three-variables.html"/>
-        <id>https://sciencebyjason.com/linear-equations-with-three-variables.html</id>
-            <category term="Algebra"/>
-
-        <updated>2024-07-29T21:25:44-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sciencebyjason.com/media/posts/117/trianglify-lowres9.png" alt="" />
-                    <p>These are my notes on linear equations with three variables.</p>
 
                 ]]>
             </summary>
