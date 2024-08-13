@@ -3,12 +3,31 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2024-08-08T21:36:02-05:00</updated>
+    <updated>2024-08-12T19:23:41-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Inequalities with Quadratic Functions</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/inequalities-with-quadratic-functions.html"/>
+        <id>https://sciencebyjason.com/inequalities-with-quadratic-functions.html</id>
+            <category term="precalculus"/>
+
+        <updated>2024-08-12T19:22:47-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sciencebyjason.com/media/posts/129/trianglify-lowres3.png" alt="" />
+                    <p>These are my notes on inequalities with quadratic functions.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>What is Electronics</title>
         <author>
@@ -56,7 +75,7 @@
         <id>https://sciencebyjason.com/introduction-to-precalculus.html</id>
             <category term="precalculus"/>
 
-        <updated>2024-08-07T17:53:39-05:00</updated>
+        <updated>2024-08-12T19:23:41-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/126/trianglify-lowres2.png" alt="" />
@@ -175,25 +194,6 @@
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/120/trianglify-lowres12.png" alt="" />
                     <p>These are my notes on domain and range in precalculus.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Forces In Physics</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/forces-in-physics.html"/>
-        <id>https://sciencebyjason.com/forces-in-physics.html</id>
-            <category term="Physics"/>
-
-        <updated>2024-07-29T21:24:59-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sciencebyjason.com/media/posts/119/trianglify-lowres12.png" alt="" />
-                    <p>These are my notes on forces in physics.</p>
 
                 ]]>
             </summary>

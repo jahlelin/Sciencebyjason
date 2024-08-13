@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/inequalities-with-quadratic-functions.html",
+            "url": "https://sciencebyjason.com/inequalities-with-quadratic-functions.html",
+            "title": "Inequalities with Quadratic Functions",
+            "summary": "<p>These are my notes on inequalities with quadratic functions.</p>\n",
+            "image": "https://sciencebyjason.com/media/posts/129/trianglify-lowres3.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "precalculus"
+            ],
+            "date_published": "2024-08-12T19:22:09-05:00",
+            "date_modified": "2024-08-12T19:22:47-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/what-is-electronics.html",
             "url": "https://sciencebyjason.com/what-is-electronics.html",
             "title": "What is Electronics",
@@ -52,7 +67,7 @@
                    "precalculus"
             ],
             "date_published": "2024-08-07T17:41:31-05:00",
-            "date_modified": "2024-08-07T17:53:39-05:00"
+            "date_modified": "2024-08-12T19:23:41-05:00"
         },
         {
             "id": "https://sciencebyjason.com/quadratic-models-in-precalculus.html",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2024-07-28T17:47:56-05:00",
             "date_modified": "2024-08-07T17:45:28-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/forces-in-physics.html",
-            "url": "https://sciencebyjason.com/forces-in-physics.html",
-            "title": "Forces In Physics",
-            "summary": "<p>These are my notes on forces in physics.</p>\n",
-            "image": "https://sciencebyjason.com/media/posts/119/trianglify-lowres12.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Physics"
-            ],
-            "date_published": "2024-07-26T19:36:56-05:00",
-            "date_modified": "2024-07-29T21:24:59-05:00"
         }
     ]
 }
