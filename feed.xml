@@ -3,12 +3,31 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2024-08-16T14:09:26-05:00</updated>
+    <updated>2024-08-20T14:43:12-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Properties of Rational Functions in Precalculus</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/properties-of-rational-functions-in-precalculus.html"/>
+        <id>https://sciencebyjason.com/properties-of-rational-functions-in-precalculus.html</id>
+            <category term="precalculus"/>
+
+        <updated>2024-08-20T14:42:08-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sciencebyjason.com/media/posts/131/trianglify-lowres7.png" alt="" />
+                    <p>These are my notes on properties of rational functions in precalculus.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Polynomial Functions and Models</title>
         <author>
@@ -94,7 +113,7 @@
         <id>https://sciencebyjason.com/introduction-to-precalculus.html</id>
             <category term="precalculus"/>
 
-        <updated>2024-08-16T14:09:26-05:00</updated>
+        <updated>2024-08-20T14:43:12-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/126/trianglify-lowres2.png" alt="" />
@@ -175,25 +194,6 @@
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/122/trianglify-lowres13.png" alt="" />
                     <p>These are my notes on composition of functions in precalculus.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Rates of Change in Precalculus</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/rates-of-change-in-precalculus.html"/>
-        <id>https://sciencebyjason.com/rates-of-change-in-precalculus.html</id>
-            <category term="precalculus"/>
-
-        <updated>2024-08-07T17:46:37-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sciencebyjason.com/media/posts/121/trianglify-lowres13.png" alt="" />
-                    <p>These are my notes on rates of change in precalculus.</p>
 
                 ]]>
             </summary>

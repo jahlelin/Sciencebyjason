@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/properties-of-rational-functions-in-precalculus.html",
+            "url": "https://sciencebyjason.com/properties-of-rational-functions-in-precalculus.html",
+            "title": "Properties of Rational Functions in Precalculus",
+            "summary": "<p>These are my notes on properties of rational functions in precalculus.</p>\n",
+            "image": "https://sciencebyjason.com/media/posts/131/trianglify-lowres7.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "precalculus"
+            ],
+            "date_published": "2024-08-20T14:36:05-05:00",
+            "date_modified": "2024-08-20T14:42:08-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/polynomial-functions-and-models.html",
             "url": "https://sciencebyjason.com/polynomial-functions-and-models.html",
             "title": "Polynomial Functions and Models",
@@ -82,7 +97,7 @@
                    "precalculus"
             ],
             "date_published": "2024-08-07T17:41:31-05:00",
-            "date_modified": "2024-08-16T14:09:26-05:00"
+            "date_modified": "2024-08-20T14:43:12-05:00"
         },
         {
             "id": "https://sciencebyjason.com/quadratic-models-in-precalculus.html",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2024-07-31T13:59:12-05:00",
             "date_modified": "2024-08-07T17:47:29-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/rates-of-change-in-precalculus.html",
-            "url": "https://sciencebyjason.com/rates-of-change-in-precalculus.html",
-            "title": "Rates of Change in Precalculus",
-            "summary": "<p>These are my notes on rates of change in precalculus.</p>\n",
-            "image": "https://sciencebyjason.com/media/posts/121/trianglify-lowres13.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "precalculus"
-            ],
-            "date_published": "2024-07-29T13:05:19-05:00",
-            "date_modified": "2024-08-07T17:46:37-05:00"
         }
     ]
 }
