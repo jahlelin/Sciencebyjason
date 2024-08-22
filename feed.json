@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/graphs-of-rational-functions.html",
+            "url": "https://sciencebyjason.com/graphs-of-rational-functions.html",
+            "title": "Graphs of Rational Functions",
+            "summary": "<p>These are my notes and worked examples on graphs of rational functions.</p>\n",
+            "image": "https://sciencebyjason.com/media/posts/132/trianglify-lowres6.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "precalculus"
+            ],
+            "date_published": "2024-08-22T17:43:08-05:00",
+            "date_modified": "2024-08-22T17:56:27-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/properties-of-rational-functions-in-precalculus.html",
             "url": "https://sciencebyjason.com/properties-of-rational-functions-in-precalculus.html",
             "title": "Properties of Rational Functions in Precalculus",
@@ -97,7 +112,7 @@
                    "precalculus"
             ],
             "date_published": "2024-08-07T17:41:31-05:00",
-            "date_modified": "2024-08-20T14:43:12-05:00"
+            "date_modified": "2024-08-22T18:02:23-05:00"
         },
         {
             "id": "https://sciencebyjason.com/quadratic-models-in-precalculus.html",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2024-08-02T13:57:37-05:00",
             "date_modified": "2024-08-07T17:48:19-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/composition-of-functions-in-precalculus.html",
-            "url": "https://sciencebyjason.com/composition-of-functions-in-precalculus.html",
-            "title": "Composition of Functions in Precalculus",
-            "summary": "<p>These are my notes on composition of functions in precalculus.</p>\n",
-            "image": "https://sciencebyjason.com/media/posts/122/trianglify-lowres13.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "precalculus"
-            ],
-            "date_published": "2024-07-31T13:59:12-05:00",
-            "date_modified": "2024-08-07T17:47:29-05:00"
         }
     ]
 }

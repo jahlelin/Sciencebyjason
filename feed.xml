@@ -3,12 +3,31 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2024-08-20T14:43:12-05:00</updated>
+    <updated>2024-08-22T18:02:23-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Graphs of Rational Functions</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/graphs-of-rational-functions.html"/>
+        <id>https://sciencebyjason.com/graphs-of-rational-functions.html</id>
+            <category term="precalculus"/>
+
+        <updated>2024-08-22T17:56:27-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sciencebyjason.com/media/posts/132/trianglify-lowres6.png" alt="" />
+                    <p>These are my notes and worked examples on graphs of rational functions.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Properties of Rational Functions in Precalculus</title>
         <author>
@@ -113,7 +132,7 @@
         <id>https://sciencebyjason.com/introduction-to-precalculus.html</id>
             <category term="precalculus"/>
 
-        <updated>2024-08-20T14:43:12-05:00</updated>
+        <updated>2024-08-22T18:02:23-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/126/trianglify-lowres2.png" alt="" />
@@ -175,25 +194,6 @@
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/123/trianglify-lowres1.png" alt="" />
                     <p>These are my notes on transformation of functions in precalculus.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Composition of Functions in Precalculus</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/composition-of-functions-in-precalculus.html"/>
-        <id>https://sciencebyjason.com/composition-of-functions-in-precalculus.html</id>
-            <category term="precalculus"/>
-
-        <updated>2024-08-07T17:47:29-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sciencebyjason.com/media/posts/122/trianglify-lowres13.png" alt="" />
-                    <p>These are my notes on composition of functions in precalculus.</p>
 
                 ]]>
             </summary>
