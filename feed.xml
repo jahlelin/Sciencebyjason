@@ -3,12 +3,31 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2024-08-23T14:05:43-05:00</updated>
+    <updated>2024-08-28T19:13:05-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Real Zeros of Polynomials</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/real-zeros-of-polynomials.html"/>
+        <id>https://sciencebyjason.com/real-zeros-of-polynomials.html</id>
+            <category term="mathematics"/>
+
+        <updated>2024-08-28T19:12:06-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sciencebyjason.com/media/posts/134/trianglify-lowres7.png" alt="" />
+                    <p>These are my notes on real zeros of polynomials.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Polynomial Inequalities</title>
         <author>
@@ -151,7 +170,7 @@
         <id>https://sciencebyjason.com/introduction-to-precalculus.html</id>
             <category term="mathematics"/>
 
-        <updated>2024-08-23T14:05:43-05:00</updated>
+        <updated>2024-08-28T19:13:05-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/126/trianglify-lowres2.png" alt="" />
@@ -175,25 +194,6 @@
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/125/trianglify-lowres2.png" alt="" />
                     <p>These are my notes on quadratic models in precalculus.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Atomic Weights in Chemistry</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/atomic-weights-in-chemistry.html"/>
-        <id>https://sciencebyjason.com/atomic-weights-in-chemistry.html</id>
-            <category term="Chemistry"/>
-
-        <updated>2024-08-02T22:12:35-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sciencebyjason.com/media/posts/124/trianglify-lowres1.png" alt="" />
-                    <p>These are my notes on atomic weights in chemistry.</p>
 
                 ]]>
             </summary>
