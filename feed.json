@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/mutually-exclusive-events-in-statistics.html",
+            "url": "https://sciencebyjason.com/mutually-exclusive-events-in-statistics.html",
+            "title": "Mutually Exclusive Events in Statistics",
+            "summary": "<p>These are my notes on mutually exclusive events in statistics.</p>\n",
+            "image": "https://sciencebyjason.com/media/posts/135/trianglify-lowres7.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Statistics"
+            ],
+            "date_published": "2024-08-31T22:46:12-05:00",
+            "date_modified": "2024-08-31T22:51:20-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/real-zeros-of-polynomials.html",
             "url": "https://sciencebyjason.com/real-zeros-of-polynomials.html",
             "title": "Real Zeros of Polynomials",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2024-08-07T17:41:31-05:00",
             "date_modified": "2024-08-28T19:13:05-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/quadratic-models-in-precalculus.html",
-            "url": "https://sciencebyjason.com/quadratic-models-in-precalculus.html",
-            "title": "Quadratic Models in Precalculus",
-            "summary": "<p>These are my notes on quadratic models in precalculus.</p>\n",
-            "image": "https://sciencebyjason.com/media/posts/125/trianglify-lowres2.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "mathematics"
-            ],
-            "date_published": "2024-08-07T17:39:39-05:00",
-            "date_modified": "2024-08-07T17:51:11-05:00"
         }
     ]
 }
