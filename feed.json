@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/complex-zeros-in-math.html",
+            "url": "https://sciencebyjason.com/complex-zeros-in-math.html",
+            "title": "Complex Zeros in Math",
+            "summary": "<p>These are my notes on complex zeros in math.</p>\n",
+            "image": "https://sciencebyjason.com/media/posts/136/trianglify-lowres8.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "mathematics"
+            ],
+            "date_published": "2024-09-07T21:34:04-05:00",
+            "date_modified": "2024-09-07T21:37:51-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/mutually-exclusive-events-in-statistics.html",
             "url": "https://sciencebyjason.com/mutually-exclusive-events-in-statistics.html",
             "title": "Mutually Exclusive Events in Statistics",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2024-08-07T18:07:07-05:00",
             "date_modified": "2024-08-08T21:36:02-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/introduction-to-precalculus.html",
-            "url": "https://sciencebyjason.com/introduction-to-precalculus.html",
-            "title": "My Mathematics Journal",
-            "summary": "<p>These are my notes on an Introduction to Precalculus.</p>\n",
-            "image": "https://sciencebyjason.com/media/posts/126/trianglify-lowres2.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "mathematics"
-            ],
-            "date_published": "2024-08-07T17:41:31-05:00",
-            "date_modified": "2024-08-28T19:13:05-05:00"
         }
     ]
 }
