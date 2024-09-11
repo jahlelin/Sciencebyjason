@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2024-09-07T21:37:51-05:00</updated>
+    <updated>2024-09-10T14:04:48-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
@@ -16,9 +16,10 @@
         </author>
         <link href="https://sciencebyjason.com/complex-zeros-in-math.html"/>
         <id>https://sciencebyjason.com/complex-zeros-in-math.html</id>
+        <media:content url="https://sciencebyjason.com/media/posts/136/trianglify-lowres8.png" medium="image" />
             <category term="mathematics"/>
 
-        <updated>2024-09-07T21:37:51-05:00</updated>
+        <updated>2024-09-07T21:34:04-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/136/trianglify-lowres8.png" alt="" />
@@ -35,9 +36,10 @@
         </author>
         <link href="https://sciencebyjason.com/mutually-exclusive-events-in-statistics.html"/>
         <id>https://sciencebyjason.com/mutually-exclusive-events-in-statistics.html</id>
+        <media:content url="https://sciencebyjason.com/media/posts/135/trianglify-lowres7.png" medium="image" />
             <category term="Statistics"/>
 
-        <updated>2024-08-31T22:51:20-05:00</updated>
+        <updated>2024-08-31T22:46:12-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/135/trianglify-lowres7.png" alt="" />
@@ -54,9 +56,10 @@
         </author>
         <link href="https://sciencebyjason.com/real-zeros-of-polynomials.html"/>
         <id>https://sciencebyjason.com/real-zeros-of-polynomials.html</id>
+        <media:content url="https://sciencebyjason.com/media/posts/134/trianglify-lowres7.png" medium="image" />
             <category term="mathematics"/>
 
-        <updated>2024-08-28T19:12:06-05:00</updated>
+        <updated>2024-08-28T19:06:41-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/134/trianglify-lowres7.png" alt="" />
@@ -73,9 +76,10 @@
         </author>
         <link href="https://sciencebyjason.com/polynomial-inequalities.html"/>
         <id>https://sciencebyjason.com/polynomial-inequalities.html</id>
+        <media:content url="https://sciencebyjason.com/media/posts/133/trianglify-lowres6.png" medium="image" />
             <category term="mathematics"/>
 
-        <updated>2024-08-23T14:01:44-05:00</updated>
+        <updated>2024-08-23T14:00:44-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/133/trianglify-lowres6.png" alt="" />
@@ -92,9 +96,10 @@
         </author>
         <link href="https://sciencebyjason.com/graphs-of-rational-functions.html"/>
         <id>https://sciencebyjason.com/graphs-of-rational-functions.html</id>
+        <media:content url="https://sciencebyjason.com/media/posts/132/trianglify-lowres6.png" medium="image" />
             <category term="mathematics"/>
 
-        <updated>2024-08-22T17:56:27-05:00</updated>
+        <updated>2024-08-22T17:43:08-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/132/trianglify-lowres6.png" alt="" />
@@ -111,9 +116,10 @@
         </author>
         <link href="https://sciencebyjason.com/properties-of-rational-functions-in-precalculus.html"/>
         <id>https://sciencebyjason.com/properties-of-rational-functions-in-precalculus.html</id>
+        <media:content url="https://sciencebyjason.com/media/posts/131/trianglify-lowres7.png" medium="image" />
             <category term="mathematics"/>
 
-        <updated>2024-08-20T14:42:08-05:00</updated>
+        <updated>2024-08-20T14:36:05-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/131/trianglify-lowres7.png" alt="" />
@@ -130,9 +136,10 @@
         </author>
         <link href="https://sciencebyjason.com/polynomial-functions-and-models.html"/>
         <id>https://sciencebyjason.com/polynomial-functions-and-models.html</id>
+        <media:content url="https://sciencebyjason.com/media/posts/130/trianglify-lowres6.png" medium="image" />
             <category term="mathematics"/>
 
-        <updated>2024-08-16T14:09:12-05:00</updated>
+        <updated>2024-08-16T14:00:14-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/130/trianglify-lowres6.png" alt="" />
@@ -149,9 +156,10 @@
         </author>
         <link href="https://sciencebyjason.com/inequalities-with-quadratic-functions.html"/>
         <id>https://sciencebyjason.com/inequalities-with-quadratic-functions.html</id>
+        <media:content url="https://sciencebyjason.com/media/posts/129/trianglify-lowres3.png" medium="image" />
             <category term="mathematics"/>
 
-        <updated>2024-08-12T19:22:47-05:00</updated>
+        <updated>2024-08-12T19:22:09-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/129/trianglify-lowres3.png" alt="" />
@@ -168,9 +176,10 @@
         </author>
         <link href="https://sciencebyjason.com/what-is-electronics.html"/>
         <id>https://sciencebyjason.com/what-is-electronics.html</id>
+        <media:content url="https://sciencebyjason.com/media/posts/128/trianglify-lowres3.png" medium="image" />
             <category term="electronics"/>
 
-        <updated>2024-08-08T21:34:58-05:00</updated>
+        <updated>2024-08-08T21:33:46-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/128/trianglify-lowres3.png" alt="" />
@@ -187,9 +196,10 @@
         </author>
         <link href="https://sciencebyjason.com/introduction-to-electronics.html"/>
         <id>https://sciencebyjason.com/introduction-to-electronics.html</id>
+        <media:content url="https://sciencebyjason.com/media/posts/127/trianglify-lowres3.png" medium="image" />
             <category term="electronics"/>
 
-        <updated>2024-08-08T21:36:02-05:00</updated>
+        <updated>2024-08-07T18:07:07-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/127/trianglify-lowres3.png" alt="" />
