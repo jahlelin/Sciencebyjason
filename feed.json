@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/probability-distributions-in-statistics-2.html",
+            "url": "https://sciencebyjason.com/probability-distributions-in-statistics-2.html",
+            "title": "Probability Distributions in Statistics",
+            "summary": "<p>These are my notes on probability distributions of random variables in statistics.</p>\n",
+            "image": "https://sciencebyjason.com/media/posts/138/trianglify-lowres8.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Statistics"
+            ],
+            "date_published": "2024-09-17T14:33:30-05:00",
+            "date_modified": "2024-09-17T14:36:50-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/properties-of-matrices.html",
             "url": "https://sciencebyjason.com/properties-of-matrices.html",
             "title": "Properties of Matrices",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2024-08-12T19:22:09-05:00",
             "date_modified": "2024-08-12T19:22:47-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/what-is-electronics.html",
-            "url": "https://sciencebyjason.com/what-is-electronics.html",
-            "title": "What is Electronics",
-            "summary": "<p>These are my notes on what is electronics.</p>\n",
-            "image": "https://sciencebyjason.com/media/posts/128/trianglify-lowres3.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "electronics"
-            ],
-            "date_published": "2024-08-08T21:33:46-05:00",
-            "date_modified": "2024-08-08T21:34:58-05:00"
         }
     ]
 }

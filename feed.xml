@@ -3,12 +3,32 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2024-09-16T21:36:12-05:00</updated>
+    <updated>2024-09-17T14:36:50-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Probability Distributions in Statistics</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/probability-distributions-in-statistics-2.html"/>
+        <id>https://sciencebyjason.com/probability-distributions-in-statistics-2.html</id>
+        <media:content url="https://sciencebyjason.com/media/posts/138/trianglify-lowres8.png" medium="image" />
+            <category term="Statistics"/>
+
+        <updated>2024-09-17T14:33:30-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sciencebyjason.com/media/posts/138/trianglify-lowres8.png" alt="" />
+                    <p>These are my notes on probability distributions of random variables in statistics.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Properties of Matrices</title>
         <author>
@@ -184,26 +204,6 @@
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/129/trianglify-lowres3.png" alt="" />
                     <p>These are my notes on inequalities with quadratic functions.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>What is Electronics</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/what-is-electronics.html"/>
-        <id>https://sciencebyjason.com/what-is-electronics.html</id>
-        <media:content url="https://sciencebyjason.com/media/posts/128/trianglify-lowres3.png" medium="image" />
-            <category term="electronics"/>
-
-        <updated>2024-08-08T21:33:46-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sciencebyjason.com/media/posts/128/trianglify-lowres3.png" alt="" />
-                    <p>These are my notes on what is electronics.</p>
 
                 ]]>
             </summary>
