@@ -3,12 +3,32 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2024-09-17T14:36:50-05:00</updated>
+    <updated>2024-09-27T20:53:11-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Inverses of Matrices in Algebra</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/inverses-of-matrices-in-algebra.html"/>
+        <id>https://sciencebyjason.com/inverses-of-matrices-in-algebra.html</id>
+        <media:content url="https://sciencebyjason.com/media/posts/139/trianglify-lowres9.png" medium="image" />
+            <category term="Algebra"/>
+
+        <updated>2024-09-27T20:23:23-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sciencebyjason.com/media/posts/139/trianglify-lowres9.png" alt="" />
+                    <p>These are my notes on inverses of matrices.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Probability Distributions in Statistics</title>
         <author>
@@ -184,26 +204,6 @@
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/130/trianglify-lowres6.png" alt="" />
                     <p>This is my guide on polynomial functions and models.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Inequalities with Quadratic Functions</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/inequalities-with-quadratic-functions.html"/>
-        <id>https://sciencebyjason.com/inequalities-with-quadratic-functions.html</id>
-        <media:content url="https://sciencebyjason.com/media/posts/129/trianglify-lowres3.png" medium="image" />
-            <category term="mathematics"/>
-
-        <updated>2024-08-12T19:22:09-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sciencebyjason.com/media/posts/129/trianglify-lowres3.png" alt="" />
-                    <p>These are my notes on inequalities with quadratic functions.</p>
 
                 ]]>
             </summary>

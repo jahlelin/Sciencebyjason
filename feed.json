@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/inverses-of-matrices-in-algebra.html",
+            "url": "https://sciencebyjason.com/inverses-of-matrices-in-algebra.html",
+            "title": "Inverses of Matrices in Algebra",
+            "summary": "<p>These are my notes on inverses of matrices.</p>\n",
+            "image": "https://sciencebyjason.com/media/posts/139/trianglify-lowres9.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Algebra"
+            ],
+            "date_published": "2024-09-27T20:23:23-05:00",
+            "date_modified": "2024-09-27T20:53:11-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/probability-distributions-in-statistics-2.html",
             "url": "https://sciencebyjason.com/probability-distributions-in-statistics-2.html",
             "title": "Probability Distributions in Statistics",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2024-08-16T14:00:14-05:00",
             "date_modified": "2024-08-16T14:09:12-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/inequalities-with-quadratic-functions.html",
-            "url": "https://sciencebyjason.com/inequalities-with-quadratic-functions.html",
-            "title": "Inequalities with Quadratic Functions",
-            "summary": "<p>These are my notes on inequalities with quadratic functions.</p>\n",
-            "image": "https://sciencebyjason.com/media/posts/129/trianglify-lowres3.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "mathematics"
-            ],
-            "date_published": "2024-08-12T19:22:09-05:00",
-            "date_modified": "2024-08-12T19:22:47-05:00"
         }
     ]
 }
