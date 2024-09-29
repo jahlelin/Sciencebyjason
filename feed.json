@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/apparent-weight-in-physics.html",
+            "url": "https://sciencebyjason.com/apparent-weight-in-physics.html",
+            "title": "Apparent Weight in Physics",
+            "summary": "<p>These are my notes and examples on apparent weight in physics.</p>\n",
+            "image": "https://sciencebyjason.com/media/posts/140/trianglify-lowres9.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Physics"
+            ],
+            "date_published": "2024-09-29T18:38:02-05:00",
+            "date_modified": "2024-09-29T18:44:02-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/inverses-of-matrices-in-algebra.html",
             "url": "https://sciencebyjason.com/inverses-of-matrices-in-algebra.html",
             "title": "Inverses of Matrices in Algebra",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2024-08-20T14:36:05-05:00",
             "date_modified": "2024-08-20T14:42:08-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/polynomial-functions-and-models.html",
-            "url": "https://sciencebyjason.com/polynomial-functions-and-models.html",
-            "title": "Polynomial Functions and Models",
-            "summary": "<p>This is my guide on polynomial functions and models.</p>\n",
-            "image": "https://sciencebyjason.com/media/posts/130/trianglify-lowres6.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "mathematics"
-            ],
-            "date_published": "2024-08-16T14:00:14-05:00",
-            "date_modified": "2024-08-16T14:09:12-05:00"
         }
     ]
 }
