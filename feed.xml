@@ -3,12 +3,32 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2024-09-29T18:44:02-05:00</updated>
+    <updated>2024-10-03T19:56:11-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Determinants in Algebra</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/determinants-in-algebra.html"/>
+        <id>https://sciencebyjason.com/determinants-in-algebra.html</id>
+        <media:content url="https://sciencebyjason.com/media/posts/141/trianglify-lowres9.png" medium="image" />
+            <category term="Algebra"/>
+
+        <updated>2024-10-03T19:47:01-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sciencebyjason.com/media/posts/141/trianglify-lowres9.png" alt="" />
+                    <p>These is my guide to determinants in algebra.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Apparent Weight in Physics</title>
         <author>
@@ -184,26 +204,6 @@
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/132/trianglify-lowres6.png" alt="" />
                     <p>These are my notes and worked examples on graphs of rational functions.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Properties of Rational Functions in Precalculus</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/properties-of-rational-functions-in-precalculus.html"/>
-        <id>https://sciencebyjason.com/properties-of-rational-functions-in-precalculus.html</id>
-        <media:content url="https://sciencebyjason.com/media/posts/131/trianglify-lowres7.png" medium="image" />
-            <category term="mathematics"/>
-
-        <updated>2024-08-20T14:36:05-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sciencebyjason.com/media/posts/131/trianglify-lowres7.png" alt="" />
-                    <p>These are my notes on properties of rational functions in precalculus.</p>
 
                 ]]>
             </summary>
