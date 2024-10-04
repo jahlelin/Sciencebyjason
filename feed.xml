@@ -3,12 +3,32 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2024-10-03T19:56:11-05:00</updated>
+    <updated>2024-10-04T18:51:27-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Calculating Work From A Physics Viewpoint</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/calculating-work-from-a-physics-viewpoint.html"/>
+        <id>https://sciencebyjason.com/calculating-work-from-a-physics-viewpoint.html</id>
+        <media:content url="https://sciencebyjason.com/media/posts/142/trianglify-lowres9.png" medium="image" />
+            <category term="Physics"/>
+
+        <updated>2024-10-04T18:35:56-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sciencebyjason.com/media/posts/142/trianglify-lowres9.png" alt="" />
+                    <p>These are my notes on work and the definite integral in physics.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Determinants in Algebra</title>
         <author>
@@ -184,26 +204,6 @@
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/133/trianglify-lowres6.png" alt="" />
                     <p>These are my notes and worked examples on polynomial inequalities.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Graphs of Rational Functions</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/graphs-of-rational-functions.html"/>
-        <id>https://sciencebyjason.com/graphs-of-rational-functions.html</id>
-        <media:content url="https://sciencebyjason.com/media/posts/132/trianglify-lowres6.png" medium="image" />
-            <category term="mathematics"/>
-
-        <updated>2024-08-22T17:43:08-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sciencebyjason.com/media/posts/132/trianglify-lowres6.png" alt="" />
-                    <p>These are my notes and worked examples on graphs of rational functions.</p>
 
                 ]]>
             </summary>

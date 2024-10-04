@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/calculating-work-from-a-physics-viewpoint.html",
+            "url": "https://sciencebyjason.com/calculating-work-from-a-physics-viewpoint.html",
+            "title": "Calculating Work From A Physics Viewpoint",
+            "summary": "<p>These are my notes on work and the definite integral in physics.</p>\n",
+            "image": "https://sciencebyjason.com/media/posts/142/trianglify-lowres9.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Physics"
+            ],
+            "date_published": "2024-10-04T18:35:56-05:00",
+            "date_modified": "2024-10-04T18:51:27-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/determinants-in-algebra.html",
             "url": "https://sciencebyjason.com/determinants-in-algebra.html",
             "title": "Determinants in Algebra",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2024-08-23T14:00:44-05:00",
             "date_modified": "2024-10-03T19:56:02-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/graphs-of-rational-functions.html",
-            "url": "https://sciencebyjason.com/graphs-of-rational-functions.html",
-            "title": "Graphs of Rational Functions",
-            "summary": "<p>These are my notes and worked examples on graphs of rational functions.</p>\n",
-            "image": "https://sciencebyjason.com/media/posts/132/trianglify-lowres6.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "mathematics"
-            ],
-            "date_published": "2024-08-22T17:43:08-05:00",
-            "date_modified": "2024-10-03T19:56:11-05:00"
         }
     ]
 }
