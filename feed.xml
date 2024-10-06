@@ -3,12 +3,32 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2024-10-04T18:51:27-05:00</updated>
+    <updated>2024-10-06T14:55:12-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Parabola Equations in Algebra</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/parabola-equations-in-algebra.html"/>
+        <id>https://sciencebyjason.com/parabola-equations-in-algebra.html</id>
+        <media:content url="https://sciencebyjason.com/media/posts/143/trianglify-lowres10.png" medium="image" />
+            <category term="Algebra"/>
+
+        <updated>2024-10-06T14:48:06-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sciencebyjason.com/media/posts/143/trianglify-lowres10.png" alt="" />
+                    <p>These are my notes on parabola equations and graphs.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Calculating Work From A Physics Viewpoint</title>
         <author>
@@ -184,26 +204,6 @@
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/134/trianglify-lowres7.png" alt="" />
                     <p>These are my notes on real zeros of polynomials.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Polynomial Inequalities</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/polynomial-inequalities.html"/>
-        <id>https://sciencebyjason.com/polynomial-inequalities.html</id>
-        <media:content url="https://sciencebyjason.com/media/posts/133/trianglify-lowres6.png" medium="image" />
-            <category term="mathematics"/>
-
-        <updated>2024-08-23T14:00:44-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sciencebyjason.com/media/posts/133/trianglify-lowres6.png" alt="" />
-                    <p>These are my notes and worked examples on polynomial inequalities.</p>
 
                 ]]>
             </summary>

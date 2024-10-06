@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/parabola-equations-in-algebra.html",
+            "url": "https://sciencebyjason.com/parabola-equations-in-algebra.html",
+            "title": "Parabola Equations in Algebra",
+            "summary": "<p>These are my notes on parabola equations and graphs.</p>\n",
+            "image": "https://sciencebyjason.com/media/posts/143/trianglify-lowres10.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Algebra"
+            ],
+            "date_published": "2024-10-06T14:48:06-05:00",
+            "date_modified": "2024-10-06T14:55:12-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/calculating-work-from-a-physics-viewpoint.html",
             "url": "https://sciencebyjason.com/calculating-work-from-a-physics-viewpoint.html",
             "title": "Calculating Work From A Physics Viewpoint",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2024-08-28T19:06:41-05:00",
             "date_modified": "2024-10-03T19:55:52-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/polynomial-inequalities.html",
-            "url": "https://sciencebyjason.com/polynomial-inequalities.html",
-            "title": "Polynomial Inequalities",
-            "summary": "<p>These are my notes and worked examples on polynomial inequalities.</p>\n",
-            "image": "https://sciencebyjason.com/media/posts/133/trianglify-lowres6.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "mathematics"
-            ],
-            "date_published": "2024-08-23T14:00:44-05:00",
-            "date_modified": "2024-10-03T19:56:02-05:00"
         }
     ]
 }
