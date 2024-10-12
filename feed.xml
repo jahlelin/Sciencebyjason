@@ -3,12 +3,32 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2024-10-09T18:34:38-05:00</updated>
+    <updated>2024-10-12T15:47:27-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Ellipses in Algebra</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/ellipses-in-algebra.html"/>
+        <id>https://sciencebyjason.com/ellipses-in-algebra.html</id>
+        <media:content url="https://sciencebyjason.com/media/posts/145/trianglify-lowres10.png" medium="image" />
+            <category term="Algebra"/>
+
+        <updated>2024-10-12T15:32:56-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sciencebyjason.com/media/posts/145/trianglify-lowres10.png" alt="" />
+                    <p>These are my notes on ellipses in algebra.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Work and Energy in Physics</title>
         <author>
@@ -184,26 +204,6 @@
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/136/trianglify-lowres8.png" alt="" />
                     <p>These are my notes on complex zeros in math.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Mutually Exclusive Events in Statistics</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/mutually-exclusive-events-in-statistics.html"/>
-        <id>https://sciencebyjason.com/mutually-exclusive-events-in-statistics.html</id>
-        <media:content url="https://sciencebyjason.com/media/posts/135/trianglify-lowres7.png" medium="image" />
-            <category term="Statistics"/>
-
-        <updated>2024-08-31T22:46:12-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sciencebyjason.com/media/posts/135/trianglify-lowres7.png" alt="" />
-                    <p>These are my notes on mutually exclusive events in statistics.</p>
 
                 ]]>
             </summary>

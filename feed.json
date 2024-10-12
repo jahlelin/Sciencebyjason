@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/ellipses-in-algebra.html",
+            "url": "https://sciencebyjason.com/ellipses-in-algebra.html",
+            "title": "Ellipses in Algebra",
+            "summary": "<p>These are my notes on ellipses in algebra.</p>\n",
+            "image": "https://sciencebyjason.com/media/posts/145/trianglify-lowres10.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Algebra"
+            ],
+            "date_published": "2024-10-12T15:32:56-05:00",
+            "date_modified": "2024-10-12T15:47:27-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/work-and-energy-in-physics.html",
             "url": "https://sciencebyjason.com/work-and-energy-in-physics.html",
             "title": "Work and Energy in Physics",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2024-09-07T21:34:04-05:00",
             "date_modified": "2024-10-03T19:55:35-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/mutually-exclusive-events-in-statistics.html",
-            "url": "https://sciencebyjason.com/mutually-exclusive-events-in-statistics.html",
-            "title": "Mutually Exclusive Events in Statistics",
-            "summary": "<p>These are my notes on mutually exclusive events in statistics.</p>\n",
-            "image": "https://sciencebyjason.com/media/posts/135/trianglify-lowres7.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Statistics"
-            ],
-            "date_published": "2024-08-31T22:46:12-05:00",
-            "date_modified": "2024-10-03T19:55:44-05:00"
         }
     ]
 }
