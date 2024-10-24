@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/center-of-mass-in-physics.html",
+            "url": "https://sciencebyjason.com/center-of-mass-in-physics.html",
+            "title": "Center of Mass in Physics",
+            "summary": "<p>These are my notes on the center of mass in physics.</p>\n",
+            "image": "https://sciencebyjason.com/media/posts/146/trianglify-lowres11.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Physics"
+            ],
+            "date_published": "2024-10-24T12:11:53-05:00",
+            "date_modified": "2024-10-24T12:16:49-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/ellipses-in-algebra.html",
             "url": "https://sciencebyjason.com/ellipses-in-algebra.html",
             "title": "Ellipses in Algebra",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2024-09-16T13:37:37-05:00",
             "date_modified": "2024-10-03T19:55:25-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/complex-zeros-in-math.html",
-            "url": "https://sciencebyjason.com/complex-zeros-in-math.html",
-            "title": "Complex Zeros in Math",
-            "summary": "<p>These are my notes on complex zeros in math.</p>\n",
-            "image": "https://sciencebyjason.com/media/posts/136/trianglify-lowres8.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "mathematics"
-            ],
-            "date_published": "2024-09-07T21:34:04-05:00",
-            "date_modified": "2024-10-03T19:55:35-05:00"
         }
     ]
 }
