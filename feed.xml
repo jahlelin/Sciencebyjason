@@ -3,12 +3,32 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2024-10-24T12:16:49-05:00</updated>
+    <updated>2024-10-26T23:09:46-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Hyperbolas in Algebra</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/hyperbolas-in-algebra.html"/>
+        <id>https://sciencebyjason.com/hyperbolas-in-algebra.html</id>
+        <media:content url="https://sciencebyjason.com/media/posts/147/trianglify-lowres11.png" medium="image" />
+            <category term="Algebra"/>
+
+        <updated>2024-10-26T23:03:42-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sciencebyjason.com/media/posts/147/trianglify-lowres11.png" alt="" />
+                    <p>These are my notes on hyperbolas in algebra.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Center of Mass in Physics</title>
         <author>
@@ -184,26 +204,6 @@
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/138/trianglify-lowres8.png" alt="" />
                     <p>These are my notes on probability distributions of random variables in statistics.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Properties of Matrices</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/properties-of-matrices.html"/>
-        <id>https://sciencebyjason.com/properties-of-matrices.html</id>
-        <media:content url="https://sciencebyjason.com/media/posts/137/trianglify-lowres8.png" medium="image" />
-            <category term="Algebra"/>
-
-        <updated>2024-09-16T13:37:37-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sciencebyjason.com/media/posts/137/trianglify-lowres8.png" alt="" />
-                    <p>These are my notes on properties of matrices.</p>
 
                 ]]>
             </summary>
