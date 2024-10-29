@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/collisions-and-impulse-in-physics.html",
+            "url": "https://sciencebyjason.com/collisions-and-impulse-in-physics.html",
+            "title": "Collisions and Impulse in Physics",
+            "summary": "<p>These are my notes on collision and impulse in physics.</p>\n",
+            "image": "https://sciencebyjason.com/media/posts/148/trianglify-lowres11.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Physics"
+            ],
+            "date_published": "2024-10-28T23:31:17-05:00",
+            "date_modified": "2024-10-28T23:40:56-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/hyperbolas-in-algebra.html",
             "url": "https://sciencebyjason.com/hyperbolas-in-algebra.html",
             "title": "Hyperbolas in Algebra",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2024-09-27T20:23:23-05:00",
             "date_modified": "2024-10-03T19:54:58-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/probability-distributions-in-statistics-2.html",
-            "url": "https://sciencebyjason.com/probability-distributions-in-statistics-2.html",
-            "title": "Probability Distributions in Statistics",
-            "summary": "<p>These are my notes on probability distributions of random variables in statistics.</p>\n",
-            "image": "https://sciencebyjason.com/media/posts/138/trianglify-lowres8.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Statistics"
-            ],
-            "date_published": "2024-09-17T14:33:30-05:00",
-            "date_modified": "2024-10-03T19:55:06-05:00"
         }
     ]
 }

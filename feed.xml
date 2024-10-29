@@ -3,12 +3,32 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2024-10-26T23:09:46-05:00</updated>
+    <updated>2024-10-28T23:40:56-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Collisions and Impulse in Physics</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/collisions-and-impulse-in-physics.html"/>
+        <id>https://sciencebyjason.com/collisions-and-impulse-in-physics.html</id>
+        <media:content url="https://sciencebyjason.com/media/posts/148/trianglify-lowres11.png" medium="image" />
+            <category term="Physics"/>
+
+        <updated>2024-10-28T23:31:17-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sciencebyjason.com/media/posts/148/trianglify-lowres11.png" alt="" />
+                    <p>These are my notes on collision and impulse in physics.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Hyperbolas in Algebra</title>
         <author>
@@ -184,26 +204,6 @@
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/139/trianglify-lowres9.png" alt="" />
                     <p>These are my notes on inverses of matrices.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Probability Distributions in Statistics</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/probability-distributions-in-statistics-2.html"/>
-        <id>https://sciencebyjason.com/probability-distributions-in-statistics-2.html</id>
-        <media:content url="https://sciencebyjason.com/media/posts/138/trianglify-lowres8.png" medium="image" />
-            <category term="Statistics"/>
-
-        <updated>2024-09-17T14:33:30-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sciencebyjason.com/media/posts/138/trianglify-lowres8.png" alt="" />
-                    <p>These are my notes on probability distributions of random variables in statistics.</p>
 
                 ]]>
             </summary>
