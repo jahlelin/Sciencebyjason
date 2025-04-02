@@ -10,154 +10,145 @@
     },
     "items": [
         {
-            "id": "https://sciencebyjason.com/collisions-and-impulse-in-physics.html",
-            "url": "https://sciencebyjason.com/collisions-and-impulse-in-physics.html",
-            "title": "Collisions and Impulse in Physics",
-            "summary": "<p>These are my notes on collision and impulse in physics.</p>\n",
-            "image": "https://sciencebyjason.com/media/posts/148/trianglify-lowres11.png",
+            "id": "https://sciencebyjason.com/introduction-to-electronics.html",
+            "url": "https://sciencebyjason.com/introduction-to-electronics.html",
+            "title": "Introduction to Electronics",
+            "summary": "<p>These are my notes on an introduction to electronics.</p>\n",
+            "image": "https://sciencebyjason.com/media/posts/127/trianglify-lowres3.png",
             "author": {
                 "name": "Jason Moore"
             },
             "tags": [
-                   "Physics"
+                   "electronics"
             ],
-            "date_published": "2024-10-28T23:31:17-05:00",
-            "date_modified": "2024-10-28T23:40:56-05:00"
+            "date_published": "2024-08-07T18:07:07-05:00",
+            "date_modified": "2024-08-08T21:36:02-05:00"
         },
         {
-            "id": "https://sciencebyjason.com/hyperbolas-in-algebra.html",
-            "url": "https://sciencebyjason.com/hyperbolas-in-algebra.html",
-            "title": "Hyperbolas in Algebra",
-            "summary": "<p>These are my notes on hyperbolas in algebra.</p>\n",
-            "image": "https://sciencebyjason.com/media/posts/147/trianglify-lowres11.png",
+            "id": "https://sciencebyjason.com/introduction-to-precalculus.html",
+            "url": "https://sciencebyjason.com/introduction-to-precalculus.html",
+            "title": "Introduction to Pre-Calculus",
+            "summary": "<p>These are my notes on an Introduction to Pre-calculus.</p>\n",
+            "image": "https://sciencebyjason.com/media/posts/126/trianglify-lowres2.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "mathematics"
+            ],
+            "date_published": "2024-08-07T17:41:31-05:00",
+            "date_modified": "2024-09-25T20:00:37-05:00"
+        },
+        {
+            "id": "https://sciencebyjason.com/an-introduction-to-french.html",
+            "url": "https://sciencebyjason.com/an-introduction-to-french.html",
+            "title": "An Introduction to French",
+            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on an introduction to French.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-05-03T16:42:42-05:00",
+            "date_modified": "2024-05-16T13:18:17-05:00"
+        },
+        {
+            "id": "https://sciencebyjason.com/biology-essentials.html",
+            "url": "https://sciencebyjason.com/biology-essentials.html",
+            "title": "A Guide To Early Biology",
+            "summary": "<p>These are my notes and guides on Biology essentials.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-12-24T20:55:28-06:00",
+            "date_modified": "2024-07-29T20:07:20-05:00"
+        },
+        {
+            "id": "https://sciencebyjason.com/statistics-essentials.html",
+            "url": "https://sciencebyjason.com/statistics-essentials.html",
+            "title": "Basics of Statistics",
+            "summary": "<p><span style=\"font-weight: 400;\">These are my notes and thoughts on an introduction to statistics.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "Statistics"
+            ],
+            "date_published": "2023-05-12T16:14:49-05:00",
+            "date_modified": "2024-09-17T14:38:41-05:00"
+        },
+        {
+            "id": "https://sciencebyjason.com/chemistry-essentials.html",
+            "url": "https://sciencebyjason.com/chemistry-essentials.html",
+            "title": "Basics of Chemistry",
+            "summary": "<div>This is an introduction to the fundamental concepts of chemistry. This is ideally for those students just beginning with chemistry whether in high school or college. I am including basic concepts as well as some example problems.</div>\n<div>",
+            "image": "https://sciencebyjason.com/media/posts/49/cool-background.svg",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-04-30T23:00:53-05:00",
+            "date_modified": "2024-09-10T14:05:19-05:00"
+        },
+        {
+            "id": "https://sciencebyjason.com/physics-essentials.html",
+            "url": "https://sciencebyjason.com/physics-essentials.html",
+            "title": "Basics of Physics",
+            "summary": "<p>This is my guide on the basics of physics.</p>\n",
+            "image": "https://sciencebyjason.com/media/posts/43/Measurements-and-Uncertainty-in-Physics-0.png",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-09-22T20:56:28-05:00",
+            "date_modified": "2024-10-28T23:41:43-05:00"
+        },
+        {
+            "id": "https://sciencebyjason.com/college-algebra-essentials.html",
+            "url": "https://sciencebyjason.com/college-algebra-essentials.html",
+            "title": "Fundamentals of Algebra",
+            "summary": "<p>These are my notes and worked problems on Basics of Algebra.</p>\n",
+            "image": "https://sciencebyjason.com/media/posts/40/Algebra-Essentials-0.png",
             "author": {
                 "name": "Jason Moore"
             },
             "tags": [
                    "Algebra"
             ],
-            "date_published": "2024-10-26T23:03:42-05:00",
-            "date_modified": "2024-10-26T23:09:46-05:00"
+            "date_published": "2020-08-14T08:59:38-05:00",
+            "date_modified": "2025-04-02T16:43:57-05:00"
         },
         {
-            "id": "https://sciencebyjason.com/center-of-mass-in-physics.html",
-            "url": "https://sciencebyjason.com/center-of-mass-in-physics.html",
-            "title": "Center of Mass in Physics",
-            "summary": "<p>These are my notes on the center of mass in physics.</p>\n",
-            "image": "https://sciencebyjason.com/media/posts/146/trianglify-lowres11.png",
+            "id": "https://sciencebyjason.com/latex-essentials.html",
+            "url": "https://sciencebyjason.com/latex-essentials.html",
+            "title": "Basics of LaTeX",
+            "summary": "<p>These are my notes on the basics of LaTeX.</p>\n",
+            "image": "https://sciencebyjason.com/media/posts/38/latex-essentials-0.png",
             "author": {
                 "name": "Jason Moore"
             },
             "tags": [
-                   "Physics"
             ],
-            "date_published": "2024-10-24T12:11:53-05:00",
-            "date_modified": "2024-10-24T12:16:49-05:00"
+            "date_published": "2020-08-09T10:33:13-05:00",
+            "date_modified": "2024-08-02T22:26:43-05:00"
         },
         {
-            "id": "https://sciencebyjason.com/ellipses-in-algebra.html",
-            "url": "https://sciencebyjason.com/ellipses-in-algebra.html",
-            "title": "Ellipses in Algebra",
-            "summary": "<p>These are my notes on ellipses in algebra.</p>\n",
-            "image": "https://sciencebyjason.com/media/posts/145/trianglify-lowres10.png",
+            "id": "https://sciencebyjason.com/calculus-essentials.html",
+            "url": "https://sciencebyjason.com/calculus-essentials.html",
+            "title": "Basics of Calculus",
+            "summary": "<p>In this calculus essentials series, I introduce and explain in detail the basic concepts that you will need to learn calculus.</p>\n",
+            "image": "https://sciencebyjason.com/media/posts/37/calculus-essentials-0.png",
             "author": {
                 "name": "Jason Moore"
             },
             "tags": [
-                   "Algebra"
             ],
-            "date_published": "2024-10-12T15:32:56-05:00",
-            "date_modified": "2024-10-12T15:47:27-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/work-and-energy-in-physics.html",
-            "url": "https://sciencebyjason.com/work-and-energy-in-physics.html",
-            "title": "Work and Energy in Physics",
-            "summary": "<p>These are my notes on work-energy problems in physics.</p>\n",
-            "image": "https://sciencebyjason.com/media/posts/144/trianglify-lowres10.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Physics"
-            ],
-            "date_published": "2024-10-09T18:26:56-05:00",
-            "date_modified": "2024-10-09T18:34:38-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/parabola-equations-in-algebra.html",
-            "url": "https://sciencebyjason.com/parabola-equations-in-algebra.html",
-            "title": "Parabola Equations in Algebra",
-            "summary": "<p>These are my notes on parabola equations and graphs.</p>\n",
-            "image": "https://sciencebyjason.com/media/posts/143/trianglify-lowres10.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Algebra"
-            ],
-            "date_published": "2024-10-06T14:48:06-05:00",
-            "date_modified": "2024-10-06T14:55:12-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/calculating-work-from-a-physics-viewpoint.html",
-            "url": "https://sciencebyjason.com/calculating-work-from-a-physics-viewpoint.html",
-            "title": "Calculating Work From A Physics Viewpoint",
-            "summary": "<p>These are my notes on work and the definite integral in physics.</p>\n",
-            "image": "https://sciencebyjason.com/media/posts/142/trianglify-lowres9.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Physics"
-            ],
-            "date_published": "2024-10-04T18:35:56-05:00",
-            "date_modified": "2024-10-04T18:51:27-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/determinants-in-algebra.html",
-            "url": "https://sciencebyjason.com/determinants-in-algebra.html",
-            "title": "Determinants in Algebra",
-            "summary": "<p>These is my guide to determinants in algebra.</p>\n",
-            "image": "https://sciencebyjason.com/media/posts/141/trianglify-lowres9.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Algebra"
-            ],
-            "date_published": "2024-10-03T19:47:01-05:00",
-            "date_modified": "2024-10-03T19:49:47-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/apparent-weight-in-physics.html",
-            "url": "https://sciencebyjason.com/apparent-weight-in-physics.html",
-            "title": "Apparent Weight in Physics",
-            "summary": "<p>These are my notes and examples on apparent weight in physics.</p>\n",
-            "image": "https://sciencebyjason.com/media/posts/140/trianglify-lowres9.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Physics"
-            ],
-            "date_published": "2024-09-29T18:38:02-05:00",
-            "date_modified": "2024-10-03T19:54:50-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/inverses-of-matrices-in-algebra.html",
-            "url": "https://sciencebyjason.com/inverses-of-matrices-in-algebra.html",
-            "title": "Inverses of Matrices in Algebra",
-            "summary": "<p>These are my notes on inverses of matrices.</p>\n",
-            "image": "https://sciencebyjason.com/media/posts/139/trianglify-lowres9.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "Algebra"
-            ],
-            "date_published": "2024-09-27T20:23:23-05:00",
-            "date_modified": "2024-10-03T19:54:58-05:00"
+            "date_published": "2020-08-09T10:26:59-05:00",
+            "date_modified": "2024-05-17T13:39:16-05:00"
         }
     ]
 }

@@ -3,207 +3,195 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2024-10-28T23:40:56-05:00</updated>
+    <updated>2025-04-02T16:43:57-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
     <entry>
-        <title>Collisions and Impulse in Physics</title>
+        <title>Introduction to Electronics</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://sciencebyjason.com/collisions-and-impulse-in-physics.html"/>
-        <id>https://sciencebyjason.com/collisions-and-impulse-in-physics.html</id>
-        <media:content url="https://sciencebyjason.com/media/posts/148/trianglify-lowres11.png" medium="image" />
-            <category term="Physics"/>
+        <link href="https://sciencebyjason.com/introduction-to-electronics.html"/>
+        <id>https://sciencebyjason.com/introduction-to-electronics.html</id>
+        <media:content url="https://sciencebyjason.com/media/posts/127/trianglify-lowres3.png" medium="image" />
+            <category term="electronics"/>
 
-        <updated>2024-10-28T23:31:17-05:00</updated>
+        <updated>2024-08-07T18:07:07-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://sciencebyjason.com/media/posts/148/trianglify-lowres11.png" alt="" />
-                    <p>These are my notes on collision and impulse in physics.</p>
+                        <img src="https://sciencebyjason.com/media/posts/127/trianglify-lowres3.png" alt="" />
+                    <p>These are my notes on an introduction to electronics.</p>
 
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>Hyperbolas in Algebra</title>
+        <title>Introduction to Pre-Calculus</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://sciencebyjason.com/hyperbolas-in-algebra.html"/>
-        <id>https://sciencebyjason.com/hyperbolas-in-algebra.html</id>
-        <media:content url="https://sciencebyjason.com/media/posts/147/trianglify-lowres11.png" medium="image" />
+        <link href="https://sciencebyjason.com/introduction-to-precalculus.html"/>
+        <id>https://sciencebyjason.com/introduction-to-precalculus.html</id>
+        <media:content url="https://sciencebyjason.com/media/posts/126/trianglify-lowres2.png" medium="image" />
+            <category term="mathematics"/>
+
+        <updated>2024-08-07T17:41:31-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sciencebyjason.com/media/posts/126/trianglify-lowres2.png" alt="" />
+                    <p>These are my notes on an Introduction to Pre-calculus.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>An Introduction to French</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/an-introduction-to-french.html"/>
+        <id>https://sciencebyjason.com/an-introduction-to-french.html</id>
+
+        <updated>2024-05-03T16:42:42-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">These are my notes on an introduction to French.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>A Guide To Early Biology</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/biology-essentials.html"/>
+        <id>https://sciencebyjason.com/biology-essentials.html</id>
+
+        <updated>2023-12-24T20:55:28-06:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>These are my notes and guides on Biology essentials.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Basics of Statistics</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/statistics-essentials.html"/>
+        <id>https://sciencebyjason.com/statistics-essentials.html</id>
+            <category term="Statistics"/>
+
+        <updated>2023-05-12T16:14:49-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span style="font-weight: 400;">These are my notes and thoughts on an introduction to statistics.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Basics of Chemistry</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/chemistry-essentials.html"/>
+        <id>https://sciencebyjason.com/chemistry-essentials.html</id>
+        <media:content url="https://sciencebyjason.com/media/posts/49/cool-background.svg" medium="image" />
+
+        <updated>2021-04-30T23:00:53-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sciencebyjason.com/media/posts/49/cool-background.svg" alt="" />
+                    <div>This is an introduction to the fundamental concepts of chemistry. This is ideally for those students just beginning with chemistry whether in high school or college. I am including basic concepts as well as some example problems.</div>
+<div>
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Basics of Physics</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/physics-essentials.html"/>
+        <id>https://sciencebyjason.com/physics-essentials.html</id>
+        <media:content url="https://sciencebyjason.com/media/posts/43/Measurements-and-Uncertainty-in-Physics-0.png" medium="image" />
+
+        <updated>2020-09-22T20:56:28-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sciencebyjason.com/media/posts/43/Measurements-and-Uncertainty-in-Physics-0.png" alt="Measurements and Uncertainty in Physics" />
+                    <p>This is my guide on the basics of physics.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Fundamentals of Algebra</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/college-algebra-essentials.html"/>
+        <id>https://sciencebyjason.com/college-algebra-essentials.html</id>
+        <media:content url="https://sciencebyjason.com/media/posts/40/Algebra-Essentials-0.png" medium="image" />
             <category term="Algebra"/>
 
-        <updated>2024-10-26T23:03:42-05:00</updated>
+        <updated>2020-08-14T08:59:38-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://sciencebyjason.com/media/posts/147/trianglify-lowres11.png" alt="" />
-                    <p>These are my notes on hyperbolas in algebra.</p>
+                        <img src="https://sciencebyjason.com/media/posts/40/Algebra-Essentials-0.png" alt="algebra essentials" />
+                    <p>These are my notes and worked problems on Basics of Algebra.</p>
 
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>Center of Mass in Physics</title>
+        <title>Basics of LaTeX</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://sciencebyjason.com/center-of-mass-in-physics.html"/>
-        <id>https://sciencebyjason.com/center-of-mass-in-physics.html</id>
-        <media:content url="https://sciencebyjason.com/media/posts/146/trianglify-lowres11.png" medium="image" />
-            <category term="Physics"/>
+        <link href="https://sciencebyjason.com/latex-essentials.html"/>
+        <id>https://sciencebyjason.com/latex-essentials.html</id>
+        <media:content url="https://sciencebyjason.com/media/posts/38/latex-essentials-0.png" medium="image" />
 
-        <updated>2024-10-24T12:11:53-05:00</updated>
+        <updated>2020-08-09T10:33:13-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://sciencebyjason.com/media/posts/146/trianglify-lowres11.png" alt="" />
-                    <p>These are my notes on the center of mass in physics.</p>
+                        <img src="https://sciencebyjason.com/media/posts/38/latex-essentials-0.png" alt="latex essentials 0" />
+                    <p>These are my notes on the basics of LaTeX.</p>
 
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>Ellipses in Algebra</title>
+        <title>Basics of Calculus</title>
         <author>
             <name>Jason Moore</name>
         </author>
-        <link href="https://sciencebyjason.com/ellipses-in-algebra.html"/>
-        <id>https://sciencebyjason.com/ellipses-in-algebra.html</id>
-        <media:content url="https://sciencebyjason.com/media/posts/145/trianglify-lowres10.png" medium="image" />
-            <category term="Algebra"/>
+        <link href="https://sciencebyjason.com/calculus-essentials.html"/>
+        <id>https://sciencebyjason.com/calculus-essentials.html</id>
+        <media:content url="https://sciencebyjason.com/media/posts/37/calculus-essentials-0.png" medium="image" />
 
-        <updated>2024-10-12T15:32:56-05:00</updated>
+        <updated>2020-08-09T10:26:59-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://sciencebyjason.com/media/posts/145/trianglify-lowres10.png" alt="" />
-                    <p>These are my notes on ellipses in algebra.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Work and Energy in Physics</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/work-and-energy-in-physics.html"/>
-        <id>https://sciencebyjason.com/work-and-energy-in-physics.html</id>
-        <media:content url="https://sciencebyjason.com/media/posts/144/trianglify-lowres10.png" medium="image" />
-            <category term="Physics"/>
-
-        <updated>2024-10-09T18:26:56-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sciencebyjason.com/media/posts/144/trianglify-lowres10.png" alt="" />
-                    <p>These are my notes on work-energy problems in physics.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Parabola Equations in Algebra</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/parabola-equations-in-algebra.html"/>
-        <id>https://sciencebyjason.com/parabola-equations-in-algebra.html</id>
-        <media:content url="https://sciencebyjason.com/media/posts/143/trianglify-lowres10.png" medium="image" />
-            <category term="Algebra"/>
-
-        <updated>2024-10-06T14:48:06-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sciencebyjason.com/media/posts/143/trianglify-lowres10.png" alt="" />
-                    <p>These are my notes on parabola equations and graphs.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Calculating Work From A Physics Viewpoint</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/calculating-work-from-a-physics-viewpoint.html"/>
-        <id>https://sciencebyjason.com/calculating-work-from-a-physics-viewpoint.html</id>
-        <media:content url="https://sciencebyjason.com/media/posts/142/trianglify-lowres9.png" medium="image" />
-            <category term="Physics"/>
-
-        <updated>2024-10-04T18:35:56-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sciencebyjason.com/media/posts/142/trianglify-lowres9.png" alt="" />
-                    <p>These are my notes on work and the definite integral in physics.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Determinants in Algebra</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/determinants-in-algebra.html"/>
-        <id>https://sciencebyjason.com/determinants-in-algebra.html</id>
-        <media:content url="https://sciencebyjason.com/media/posts/141/trianglify-lowres9.png" medium="image" />
-            <category term="Algebra"/>
-
-        <updated>2024-10-03T19:47:01-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sciencebyjason.com/media/posts/141/trianglify-lowres9.png" alt="" />
-                    <p>These is my guide to determinants in algebra.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Apparent Weight in Physics</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/apparent-weight-in-physics.html"/>
-        <id>https://sciencebyjason.com/apparent-weight-in-physics.html</id>
-        <media:content url="https://sciencebyjason.com/media/posts/140/trianglify-lowres9.png" medium="image" />
-            <category term="Physics"/>
-
-        <updated>2024-09-29T18:38:02-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sciencebyjason.com/media/posts/140/trianglify-lowres9.png" alt="" />
-                    <p>These are my notes and examples on apparent weight in physics.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Inverses of Matrices in Algebra</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/inverses-of-matrices-in-algebra.html"/>
-        <id>https://sciencebyjason.com/inverses-of-matrices-in-algebra.html</id>
-        <media:content url="https://sciencebyjason.com/media/posts/139/trianglify-lowres9.png" medium="image" />
-            <category term="Algebra"/>
-
-        <updated>2024-09-27T20:23:23-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sciencebyjason.com/media/posts/139/trianglify-lowres9.png" alt="" />
-                    <p>These are my notes on inverses of matrices.</p>
+                        <img src="https://sciencebyjason.com/media/posts/37/calculus-essentials-0.png" alt="calculus essentials 0" />
+                    <p>In this calculus essentials series, I introduce and explain in detail the basic concepts that you will need to learn calculus.</p>
 
                 ]]>
             </summary>
