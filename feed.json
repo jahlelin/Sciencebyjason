@@ -96,7 +96,7 @@
         {
             "id": "https://sciencebyjason.com/physics-essentials.html",
             "url": "https://sciencebyjason.com/physics-essentials.html",
-            "title": "introduction to Physics",
+            "title": "Introduction to Physics",
             "summary": "<p>This is my guide on the basics of physics.</p>\n",
             "image": "https://sciencebyjason.com/media/posts/43/Measurements-and-Uncertainty-in-Physics-0.png",
             "author": {
@@ -105,7 +105,7 @@
             "tags": [
             ],
             "date_published": "2020-09-22T20:56:28-05:00",
-            "date_modified": "2025-04-08T17:44:38-05:00"
+            "date_modified": "2025-04-30T17:05:34-05:00"
         },
         {
             "id": "https://sciencebyjason.com/college-algebra-essentials.html",
@@ -120,7 +120,7 @@
                    "Algebra"
             ],
             "date_published": "2020-08-14T08:59:38-05:00",
-            "date_modified": "2025-04-08T17:45:06-05:00"
+            "date_modified": "2025-04-30T17:01:08-05:00"
         },
         {
             "id": "https://sciencebyjason.com/latex-essentials.html",
