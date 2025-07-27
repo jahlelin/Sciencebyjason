@@ -22,13 +22,13 @@
                    "electronics"
             ],
             "date_published": "2024-08-07T18:07:07-05:00",
-            "date_modified": "2025-04-03T22:07:55-05:00"
+            "date_modified": "2025-07-27T14:50:57-05:00"
         },
         {
             "id": "https://sciencebyjason.com/introduction-to-precalculus.html",
             "url": "https://sciencebyjason.com/introduction-to-precalculus.html",
-            "title": "Fundamentals of Pre-Calculus",
-            "summary": "<p>These are my notes on an Introduction to Pre-calculus.</p>\n",
+            "title": "Learning Mathematics",
+            "summary": "<p>This is a guide on learning Mathematics.</p>\n",
             "image": "https://sciencebyjason.com/media/posts/126/trianglify-lowres2.png",
             "author": {
                 "name": "Jason Moore"
@@ -37,39 +37,39 @@
                    "mathematics"
             ],
             "date_published": "2024-08-07T17:41:31-05:00",
-            "date_modified": "2025-04-08T17:42:44-05:00"
+            "date_modified": "2025-07-27T14:50:36-05:00"
         },
         {
             "id": "https://sciencebyjason.com/an-introduction-to-french.html",
             "url": "https://sciencebyjason.com/an-introduction-to-french.html",
             "title": "Basics of French",
-            "summary": "<p><span style=\"font-weight: 400;\">These are my notes on an introduction to French.</span></p>\n",
+            "summary": "<p><span style=\"font-weight: 400;\">This is a guide on the basics of French.</span></p>\n",
             "author": {
                 "name": "Jason Moore"
             },
             "tags": [
             ],
             "date_published": "2024-05-03T16:42:42-05:00",
-            "date_modified": "2025-04-08T17:43:09-05:00"
+            "date_modified": "2025-07-27T14:49:19-05:00"
         },
         {
             "id": "https://sciencebyjason.com/biology-essentials.html",
             "url": "https://sciencebyjason.com/biology-essentials.html",
             "title": "Introduction to Biology",
-            "summary": "<p>These are my notes and guides on Biology essentials.</p>\n",
+            "summary": "<p>This is a guide on the introduction to Biology.</p>\n",
             "author": {
                 "name": "Jason Moore"
             },
             "tags": [
             ],
             "date_published": "2023-12-24T20:55:28-06:00",
-            "date_modified": "2025-04-08T17:43:37-05:00"
+            "date_modified": "2025-07-27T14:48:47-05:00"
         },
         {
             "id": "https://sciencebyjason.com/statistics-essentials.html",
             "url": "https://sciencebyjason.com/statistics-essentials.html",
             "title": "Fundamentals of Statistics",
-            "summary": "<p><span style=\"font-weight: 400;\">These are my notes and thoughts on an introduction to statistics.</span></p>\n",
+            "summary": "<p>This is a guide on the fundamentals of Statistics.</p>\n",
             "author": {
                 "name": "Jason Moore"
             },
@@ -77,13 +77,13 @@
                    "Statistics"
             ],
             "date_published": "2023-05-12T16:14:49-05:00",
-            "date_modified": "2025-04-08T17:44:06-05:00"
+            "date_modified": "2025-07-27T14:48:08-05:00"
         },
         {
             "id": "https://sciencebyjason.com/chemistry-essentials.html",
             "url": "https://sciencebyjason.com/chemistry-essentials.html",
             "title": "Basics of Chemistry",
-            "summary": "<div>This is an introduction to the fundamental concepts of chemistry. This is ideally for those students just beginning with chemistry whether in high school or college. I am including basic concepts as well as some example problems.</div>\n<div>",
+            "summary": "<div>This is a guide on the basics of Chemistry.</div>\n<div>",
             "image": "https://sciencebyjason.com/media/posts/49/cool-background.svg",
             "author": {
                 "name": "Jason Moore"
@@ -91,13 +91,13 @@
             "tags": [
             ],
             "date_published": "2021-04-30T23:00:53-05:00",
-            "date_modified": "2025-04-03T22:09:28-05:00"
+            "date_modified": "2025-07-27T14:47:25-05:00"
         },
         {
             "id": "https://sciencebyjason.com/physics-essentials.html",
             "url": "https://sciencebyjason.com/physics-essentials.html",
             "title": "Introduction to Physics",
-            "summary": "<p>This is my guide on the basics of physics.</p>\n",
+            "summary": "<p>This is a guide on the introduction to Physics.</p>\n",
             "image": "https://sciencebyjason.com/media/posts/43/Measurements-and-Uncertainty-in-Physics-0.png",
             "author": {
                 "name": "Jason Moore"
@@ -105,13 +105,13 @@
             "tags": [
             ],
             "date_published": "2020-09-22T20:56:28-05:00",
-            "date_modified": "2025-05-04T18:39:07-05:00"
+            "date_modified": "2025-07-27T14:46:45-05:00"
         },
         {
             "id": "https://sciencebyjason.com/college-algebra-essentials.html",
             "url": "https://sciencebyjason.com/college-algebra-essentials.html",
             "title": "Fundamentals of Algebra",
-            "summary": "<p>These are my notes and worked problems on Basics of Algebra.</p>\n",
+            "summary": "<p>This is a guide on the fundamentals of Algebra.</p>\n",
             "image": "https://sciencebyjason.com/media/posts/40/Algebra-Essentials-0.png",
             "author": {
                 "name": "Jason Moore"
@@ -120,13 +120,13 @@
                    "Algebra"
             ],
             "date_published": "2020-08-14T08:59:38-05:00",
-            "date_modified": "2025-04-30T17:01:08-05:00"
+            "date_modified": "2025-07-27T14:45:07-05:00"
         },
         {
             "id": "https://sciencebyjason.com/latex-essentials.html",
             "url": "https://sciencebyjason.com/latex-essentials.html",
-            "title": "Basics of LaTeX",
-            "summary": "<p>These are my notes on the basics of LaTeX.</p>\n",
+            "title": "Learning LaTeX",
+            "summary": "<p>This is a guide on learning LaTeX.</p>\n",
             "image": "https://sciencebyjason.com/media/posts/38/latex-essentials-0.png",
             "author": {
                 "name": "Jason Moore"
@@ -134,13 +134,13 @@
             "tags": [
             ],
             "date_published": "2020-08-09T10:33:13-05:00",
-            "date_modified": "2025-04-03T22:10:27-05:00"
+            "date_modified": "2025-07-27T14:44:21-05:00"
         },
         {
             "id": "https://sciencebyjason.com/calculus-essentials.html",
             "url": "https://sciencebyjason.com/calculus-essentials.html",
-            "title": "Introduction to Calculus",
-            "summary": "<p>In this calculus essentials series, I introduce and explain in detail the basic concepts that you will need to learn calculus.</p>\n",
+            "title": "Learning Calculus",
+            "summary": "<p>This is a guide on learning Calculus.</p>\n",
             "image": "https://sciencebyjason.com/media/posts/37/calculus-essentials-0.png",
             "author": {
                 "name": "Jason Moore"
@@ -148,7 +148,7 @@
             "tags": [
             ],
             "date_published": "2020-08-09T10:26:59-05:00",
-            "date_modified": "2025-04-08T17:45:34-05:00"
+            "date_modified": "2025-07-27T14:43:08-05:00"
         }
     ]
 }
