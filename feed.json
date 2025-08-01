@@ -27,7 +27,7 @@
         {
             "id": "https://sciencebyjason.com/introduction-to-precalculus.html",
             "url": "https://sciencebyjason.com/introduction-to-precalculus.html",
-            "title": "Learning Mathematics",
+            "title": "Learning Pre-Calculus",
             "summary": "<p>This is a guide on learning Mathematics.</p>\n",
             "image": "https://sciencebyjason.com/media/posts/126/trianglify-lowres2.png",
             "author": {
@@ -37,7 +37,7 @@
                    "mathematics"
             ],
             "date_published": "2024-08-07T17:41:31-05:00",
-            "date_modified": "2025-07-27T14:50:36-05:00"
+            "date_modified": "2025-07-31T22:13:33-05:00"
         },
         {
             "id": "https://sciencebyjason.com/an-introduction-to-french.html",
@@ -139,7 +139,7 @@
         {
             "id": "https://sciencebyjason.com/calculus-essentials.html",
             "url": "https://sciencebyjason.com/calculus-essentials.html",
-            "title": "Learning Calculus",
+            "title": "Learning Basic Mathematics",
             "summary": "<p>This is a guide on learning Calculus.</p>\n",
             "image": "https://sciencebyjason.com/media/posts/37/calculus-essentials-0.png",
             "author": {
@@ -148,7 +148,7 @@
             "tags": [
             ],
             "date_published": "2020-08-09T10:26:59-05:00",
-            "date_modified": "2025-07-27T14:43:08-05:00"
+            "date_modified": "2025-07-31T22:22:15-05:00"
         }
     ]
 }
