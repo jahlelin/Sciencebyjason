@@ -139,8 +139,8 @@
         {
             "id": "https://sciencebyjason.com/calculus-essentials.html",
             "url": "https://sciencebyjason.com/calculus-essentials.html",
-            "title": "Learning Basic Mathematics",
-            "summary": "<p>This is a guide on learning Calculus.</p>\n",
+            "title": "Learning Mathematics",
+            "summary": "<p>This is a guide on learning mathematics.</p>\n",
             "image": "https://sciencebyjason.com/media/posts/37/calculus-essentials-0.png",
             "author": {
                 "name": "Jason Moore"
@@ -148,7 +148,7 @@
             "tags": [
             ],
             "date_published": "2020-08-09T10:26:59-05:00",
-            "date_modified": "2025-08-02T20:17:07-05:00"
+            "date_modified": "2025-08-03T16:20:42-05:00"
         }
     ]
 }

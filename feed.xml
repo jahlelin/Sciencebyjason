@@ -3,7 +3,7 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2025-08-02T20:17:07-05:00</updated>
+    <updated>2025-08-03T16:20:42-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
@@ -179,7 +179,7 @@
         <content></content>
     </entry>
     <entry>
-        <title>Learning Basic Mathematics</title>
+        <title>Learning Mathematics</title>
         <author>
             <name>Jason Moore</name>
         </author>
@@ -191,7 +191,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/37/calculus-essentials-0.png" alt="calculus essentials 0" />
-                    <p>This is a guide on learning Calculus.</p>
+                    <p>This is a guide on learning mathematics.</p>
 
                 ]]>
             </summary>
