@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/solving-equations-with-two-unknowns.html",
+            "url": "https://sciencebyjason.com/solving-equations-with-two-unknowns.html",
+            "title": "Solving Equations with Two Unknowns",
+            "summary": "<p>This is a guide on solving equations with two unknowns.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "mathematics"
+            ],
+            "date_published": "2026-10-05T22:32:05-05:00",
+            "date_modified": "2026-10-05T22:32:48-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/introduction-to-electronics.html",
             "url": "https://sciencebyjason.com/introduction-to-electronics.html",
             "title": "Introduction to Electronics",
@@ -135,21 +149,6 @@
             ],
             "date_published": "2020-08-09T10:33:13-05:00",
             "date_modified": "2025-07-27T14:44:21-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/calculus-essentials.html",
-            "url": "https://sciencebyjason.com/calculus-essentials.html",
-            "title": "Learning Mathematics",
-            "summary": "<p>This is a guide on learning mathematics.</p>\n",
-            "image": "https://sciencebyjason.com/media/posts/37/calculus-essentials-0.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "mathematics"
-            ],
-            "date_published": "2020-08-09T10:26:59-05:00",
-            "date_modified": "2026-04-02T19:59:16-05:00"
         }
     ]
 }

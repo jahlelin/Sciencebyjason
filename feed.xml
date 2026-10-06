@@ -3,12 +3,30 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2026-04-02T19:59:16-05:00</updated>
+    <updated>2026-10-05T22:32:48-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Solving Equations with Two Unknowns</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/solving-equations-with-two-unknowns.html"/>
+        <id>https://sciencebyjason.com/solving-equations-with-two-unknowns.html</id>
+            <category term="mathematics"/>
+
+        <updated>2026-10-05T22:32:05-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on solving equations with two unknowns.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Introduction to Electronics</title>
         <author>
@@ -173,26 +191,6 @@
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/38/latex-essentials-0.png" alt="latex essentials 0" />
                     <p>This is a guide on learning LaTeX.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Learning Mathematics</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/calculus-essentials.html"/>
-        <id>https://sciencebyjason.com/calculus-essentials.html</id>
-        <media:content url="https://sciencebyjason.com/media/posts/37/calculus-essentials-0.png" medium="image" />
-            <category term="mathematics"/>
-
-        <updated>2020-08-09T10:26:59-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sciencebyjason.com/media/posts/37/calculus-essentials-0.png" alt="calculus essentials 0" />
-                    <p>This is a guide on learning mathematics.</p>
 
                 ]]>
             </summary>
