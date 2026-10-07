@@ -3,12 +3,30 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2026-10-05T22:32:48-05:00</updated>
+    <updated>2026-10-06T20:54:15-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Solving Equations with Three Unknowns</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/solving-equations-with-three-unknowns.html"/>
+        <id>https://sciencebyjason.com/solving-equations-with-three-unknowns.html</id>
+            <category term="mathematics"/>
+
+        <updated>2026-10-06T20:53:35-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p><span class="">This is a guide on solving equations with three unknowns.</span></p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Solving Equations with Two Unknowns</title>
         <author>
@@ -172,25 +190,6 @@
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/40/Algebra-Essentials-0.png" alt="algebra essentials" />
                     <p>This is a guide on the fundamentals of Algebra.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Learning LaTeX</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/latex-essentials.html"/>
-        <id>https://sciencebyjason.com/latex-essentials.html</id>
-        <media:content url="https://sciencebyjason.com/media/posts/38/latex-essentials-0.png" medium="image" />
-
-        <updated>2020-08-09T10:33:13-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sciencebyjason.com/media/posts/38/latex-essentials-0.png" alt="latex essentials 0" />
-                    <p>This is a guide on learning LaTeX.</p>
 
                 ]]>
             </summary>

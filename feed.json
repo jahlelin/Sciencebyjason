@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/solving-equations-with-three-unknowns.html",
+            "url": "https://sciencebyjason.com/solving-equations-with-three-unknowns.html",
+            "title": "Solving Equations with Three Unknowns",
+            "summary": "<p><span class=\"\">This is a guide on solving equations with three unknowns.</span></p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "mathematics"
+            ],
+            "date_published": "2026-10-06T20:53:35-05:00",
+            "date_modified": "2026-10-06T20:54:15-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/solving-equations-with-two-unknowns.html",
             "url": "https://sciencebyjason.com/solving-equations-with-two-unknowns.html",
             "title": "Solving Equations with Two Unknowns",
@@ -135,20 +149,6 @@
             ],
             "date_published": "2020-08-14T08:59:38-05:00",
             "date_modified": "2025-07-27T14:45:07-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/latex-essentials.html",
-            "url": "https://sciencebyjason.com/latex-essentials.html",
-            "title": "Learning LaTeX",
-            "summary": "<p>This is a guide on learning LaTeX.</p>\n",
-            "image": "https://sciencebyjason.com/media/posts/38/latex-essentials-0.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-08-09T10:33:13-05:00",
-            "date_modified": "2025-07-27T14:44:21-05:00"
         }
     ]
 }
