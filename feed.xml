@@ -3,12 +3,30 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2026-10-06T20:54:15-05:00</updated>
+    <updated>2026-10-08T20:04:18-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Real Number System</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/real-number-system.html"/>
+        <id>https://sciencebyjason.com/real-number-system.html</id>
+            <category term="mathematics"/>
+
+        <updated>2026-10-08T20:03:24-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on the real number system.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Solving Equations with Three Unknowns</title>
         <author>
@@ -170,26 +188,6 @@
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/43/Measurements-and-Uncertainty-in-Physics-0.png" alt="Measurements and Uncertainty in Physics" />
                     <p>This is a guide on the introduction to Physics.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Fundamentals of Algebra</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/college-algebra-essentials.html"/>
-        <id>https://sciencebyjason.com/college-algebra-essentials.html</id>
-        <media:content url="https://sciencebyjason.com/media/posts/40/Algebra-Essentials-0.png" medium="image" />
-            <category term="Algebra"/>
-
-        <updated>2020-08-14T08:59:38-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sciencebyjason.com/media/posts/40/Algebra-Essentials-0.png" alt="algebra essentials" />
-                    <p>This is a guide on the fundamentals of Algebra.</p>
 
                 ]]>
             </summary>
