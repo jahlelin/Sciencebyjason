@@ -3,12 +3,30 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2026-10-08T20:04:18-05:00</updated>
+    <updated>2026-10-10T01:26:24-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Positive Real Numbers</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/positive-real-numbers.html"/>
+        <id>https://sciencebyjason.com/positive-real-numbers.html</id>
+            <category term="mathematics"/>
+
+        <updated>2026-10-10T01:25:30-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on positive real numbers.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Real Number System</title>
         <author>
@@ -170,25 +188,6 @@
                         <img src="https://sciencebyjason.com/media/posts/49/cool-background.svg" alt="" />
                     <div>This is a guide on the basics of Chemistry.</div>
 <div>
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Introduction to Physics</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/physics-essentials.html"/>
-        <id>https://sciencebyjason.com/physics-essentials.html</id>
-        <media:content url="https://sciencebyjason.com/media/posts/43/Measurements-and-Uncertainty-in-Physics-0.png" medium="image" />
-
-        <updated>2020-09-22T20:56:28-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sciencebyjason.com/media/posts/43/Measurements-and-Uncertainty-in-Physics-0.png" alt="Measurements and Uncertainty in Physics" />
-                    <p>This is a guide on the introduction to Physics.</p>
-
                 ]]>
             </summary>
         <content></content>
