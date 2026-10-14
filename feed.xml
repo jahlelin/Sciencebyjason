@@ -3,12 +3,30 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2026-10-10T01:26:24-05:00</updated>
+    <updated>2026-10-13T21:52:10-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Exponents, Roots, and Rational Powers</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/powers-and-roots.html"/>
+        <id>https://sciencebyjason.com/powers-and-roots.html</id>
+            <category term="mathematics"/>
+
+        <updated>2026-10-13T21:45:50-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on exponents, roots, and rational powers.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Positive Real Numbers</title>
         <author>
@@ -169,25 +187,6 @@
                 <![CDATA[
                     <p>This is a guide on the fundamentals of Statistics.</p>
 
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Basics of Chemistry</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/chemistry-essentials.html"/>
-        <id>https://sciencebyjason.com/chemistry-essentials.html</id>
-        <media:content url="https://sciencebyjason.com/media/posts/49/cool-background.svg" medium="image" />
-
-        <updated>2021-04-30T23:00:53-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sciencebyjason.com/media/posts/49/cool-background.svg" alt="" />
-                    <div>This is a guide on the basics of Chemistry.</div>
-<div>
                 ]]>
             </summary>
         <content></content>

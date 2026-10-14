@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/powers-and-roots.html",
+            "url": "https://sciencebyjason.com/powers-and-roots.html",
+            "title": "Exponents, Roots, and Rational Powers",
+            "summary": "<p>This is a guide on exponents, roots, and rational powers.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "mathematics"
+            ],
+            "date_published": "2026-10-13T21:45:50-05:00",
+            "date_modified": "2026-10-13T21:52:10-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/positive-real-numbers.html",
             "url": "https://sciencebyjason.com/positive-real-numbers.html",
             "title": "Positive Real Numbers",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2023-05-12T16:14:49-05:00",
             "date_modified": "2025-07-27T14:48:08-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/chemistry-essentials.html",
-            "url": "https://sciencebyjason.com/chemistry-essentials.html",
-            "title": "Basics of Chemistry",
-            "summary": "<div>This is a guide on the basics of Chemistry.</div>\n<div>",
-            "image": "https://sciencebyjason.com/media/posts/49/cool-background.svg",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-04-30T23:00:53-05:00",
-            "date_modified": "2025-07-27T14:47:25-05:00"
         }
     ]
 }
