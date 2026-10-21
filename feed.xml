@@ -3,12 +3,30 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2026-10-14T22:58:23-05:00</updated>
+    <updated>2026-10-20T21:11:57-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Quadratic Equation</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/quadratic-equation.html"/>
+        <id>https://sciencebyjason.com/quadratic-equation.html</id>
+            <category term="mathematics"/>
+
+        <updated>2026-10-20T21:10:21-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on quadratic equations.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Inequalities</title>
         <author>
@@ -169,23 +187,6 @@
             <summary>
                 <![CDATA[
                     <p><span style="font-weight: 400;">This is a guide on the basics of French.</span></p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Introduction to Biology</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/biology-essentials.html"/>
-        <id>https://sciencebyjason.com/biology-essentials.html</id>
-
-        <updated>2023-12-24T20:55:28-06:00</updated>
-            <summary>
-                <![CDATA[
-                    <p>This is a guide on the introduction to Biology.</p>
 
                 ]]>
             </summary>

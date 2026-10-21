@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/quadratic-equation.html",
+            "url": "https://sciencebyjason.com/quadratic-equation.html",
+            "title": "Quadratic Equation",
+            "summary": "<p>This is a guide on quadratic equations.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "mathematics"
+            ],
+            "date_published": "2026-10-20T21:10:21-05:00",
+            "date_modified": "2026-10-20T21:11:57-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/inequalities.html",
             "url": "https://sciencebyjason.com/inequalities.html",
             "title": "Inequalities",
@@ -135,19 +149,6 @@
             ],
             "date_published": "2024-05-03T16:42:42-05:00",
             "date_modified": "2026-04-01T21:10:50-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/biology-essentials.html",
-            "url": "https://sciencebyjason.com/biology-essentials.html",
-            "title": "Introduction to Biology",
-            "summary": "<p>This is a guide on the introduction to Biology.</p>\n",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-12-24T20:55:28-06:00",
-            "date_modified": "2025-07-27T14:48:47-05:00"
         }
     ]
 }
