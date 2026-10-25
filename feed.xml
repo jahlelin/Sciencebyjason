@@ -3,12 +3,30 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2026-10-20T21:11:57-05:00</updated>
+    <updated>2026-10-24T19:43:10-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Logic in Mathematics</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/logic.html"/>
+        <id>https://sciencebyjason.com/logic.html</id>
+            <category term="mathematics"/>
+
+        <updated>2026-10-24T19:40:48-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on logic in mathematics.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Quadratic Equation</title>
         <author>
@@ -170,23 +188,6 @@
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/126/trianglify-lowres2.png" alt="" />
                     <p>This is a guide on learning Mathematics.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Basics of French</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/an-introduction-to-french.html"/>
-        <id>https://sciencebyjason.com/an-introduction-to-french.html</id>
-
-        <updated>2024-05-03T16:42:42-05:00</updated>
-            <summary>
-                <![CDATA[
-                    <p><span style="font-weight: 400;">This is a guide on the basics of French.</span></p>
 
                 ]]>
             </summary>
