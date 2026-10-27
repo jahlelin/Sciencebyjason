@@ -3,12 +3,30 @@
     <title>Science By Jason</title>
     <link href="https://sciencebyjason.com/feed.xml" rel="self" />
     <link href="https://sciencebyjason.com" />
-    <updated>2026-10-24T19:43:10-05:00</updated>
+    <updated>2026-10-26T20:16:27-05:00</updated>
     <author>
         <name>Jason Moore</name>
     </author>
     <id>https://sciencebyjason.com</id>
 
+    <entry>
+        <title>Equality in Mathematics</title>
+        <author>
+            <name>Jason Moore</name>
+        </author>
+        <link href="https://sciencebyjason.com/equality-in-mathematics.html"/>
+        <id>https://sciencebyjason.com/equality-in-mathematics.html</id>
+            <category term="mathematics"/>
+
+        <updated>2026-10-26T20:15:38-05:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>This is a guide on equality in mathematics.</p>
+
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Logic in Mathematics</title>
         <author>
@@ -168,26 +186,6 @@
                 <![CDATA[
                         <img src="https://sciencebyjason.com/media/posts/127/trianglify-lowres3.png" alt="" />
                     <p>These are my notes on an introduction to electronics.</p>
-
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Learning Pre-Calculus</title>
-        <author>
-            <name>Jason Moore</name>
-        </author>
-        <link href="https://sciencebyjason.com/introduction-to-precalculus.html"/>
-        <id>https://sciencebyjason.com/introduction-to-precalculus.html</id>
-        <media:content url="https://sciencebyjason.com/media/posts/126/trianglify-lowres2.png" medium="image" />
-            <category term="mathematics"/>
-
-        <updated>2024-08-07T17:41:31-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sciencebyjason.com/media/posts/126/trianglify-lowres2.png" alt="" />
-                    <p>This is a guide on learning Mathematics.</p>
 
                 ]]>
             </summary>

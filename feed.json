@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://sciencebyjason.com/equality-in-mathematics.html",
+            "url": "https://sciencebyjason.com/equality-in-mathematics.html",
+            "title": "Equality in Mathematics",
+            "summary": "<p>This is a guide on equality in mathematics.</p>\n",
+            "author": {
+                "name": "Jason Moore"
+            },
+            "tags": [
+                   "mathematics"
+            ],
+            "date_published": "2026-10-26T20:15:38-05:00",
+            "date_modified": "2026-10-26T20:16:27-05:00"
+        },
+        {
             "id": "https://sciencebyjason.com/logic.html",
             "url": "https://sciencebyjason.com/logic.html",
             "title": "Logic in Mathematics",
@@ -135,21 +149,6 @@
             ],
             "date_published": "2024-08-07T18:07:07-05:00",
             "date_modified": "2025-07-27T14:50:57-05:00"
-        },
-        {
-            "id": "https://sciencebyjason.com/introduction-to-precalculus.html",
-            "url": "https://sciencebyjason.com/introduction-to-precalculus.html",
-            "title": "Learning Pre-Calculus",
-            "summary": "<p>This is a guide on learning Mathematics.</p>\n",
-            "image": "https://sciencebyjason.com/media/posts/126/trianglify-lowres2.png",
-            "author": {
-                "name": "Jason Moore"
-            },
-            "tags": [
-                   "mathematics"
-            ],
-            "date_published": "2024-08-07T17:41:31-05:00",
-            "date_modified": "2025-07-31T22:13:33-05:00"
         }
     ]
 }
